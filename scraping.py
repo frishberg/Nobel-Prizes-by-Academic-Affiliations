@@ -42,14 +42,15 @@ def scrape_laureates() :
             year = str(row.find('td'))
             year = year[year.index('>')+1:]
             year = int(year[:year.index('<')-1])
-            n = 0 #keeping track of the column number in this row so that category can be determined (ex. 0 is physics)
+            n = -1 #keeping track of the column number in this row so that category can be determined (ex. 0 is physics).  It also has to start at -1 because the first column is the year
 
             for square in row.find_all('td') :
                 category = categories[n]
                 laureates = square.find_all('a')
                 for laureate in laureates :
                     link = laureate.get('href')
-                    s+=link + " (" + category + " " + str(year) + ")\n" #ex. /wiki/Wilhelm_R%C3%B6ntgen (Physics 1901)
+                    if ("#" not in link) : #avoiding links like #cite_note-15
+                        s+=link + " (" + category + " " + str(year) + ")\n" #ex. /wiki/Wilhelm_R%C3%B6ntgen (Physics 1901)
                 n+=1
         except :
             pass
@@ -134,7 +135,7 @@ def scrape_wiki_data(link) :
     
     #getting the category and year
     
-    return alma_matters, institutions, category, year
+    return alma_matters, institutions
 
 #takes in a name, like Wilhelm R%C3%B6ntgen and returns Wilhelm Rontgen.  Gets rid of annoying unicode characters
 def clean_up(s) :
@@ -147,14 +148,15 @@ def main() :
     #scrape_laureates() #retrieves all the wikipedia links of the laureates and saves them to "laureates.txt"
     f = open("laureates.txt", "r", encoding="utf-8")
     for link in f.readlines() :
-        print(link)
-        link = "https://en.wikipedia.org" + link.strip()
+        category, year = link[link.rindex("(")+1:link.rindex(")")].split(" ")
+        link = link[:link.rindex("(")].strip() #getting rid of the category and year (ex. /wiki/Wilhelm_R%C3%B6ntgen (Chemistry 1901) -> /wiki/Wilhelm_R%C3%B6ntgen)
+        link = "https://en.wikipedia.org" + link
         name = clean_up(link[link.index("/wiki/")+6:]).replace("_", " ") #getting rid of stuff like H%C3%A4 and replacing _ with spaces
-        cur_alma_matters, cur_institutions, category, year = scrape_wiki_data(link)
+        cur_alma_matters, cur_institutions = scrape_wiki_data(link)
         json_data[name] = {}
         json_data[name]["link"] = link
         json_data[name]["category"] = category
-        json_data[name]["year"] = year
+        json_data[name]["year"] = int(year)
         json_data[name]["alma_matters"] = cur_alma_matters
         json_data[name]["institutions"] = cur_institutions
     f.close()
@@ -162,5 +164,5 @@ def main() :
     f.write(json.dumps(json_data))
     f.close()
 
-#main()
-scrape_laureates()
+main()
+#scrape_laureates()
