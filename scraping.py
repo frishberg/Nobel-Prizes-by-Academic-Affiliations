@@ -2,6 +2,7 @@ import requests
 import json
 from unidecode import unidecode
 import urllib.parse
+from bs4 import BeautifulSoup
 
 exclude_list = [
     "/wiki/Bachelor_of_",
@@ -28,15 +29,37 @@ def find_all_links(s) :
     return links
 
 def scrape_laureates() :
-    f = open("laureates.txt", "w", encoding="utf-8")
+    categories = ["Physics", "Chemistry", "Medicine", "Literature", "Peace", "Economics"]
     s = ""
     url = "https://en.wikipedia.org/wiki/List_of_Nobel_laureates#Laureates"
     source = scrape(url)
-    source = source[source.index('<td align="center">1901'):]
-    source = source[:source.index('<th width="16%"><a href="/wiki/List_of_Nobel_laureates_in_Physics" title="List of Nobel laureates in Physics">Physics</a>')]
-    links = find_all_links(source)
-    for link in links :
-        s += link + "\n"
+    source = source[source.index('<tbody>'):]
+    source = source[:source.index('</tbody>')]
+    soup = BeautifulSoup(source, 'html.parser')
+    rows = soup.find_all('tr')
+    for row in rows :
+        try :
+            year = str(row.find('td'))
+            year = year[year.index('>')+1:]
+            year = int(year[:year.index('<')-1])
+            n = 0 #keeping track of the column number in this row so that category can be determined (ex. 0 is physics)
+
+            for square in row.find_all('td') :
+                category = categories[n]
+                laureates = square.find_all('a')
+                for laureate in laureates :
+                    link = laureate.get('href')
+                    s+=link + " (" + category + " " + str(year) + ")\n" #ex. /wiki/Wilhelm_R%C3%B6ntgen (Physics 1901)
+                n+=1
+        except :
+            pass
+        
+        f = open("laureates.txt", "w", encoding="utf-8")
+        f.write(s)
+        f.close()
+
+    
+    f = open("laureates.txt", "w", encoding="utf-8")
     f.write(s)
     f.close()
 
@@ -110,34 +133,7 @@ def scrape_wiki_data(link) :
         print("No institutions found for " + link)
     
     #getting the category and year
-    temp_source = source[source.index('Awards'):]
-    if ("/wiki/Nobel_Prize_in_" in temp_source) : #chemistry, physics, literature, medicine
-        temp_source = temp_source[temp_source.index("/wiki/Nobel_Prize_in_")+21:]
-        print(temp_source)
-        category = temp_source[:temp_source.index('"')]
-        temp_source = temp_source[temp_source.index('(')+1:]
-        try :
-            year = int(temp_source[:temp_source.index(')')])
-        except :
-            print("No prize year found for " + link)
-    elif ("/wiki/Nobel_Memorial_Prize_in_Economic_Sciences" in temp_source) : #economics
-        category = "Economics"
-        temp_source = temp_source[temp_source.index("/wiki/Nobel_Memorial_Prize_in_Economic_Sciences")+45:]
-        temp_source = temp_source[temp_source.index('(')+1:]
-        try :
-            year = int(temp_source[:temp_source.index(')')])
-        except :
-            print("No prize year found for " + link)
-    elif ("/wiki/Nobel_Peace_Prize" in temp_source) : #peace
-        category = "Peace"
-        temp_source = temp_source[temp_source.index("/wiki/Nobel_Peace_Prize")+23:]
-        temp_source = temp_source[temp_source.index('(')+1:]
-        try :
-            year = int(temp_source[:temp_source.index(')')])
-        except :
-            print("No prize year found for " + link)
-    else :
-        raise Exception("Category not found for " + link)
+    
     return alma_matters, institutions, category, year
 
 #takes in a name, like Wilhelm R%C3%B6ntgen and returns Wilhelm Rontgen.  Gets rid of annoying unicode characters
@@ -167,4 +163,4 @@ def main() :
     f.close()
 
 #main()
-print(scrape_wiki_data("https://en.wikipedia.org/wiki/Philip_H._Dybvig"))
+scrape_laureates()

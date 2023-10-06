@@ -1,990 +1,915 @@
-/wiki/Wilhelm_R%C3%B6ntgen
-/wiki/Jacobus_Henricus_van_%27t_Hoff
-/wiki/Emil_von_Behring
-/wiki/Sully_Prudhomme
-/wiki/Henry_Dunant
-/wiki/Fr%C3%A9d%C3%A9ric_Passy
-/wiki/Hendrik_Lorentz
-/wiki/Pieter_Zeeman
-/wiki/Emil_Fischer
-/wiki/Ronald_Ross
-/wiki/Theodor_Mommsen
-/wiki/%C3%89lie_Ducommun
-/wiki/Charles_Albert_Gobat
-/wiki/Henri_Becquerel
-/wiki/Pierre_Curie
-/wiki/Marie_Curie
-/wiki/Svante_Arrhenius
-/wiki/Niels_Ryberg_Finsen
-/wiki/Bj%C3%B8rnstjerne_Bj%C3%B8rnson
-/wiki/Randal_Cremer
-/wiki/John_Strutt,_3rd_Baron_Rayleigh
-/wiki/William_Ramsay
-/wiki/Ivan_Pavlov
-/wiki/Fr%C3%A9d%C3%A9ric_Mistral
-/wiki/Jos%C3%A9_Echegaray
-/wiki/Institut_de_Droit_International
-/wiki/Philipp_Lenard
-/wiki/Adolf_von_Baeyer
-/wiki/Robert_Koch
-/wiki/Henryk_Sienkiewicz
-/wiki/Bertha_von_Suttner
-/wiki/J._J._Thomson
-/wiki/Henri_Moissan
-/wiki/Camillo_Golgi
-/wiki/Santiago_Ram%C3%B3n_y_Cajal
-/wiki/Giosu%C3%A8_Carducci
-/wiki/Theodore_Roosevelt
-/wiki/Albert_A._Michelson
-/wiki/Eduard_Buchner
-/wiki/Charles_Louis_Alphonse_Laveran
-/wiki/Rudyard_Kipling
-/wiki/Ernesto_Teodoro_Moneta
-/wiki/Louis_Renault_(jurist)
-/wiki/Gabriel_Lippmann
-/wiki/Ernest_Rutherford
-/wiki/%C3%89lie_Metchnikoff
-/wiki/Paul_Ehrlich
-/wiki/Rudolf_Christoph_Eucken
-/wiki/Klas_Pontus_Arnoldson
-/wiki/Fredrik_Bajer
-/wiki/Karl_Ferdinand_Braun
-/wiki/Guglielmo_Marconi
-/wiki/Wilhelm_Ostwald
-/wiki/Emil_Theodor_Kocher
-/wiki/Selma_Lagerl%C3%B6f
-/wiki/Auguste_Beernaert
-/wiki/Paul_Henri_Balluet_d%27Estournelles_de_Constant
-/wiki/Johannes_Diderik_van_der_Waals
-/wiki/Otto_Wallach
-/wiki/Albrecht_Kossel
-/wiki/Paul_Heyse
-/wiki/International_Peace_Bureau
-/wiki/Wilhelm_Wien
-/wiki/Allvar_Gullstrand
-/wiki/Maurice_Maeterlinck
-/wiki/Tobias_Asser
-/wiki/Alfred_Hermann_Fried
-/wiki/Gustaf_Dal%C3%A9n
-/wiki/Victor_Grignard
-/wiki/Paul_Sabatier_(chemist)
-/wiki/Alexis_Carrel
-/wiki/Gerhart_Hauptmann
-/wiki/Elihu_Root
-/wiki/Heike_Kamerlingh_Onnes
-/wiki/Alfred_Werner
-/wiki/Charles_Richet
-/wiki/Rabindranath_Tagore
-/wiki/Henri_La_Fontaine
-/wiki/Max_von_Laue
-/wiki/Theodore_William_Richards
-/wiki/Robert_B%C3%A1r%C3%A1ny
-/wiki/William_Henry_Bragg
-/wiki/Lawrence_Bragg
-/wiki/Richard_Willst%C3%A4tter
-/wiki/Romain_Rolland
-/wiki/Verner_von_Heidenstam
-/wiki/Charles_Glover_Barkla
-/wiki/Karl_Adolph_Gjellerup
-/wiki/Henrik_Pontoppidan
-/wiki/International_Committee_of_the_Red_Cross
-/wiki/Max_Planck
-/wiki/Fritz_Haber
-/wiki/Johannes_Stark
-/wiki/Jules_Bordet
-/wiki/Carl_Spitteler
-/wiki/Woodrow_Wilson
-/wiki/Charles_%C3%89douard_Guillaume
-/wiki/Walther_Nernst
-/wiki/August_Krogh
-/wiki/Knut_Hamsun
-/wiki/L%C3%A9on_Bourgeois
-/wiki/Albert_Einstein
-/wiki/Frederick_Soddy
-/wiki/Anatole_France
-/wiki/Hjalmar_Branting
-/wiki/Christian_Lous_Lange
-/wiki/Niels_Bohr
-/wiki/Francis_William_Aston
-/wiki/Archibald_Hill
-/wiki/Otto_Fritz_Meyerhof
-/wiki/Jacinto_Benavente
-/wiki/Fridtjof_Nansen
-/wiki/Robert_Andrews_Millikan
-/wiki/Fritz_Pregl
-/wiki/Frederick_Banting
-/wiki/John_Macleod_(physiologist)
-/wiki/W._B._Yeats
-/wiki/Manne_Siegbahn
-/wiki/Willem_Einthoven
-/wiki/W%C5%82adys%C5%82aw_Reymont
-/wiki/James_Franck
-/wiki/Gustav_Ludwig_Hertz
-/wiki/Richard_Adolf_Zsigmondy
-/wiki/George_Bernard_Shaw
-/wiki/Austen_Chamberlain
-/wiki/Charles_G._Dawes
-/wiki/Jean_Baptiste_Perrin
-/wiki/Theodor_Svedberg
-/wiki/Johannes_Fibiger
-/wiki/Grazia_Deledda
-/wiki/Aristide_Briand
-/wiki/Gustav_Stresemann
-/wiki/Arthur_Compton
-/wiki/Charles_Thomson_Rees_Wilson
-/wiki/Heinrich_Otto_Wieland
-/wiki/Julius_Wagner-Jauregg
-/wiki/Henri_Bergson
-/wiki/Ferdinand_Buisson
-/wiki/Ludwig_Quidde
-/wiki/Owen_Willans_Richardson
-/wiki/Adolf_Windaus
-/wiki/Charles_Nicolle
-/wiki/Sigrid_Undset
-/wiki/Louis_de_Broglie
-/wiki/Arthur_Harden
-/wiki/Hans_von_Euler-Chelpin
-/wiki/Christiaan_Eijkman
-/wiki/Frederick_Gowland_Hopkins
-/wiki/Thomas_Mann
-/wiki/Frank_B._Kellogg
-/wiki/C._V._Raman
-/wiki/Hans_Fischer
-/wiki/Karl_Landsteiner
-/wiki/Sinclair_Lewis
-/wiki/Nathan_S%C3%B6derblom
-/wiki/Carl_Bosch
-/wiki/Friedrich_Bergius
-/wiki/Otto_Heinrich_Warburg
-/wiki/Erik_Axel_Karlfeldt
-/wiki/Jane_Addams
-/wiki/Nicholas_Murray_Butler
-/wiki/Werner_Heisenberg
-/wiki/Irving_Langmuir
-/wiki/Charles_Scott_Sherrington
-/wiki/Edgar_Adrian
-/wiki/John_Galsworthy
-/wiki/Erwin_Schr%C3%B6dinger
-/wiki/Paul_Dirac
-/wiki/Thomas_Hunt_Morgan
-/wiki/Ivan_Bunin
-/wiki/Norman_Angell
-/wiki/Harold_Urey
-/wiki/George_Whipple
-/wiki/George_Minot
-/wiki/William_P._Murphy
-/wiki/Luigi_Pirandello
-/wiki/Arthur_Henderson
-/wiki/James_Chadwick
-/wiki/Fr%C3%A9d%C3%A9ric_Joliot-Curie
-/wiki/Ir%C3%A8ne_Joliot-Curie
-/wiki/Hans_Spemann
-/wiki/Carl_von_Ossietzky
-/wiki/Victor_Francis_Hess
-/wiki/Carl_David_Anderson
-/wiki/Peter_Debye
-/wiki/Henry_Hallett_Dale
-/wiki/Otto_Loewi
-/wiki/Eugene_O%27Neill
-/wiki/Carlos_Saavedra_Lamas
-/wiki/Clinton_Davisson
-/wiki/George_Paget_Thomson
-/wiki/Norman_Haworth
-/wiki/Paul_Karrer
-/wiki/Albert_Szent-Gy%C3%B6rgyi
-/wiki/Roger_Martin_du_Gard
-/wiki/Robert_Cecil,_1st_Viscount_Cecil_of_Chelwood
-/wiki/Enrico_Fermi
-/wiki/Richard_Kuhn
-/wiki/Corneille_Heymans
-/wiki/Pearl_S._Buck
-/wiki/Nansen_International_Office_for_Refugees
-/wiki/Ernest_Lawrence
-/wiki/Adolf_Butenandt
-/wiki/Leopold_Ru%C5%BEi%C4%8Dka
-/wiki/Gerhard_Domagk
-/wiki/Frans_Eemil_Sillanp%C3%A4%C3%A4
-/wiki/Otto_Stern
-/wiki/George_de_Hevesy
-/wiki/Henrik_Dam
-/wiki/Edward_Adelbert_Doisy
-/wiki/Isidor_Isaac_Rabi
-/wiki/Otto_Hahn
-/wiki/Joseph_Erlanger
-/wiki/Herbert_Spencer_Gasser
-/wiki/Johannes_V._Jensen
-/wiki/Wolfgang_Pauli
-/wiki/Artturi_Ilmari_Virtanen
-/wiki/Alexander_Fleming
-/wiki/Ernst_Chain
-/wiki/Howard_Florey
-/wiki/Gabriela_Mistral
-/wiki/Cordell_Hull
-/wiki/Percy_Williams_Bridgman
-/wiki/James_B._Sumner
-/wiki/John_Howard_Northrop
-/wiki/Wendell_Meredith_Stanley
-/wiki/Hermann_Joseph_Muller
-/wiki/Hermann_Hesse
-/wiki/Emily_Greene_Balch
-/wiki/John_Mott
-/wiki/Edward_Victor_Appleton
-/wiki/Robert_Robinson_(organic_chemist)
-/wiki/Carl_Ferdinand_Cori
-/wiki/Gerty_Cori
-/wiki/Bernardo_Houssay
-/wiki/Andr%C3%A9_Gide
-/wiki/Quaker_Peace_and_Social_Witness
-/wiki/American_Friends_Service_Committee
-/wiki/Patrick_Blackett
-/wiki/Arne_Tiselius
-/wiki/Paul_Hermann_M%C3%BCller
-/wiki/T._S._Eliot
-/wiki/Hideki_Yukawa
-/wiki/William_Giauque
-/wiki/Walter_Rudolf_Hess
-/wiki/Ant%C3%B3nio_Egas_Moniz
-/wiki/William_Faulkner
-/wiki/John_Boyd_Orr
-/wiki/C._F._Powell
-/wiki/Otto_Diels
-/wiki/Kurt_Alder
-/wiki/Philip_Showalter_Hench
-/wiki/Edward_Calvin_Kendall
-/wiki/Tadeus_Reichstein
-/wiki/Bertrand_Russell
-/wiki/Ralph_Bunche
-/wiki/John_Cockcroft
-/wiki/Ernest_Walton
-/wiki/Edwin_McMillan
-/wiki/Glenn_T._Seaborg
-/wiki/Max_Theiler
-/wiki/P%C3%A4r_Lagerkvist
-/wiki/L%C3%A9on_Jouhaux
-/wiki/Felix_Bloch
-/wiki/Edward_Mills_Purcell
-/wiki/Archer_Martin
-/wiki/Richard_Laurence_Millington_Synge
-/wiki/Selman_Waksman
-/wiki/Fran%C3%A7ois_Mauriac
-/wiki/Albert_Schweitzer
-/wiki/Frits_Zernike
-/wiki/Hermann_Staudinger
-/wiki/Hans_Adolf_Krebs
-/wiki/Fritz_Albert_Lipmann
-/wiki/Winston_Churchill
-/wiki/George_Marshall
-/wiki/Max_Born
-/wiki/Walther_Bothe
-/wiki/Linus_Pauling
-/wiki/John_Franklin_Enders
-/wiki/Frederick_Chapman_Robbins
-/wiki/Thomas_Huckle_Weller
-/wiki/Ernest_Hemingway
-/wiki/United_Nations_High_Commissioner_for_Refugees
-/wiki/Willis_Lamb
-/wiki/Polykarp_Kusch
-/wiki/Vincent_du_Vigneaud
-/wiki/Hugo_Theorell
-/wiki/Halld%C3%B3r_Laxness
-/wiki/John_Bardeen
-/wiki/Walter_Houser_Brattain
-/wiki/William_Shockley
-/wiki/Cyril_Norman_Hinshelwood
-/wiki/Nikolay_Semyonov
-/wiki/Andr%C3%A9_Fr%C3%A9d%C3%A9ric_Cournand
-/wiki/Werner_Forssmann
-/wiki/Dickinson_W._Richards
-/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez
-/wiki/Yang_Chen-Ning
-/wiki/Tsung-Dao_Lee
-/wiki/Alexander_R._Todd
-/wiki/Daniel_Bovet
-/wiki/Albert_Camus
-/wiki/Lester_B._Pearson
-/wiki/Pavel_Cherenkov
-/wiki/Ilya_Frank
-/wiki/Igor_Tamm
-/wiki/Frederick_Sanger
-/wiki/George_Beadle
-/wiki/Edward_Tatum
-/wiki/Joshua_Lederberg
-/wiki/Boris_Pasternak
-/wiki/Dominique_Pire
-/wiki/Emilio_Segr%C3%A8
-/wiki/Owen_Chamberlain
-/wiki/Jaroslav_Heyrovsk%C3%BD
-/wiki/Arthur_Kornberg
-/wiki/Severo_Ochoa
-/wiki/Salvatore_Quasimodo
-/wiki/Philip_Noel-Baker
-/wiki/Donald_A._Glaser
-/wiki/Willard_Libby
-/wiki/Macfarlane_Burnet
-/wiki/Peter_Medawar
-/wiki/Saint-John_Perse
-/wiki/Albert_Lutuli
-/wiki/Robert_Hofstadter
-/wiki/Rudolf_M%C3%B6ssbauer
-/wiki/Melvin_Calvin
-/wiki/Georg_von_B%C3%A9k%C3%A9sy
-/wiki/Ivo_Andri%C4%87
-/wiki/Dag_Hammarskj%C3%B6ld
-/wiki/Lev_Landau
-/wiki/Max_Perutz
-/wiki/John_Kendrew
-/wiki/Francis_Crick
-/wiki/James_Watson
-/wiki/Maurice_Wilkins
-/wiki/John_Steinbeck
-/wiki/Eugene_Wigner
-/wiki/Maria_Goeppert_Mayer
-/wiki/J._Hans_D._Jensen
-/wiki/Karl_Ziegler
-/wiki/Giulio_Natta
-/wiki/John_Eccles_(neurophysiologist)
-/wiki/Alan_Hodgkin
-/wiki/Andrew_Huxley
-/wiki/Giorgos_Seferis
-/wiki/International_Federation_of_Red_Cross_and_Red_Crescent_Societies
-/wiki/Charles_H._Townes
-/wiki/Nikolay_Basov
-/wiki/Alexander_Prokhorov
-/wiki/Dorothy_Hodgkin
-/wiki/Konrad_Emil_Bloch
-/wiki/Feodor_Lynen
-/wiki/Jean-Paul_Sartre
-/wiki/Martin_Luther_King_Jr.
-/wiki/Shin%27ichir%C5%8D_Tomonaga
-/wiki/Julian_Schwinger
-/wiki/Richard_Feynman
-/wiki/Robert_Burns_Woodward
-/wiki/Fran%C3%A7ois_Jacob
-/wiki/Andr%C3%A9_Michel_Lwoff
-/wiki/Jacques_Monod
-/wiki/Mikhail_Sholokhov
-/wiki/UNICEF
-/wiki/Alfred_Kastler
-/wiki/Robert_S._Mulliken
-/wiki/Francis_Peyton_Rous
-/wiki/Charles_Brenton_Huggins
-/wiki/Shmuel_Yosef_Agnon
-/wiki/Nelly_Sachs
-/wiki/Hans_Bethe
-/wiki/Manfred_Eigen
-/wiki/Ronald_George_Wreyford_Norrish
-/wiki/George_Porter
-/wiki/Ragnar_Granit
-/wiki/Haldan_Keffer_Hartline
-/wiki/George_Wald
-/wiki/Miguel_%C3%81ngel_Asturias
-/wiki/Luis_Walter_Alvarez
-/wiki/Lars_Onsager
-/wiki/Robert_W._Holley
-/wiki/Har_Gobind_Khorana
-/wiki/Marshall_Warren_Nirenberg
-/wiki/Yasunari_Kawabata
-/wiki/Ren%C3%A9_Cassin
-/wiki/Murray_Gell-Mann
-/wiki/Derek_Barton
-/wiki/Odd_Hassel
-/wiki/Max_Delbr%C3%BCck
-/wiki/Alfred_Hershey
-/wiki/Salvador_Luria
-/wiki/Samuel_Beckett
-/wiki/International_Labour_Organization
-/wiki/Ragnar_Frisch
-/wiki/Jan_Tinbergen
-/wiki/Hannes_Alfv%C3%A9n
-/wiki/Louis_N%C3%A9el
-/wiki/Luis_Federico_Leloir
-/wiki/Julius_Axelrod
-/wiki/Ulf_von_Euler
-/wiki/Bernard_Katz
-/wiki/Aleksandr_Solzhenitsyn
-/wiki/Norman_Borlaug
-/wiki/Paul_Samuelson
-/wiki/Dennis_Gabor
-/wiki/Gerhard_Herzberg
-/wiki/Earl_Wilbur_Sutherland_Jr.
-/wiki/Pablo_Neruda
-/wiki/Willy_Brandt
-/wiki/Simon_Kuznets
-/wiki/Leon_Cooper
-/wiki/John_Robert_Schrieffer
-/wiki/Christian_B._Anfinsen
-/wiki/Stanford_Moore
-/wiki/William_Howard_Stein
-/wiki/Gerald_Edelman
-/wiki/Rodney_Robert_Porter
-/wiki/Heinrich_B%C3%B6ll
-/wiki/John_Hicks
-/wiki/Kenneth_Arrow
-/wiki/Leo_Esaki
-/wiki/Ivar_Giaever
-/wiki/Brian_Josephson
-/wiki/Ernst_Otto_Fischer
-/wiki/Geoffrey_Wilkinson
-/wiki/Karl_von_Frisch
-/wiki/Konrad_Lorenz
-/wiki/Nikolaas_Tinbergen
-/wiki/Patrick_White
-/wiki/Henry_Kissinger
-/wiki/L%C3%AA_%C4%90%E1%BB%A9c_Th%E1%BB%8D
-/wiki/Wassily_Leontief
-/wiki/Martin_Ryle
-/wiki/Antony_Hewish
-/wiki/Paul_Flory
-/wiki/Albert_Claude
-/wiki/Christian_de_Duve
-/wiki/George_Emil_Palade
-/wiki/Eyvind_Johnson
-/wiki/Harry_Martinson
-/wiki/Se%C3%A1n_MacBride
-/wiki/Eisaku_Sat%C5%8D
-/wiki/Gunnar_Myrdal
-/wiki/Friedrich_Hayek
-/wiki/Aage_Bohr
-/wiki/Ben_Roy_Mottelson
-/wiki/James_Rainwater
-/wiki/John_Cornforth
-/wiki/Vladimir_Prelog
-/wiki/David_Baltimore
-/wiki/Renato_Dulbecco
-/wiki/Howard_Martin_Temin
-/wiki/Eugenio_Montale
-/wiki/Andrei_Sakharov
-/wiki/Leonid_Kantorovich
-/wiki/Tjalling_Koopmans
-/wiki/Burton_Richter
-/wiki/Samuel_C._C._Ting
-/wiki/William_Lipscomb
-/wiki/Baruch_Samuel_Blumberg
-/wiki/Daniel_Carleton_Gajdusek
-/wiki/Saul_Bellow
-/wiki/Betty_Williams_(peace_activist)
-/wiki/Mairead_Maguire
-/wiki/Milton_Friedman
-/wiki/Philip_W._Anderson
-/wiki/Nevill_Francis_Mott
-/wiki/John_Hasbrouck_Van_Vleck
-/wiki/Ilya_Prigogine
-/wiki/Roger_Guillemin
-/wiki/Andrew_Schally
-/wiki/Rosalyn_Sussman_Yalow
-/wiki/Vicente_Aleixandre
-/wiki/Amnesty_International
-/wiki/Bertil_Ohlin
-/wiki/James_Meade
-/wiki/Pyotr_Kapitsa
-/wiki/Arno_Allan_Penzias
-/wiki/Robert_Woodrow_Wilson
-/wiki/Peter_D._Mitchell
-/wiki/Werner_Arber
-/wiki/Daniel_Nathans
-/wiki/Hamilton_O._Smith
-/wiki/Isaac_Bashevis_Singer
-/wiki/Anwar_Sadat
-/wiki/Menachem_Begin
-/wiki/Herbert_A._Simon
-/wiki/Sheldon_Glashow
-/wiki/Abdus_Salam
-/wiki/Steven_Weinberg
-/wiki/Herbert_C._Brown
-/wiki/Georg_Wittig
-/wiki/Allan_McLeod_Cormack
-/wiki/Godfrey_Hounsfield
-/wiki/Odysseas_Elytis
-/wiki/Mother_Teresa
-/wiki/Theodore_Schultz
-/wiki/W._Arthur_Lewis
-/wiki/James_Cronin
-/wiki/Val_Logsdon_Fitch
-/wiki/Paul_Berg
-/wiki/Walter_Gilbert
-/wiki/Baruj_Benacerraf
-/wiki/Jean_Dausset
-/wiki/George_Davis_Snell
-/wiki/Czes%C5%82aw_Mi%C5%82osz
-/wiki/Adolfo_P%C3%A9rez_Esquivel
-/wiki/Lawrence_Klein
-/wiki/Nicolaas_Bloembergen
-/wiki/Arthur_Leonard_Schawlow
-/wiki/Kai_Siegbahn
-/wiki/Kenichi_Fukui
-/wiki/Roald_Hoffmann
-/wiki/Roger_Wolcott_Sperry
-/wiki/David_H._Hubel
-/wiki/Torsten_Wiesel
-/wiki/Elias_Canetti
-/wiki/James_Tobin
-/wiki/Kenneth_G._Wilson
-/wiki/Aaron_Klug
-/wiki/Sune_Bergstr%C3%B6m
-/wiki/Bengt_I._Samuelsson
-/wiki/John_Vane
-/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez
-/wiki/Alva_Myrdal
-/wiki/Alfonso_Garc%C3%ADa_Robles
-/wiki/George_Stigler
-/wiki/Subrahmanyan_Chandrasekhar
-/wiki/William_Alfred_Fowler
-/wiki/Henry_Taube
-/wiki/Barbara_McClintock
-/wiki/William_Golding
-/wiki/Lech_Wa%C5%82%C4%99sa
-/wiki/G%C3%A9rard_Debreu
-/wiki/Carlo_Rubbia
-/wiki/Simon_van_der_Meer
-/wiki/Robert_Bruce_Merrifield
-/wiki/Niels_Kaj_Jerne
-/wiki/Georges_J._F._K%C3%B6hler
-/wiki/C%C3%A9sar_Milstein
-/wiki/Jaroslav_Seifert
-/wiki/Desmond_Tutu
-/wiki/Richard_Stone
-/wiki/Klaus_von_Klitzing
-/wiki/Herbert_A._Hauptman
-/wiki/Jerome_Karle
-/wiki/Michael_Stuart_Brown
-/wiki/Joseph_L._Goldstein
-/wiki/Claude_Simon
-/wiki/International_Physicians_for_the_Prevention_of_Nuclear_War
-/wiki/Franco_Modigliani
-/wiki/Ernst_Ruska
-/wiki/Gerd_Binnig
-/wiki/Heinrich_Rohrer
-/wiki/Dudley_R._Herschbach
-/wiki/Yuan_T._Lee
-/wiki/John_Polanyi
-/wiki/Stanley_Cohen_(biochemist)
-/wiki/Rita_Levi-Montalcini
-/wiki/Wole_Soyinka
-/wiki/Elie_Wiesel
-/wiki/James_M._Buchanan
-/wiki/Georg_Bednorz
-/wiki/K._Alex_M%C3%BCller
-/wiki/Donald_J._Cram
-/wiki/Jean-Marie_Lehn
-/wiki/Charles_J._Pedersen
-/wiki/Susumu_Tonegawa
-/wiki/Joseph_Brodsky
-/wiki/%C3%93scar_Arias
-/wiki/Robert_Solow
-/wiki/Leon_M._Lederman
-/wiki/Melvin_Schwartz
-/wiki/Jack_Steinberger
-/wiki/Johann_Deisenhofer
-/wiki/Robert_Huber
-/wiki/Hartmut_Michel
-/wiki/James_W._Black
-/wiki/Gertrude_B._Elion
-/wiki/George_H._Hitchings
-/wiki/Naguib_Mahfouz
-/wiki/United_Nations_peacekeeping
-/wiki/Maurice_Allais
-/wiki/Norman_Ramsey_Jr.
-/wiki/Hans_Georg_Dehmelt
-/wiki/Wolfgang_Paul
-/wiki/Sidney_Altman
-/wiki/Thomas_Cech
-/wiki/J._Michael_Bishop
-/wiki/Harold_E._Varmus
-/wiki/Camilo_Jos%C3%A9_Cela
-/wiki/14th_Dalai_Lama
-/wiki/Trygve_Haavelmo
-/wiki/Jerome_Isaac_Friedman
-/wiki/Henry_Way_Kendall
-/wiki/Richard_E._Taylor
-/wiki/Elias_James_Corey
-/wiki/Joseph_Murray
-/wiki/E._Donnall_Thomas
-/wiki/Octavio_Paz
-/wiki/Mikhail_Gorbachev
-/wiki/Harry_Markowitz
-/wiki/Merton_Miller
-/wiki/William_F._Sharpe
-/wiki/Pierre-Gilles_de_Gennes
-/wiki/Richard_R._Ernst
-/wiki/Erwin_Neher
-/wiki/Bert_Sakmann
-/wiki/Nadine_Gordimer
-/wiki/Aung_San_Suu_Kyi
-/wiki/Ronald_Coase
-/wiki/Georges_Charpak
-/wiki/Rudolph_A._Marcus
-/wiki/Edmond_H._Fischer
-/wiki/Edwin_G._Krebs
-/wiki/Derek_Walcott
-/wiki/Rigoberta_Mench%C3%BA
-/wiki/Gary_Becker
-/wiki/Russell_Alan_Hulse
-/wiki/Joseph_Hooton_Taylor_Jr.
-/wiki/Kary_Mullis
-/wiki/Michael_Smith_(chemist)
-/wiki/Richard_J._Roberts
-/wiki/Phillip_Allen_Sharp
-/wiki/Toni_Morrison
-/wiki/Nelson_Mandela
-/wiki/F._W._de_Klerk
-/wiki/Robert_Fogel
-/wiki/Douglass_North
-/wiki/Bertram_Brockhouse
-/wiki/Clifford_Shull
-/wiki/George_Andrew_Olah
-/wiki/Alfred_G._Gilman
-/wiki/Martin_Rodbell
-/wiki/Kenzabur%C5%8D_%C5%8Ce
-/wiki/Yasser_Arafat
-/wiki/Shimon_Peres
-/wiki/Yitzhak_Rabin
-/wiki/John_Harsanyi
-/wiki/John_Forbes_Nash_Jr.
-/wiki/Reinhard_Selten
-/wiki/Martin_Lewis_Perl
-/wiki/Frederick_Reines
-/wiki/Paul_J._Crutzen
-/wiki/Mario_J._Molina
-/wiki/F._Sherwood_Rowland
-/wiki/Edward_B._Lewis
-/wiki/Christiane_N%C3%BCsslein-Volhard
-/wiki/Eric_F._Wieschaus
-/wiki/Seamus_Heaney
-/wiki/Joseph_Rotblat
-/wiki/Pugwash_Conferences_on_Science_and_World_Affairs
-/wiki/Robert_Lucas_Jr.
-/wiki/David_Lee_(physicist)
-/wiki/Douglas_Osheroff
-/wiki/Robert_Coleman_Richardson
-/wiki/Robert_Curl
-/wiki/Harry_Kroto
-/wiki/Richard_Smalley
-/wiki/Peter_C._Doherty
-/wiki/Rolf_M._Zinkernagel
-/wiki/Wis%C5%82awa_Szymborska
-/wiki/Carlos_Filipe_Ximenes_Belo
-/wiki/Jos%C3%A9_Ramos-Horta
-/wiki/James_Mirrlees
-/wiki/William_Vickrey
-/wiki/Steven_Chu
-/wiki/Claude_Cohen-Tannoudji
-/wiki/William_Daniel_Phillips
-/wiki/Paul_D._Boyer
-/wiki/John_E._Walker
-/wiki/Jens_Christian_Skou
-/wiki/Stanley_B._Prusiner
-/wiki/Dario_Fo
-/wiki/International_Campaign_to_Ban_Landmines
-/wiki/Jody_Williams
-/wiki/Robert_C._Merton
-/wiki/Myron_Scholes
-/wiki/Robert_B._Laughlin
-/wiki/Horst_Ludwig_St%C3%B6rmer
-/wiki/Daniel_C._Tsui
-/wiki/Walter_Kohn
-/wiki/John_Pople
-/wiki/Robert_F._Furchgott
-/wiki/Louis_Ignarro
-/wiki/Ferid_Murad
-/wiki/Jos%C3%A9_Saramago
-/wiki/John_Hume
-/wiki/David_Trimble
-/wiki/Amartya_Sen
-/wiki/Gerard_%27t_Hooft
-/wiki/Martinus_J._G._Veltman
-/wiki/Ahmed_Zewail
-/wiki/G%C3%BCnter_Blobel
-/wiki/G%C3%BCnter_Grass
-/wiki/M%C3%A9decins_Sans_Fronti%C3%A8res
-/wiki/Robert_Mundell
-/wiki/Jack_Kilby
-/wiki/Zhores_Alferov
-/wiki/Herbert_Kroemer
-/wiki/Alan_J._Heeger
-/wiki/Alan_MacDiarmid
-/wiki/Hideki_Shirakawa
-/wiki/Arvid_Carlsson
-/wiki/Paul_Greengard
-/wiki/Eric_Kandel
-/wiki/Gao_Xingjian
-/wiki/Kim_Dae-jung
-/wiki/James_Heckman
-/wiki/Daniel_McFadden
-/wiki/Eric_Allin_Cornell
-/wiki/Wolfgang_Ketterle
-/wiki/Carl_Wieman
-/wiki/William_Standish_Knowles
-/wiki/Ry%C5%8Dji_Noyori
-/wiki/Karl_Barry_Sharpless
-/wiki/Leland_H._Hartwell
-/wiki/Tim_Hunt
-/wiki/Paul_Nurse
-/wiki/V._S._Naipaul
-/wiki/United_Nations
-/wiki/Kofi_Annan
-/wiki/George_Akerlof
-/wiki/Michael_Spence
-/wiki/Joseph_Stiglitz
-/wiki/Riccardo_Giacconi
-/wiki/Raymond_Davis_Jr.
-/wiki/Masatoshi_Koshiba
-/wiki/John_B._Fenn
-/wiki/Koichi_Tanaka
-/wiki/Kurt_W%C3%BCthrich
-/wiki/Sydney_Brenner
-/wiki/H._Robert_Horvitz
-/wiki/John_Sulston
-/wiki/Imre_Kert%C3%A9sz
-/wiki/Jimmy_Carter
-/wiki/Daniel_Kahneman
-/wiki/Vernon_L._Smith
-/wiki/Alexei_Abrikosov_(physicist)
-/wiki/Vitaly_Ginzburg
-/wiki/Anthony_James_Leggett
-/wiki/Peter_Agre
-/wiki/Roderick_MacKinnon
-/wiki/Paul_Lauterbur
-/wiki/Peter_Mansfield
-/wiki/J._M._Coetzee
-/wiki/Shirin_Ebadi
-/wiki/Robert_F._Engle
-/wiki/Clive_Granger
-/wiki/David_Gross
-/wiki/Hugh_David_Politzer
-/wiki/Frank_Wilczek
-/wiki/Aaron_Ciechanover
-/wiki/Avram_Hershko
-/wiki/Irwin_Rose
-/wiki/Richard_Axel
-/wiki/Linda_B._Buck
-/wiki/Elfriede_Jelinek
-/wiki/Wangari_Maathai
-/wiki/Finn_E._Kydland
-/wiki/Edward_C._Prescott
-/wiki/Roy_J._Glauber
-/wiki/John_L._Hall
-/wiki/Theodor_W._H%C3%A4nsch
-/wiki/Yves_Chauvin
-/wiki/Robert_H._Grubbs
-/wiki/Richard_R._Schrock
-/wiki/Barry_Marshall
-/wiki/Robin_Warren
-/wiki/Harold_Pinter
-/wiki/International_Atomic_Energy_Agency
-/wiki/Mohamed_ElBaradei
-/wiki/Robert_Aumann
-/wiki/Thomas_Schelling
-/wiki/John_C._Mather
-/wiki/George_Smoot
-/wiki/Roger_D._Kornberg
-/wiki/Andrew_Fire
-/wiki/Craig_Mello
-/wiki/Orhan_Pamuk
-/wiki/Muhammad_Yunus
-/wiki/Grameen_Bank
-/wiki/Edmund_Phelps
-/wiki/Albert_Fert
-/wiki/Peter_Gr%C3%BCnberg
-/wiki/Gerhard_Ertl
-/wiki/Mario_Capecchi
-/wiki/Martin_Evans
-/wiki/Oliver_Smithies
-/wiki/Doris_Lessing
-/wiki/Intergovernmental_Panel_on_Climate_Change
-/wiki/Al_Gore
-/wiki/Leonid_Hurwicz
-/wiki/Eric_Maskin
-/wiki/Roger_Myerson
-/wiki/Yoichiro_Nambu
-/wiki/Makoto_Kobayashi_(physicist)
-/wiki/Toshihide_Maskawa
-/wiki/Osamu_Shimomura
-/wiki/Martin_Chalfie
-/wiki/Roger_Y._Tsien
-/wiki/Harald_zur_Hausen
-/wiki/Fran%C3%A7oise_Barr%C3%A9-Sinoussi
-/wiki/Luc_Montagnier
-/wiki/J._M._G._Le_Cl%C3%A9zio
-/wiki/Martti_Ahtisaari
-/wiki/Paul_Krugman
-/wiki/Charles_K._Kao
-/wiki/Willard_Boyle
-/wiki/George_E._Smith
-/wiki/Venkatraman_Ramakrishnan
-/wiki/Thomas_A._Steitz
-/wiki/Ada_Yonath
-/wiki/Elizabeth_Blackburn
-/wiki/Carol_W._Greider
-/wiki/Jack_W._Szostak
-/wiki/Herta_M%C3%BCller
-/wiki/Barack_Obama
-/wiki/Elinor_Ostrom
-/wiki/Oliver_E._Williamson
-/wiki/Andre_Geim
-/wiki/Konstantin_Novoselov
-/wiki/Richard_F._Heck
-/wiki/Ei-ichi_Negishi
-/wiki/Akira_Suzuki_(chemist)
-/wiki/Robert_Edwards_(physiologist)
-/wiki/Mario_Vargas_Llosa
-/wiki/Liu_Xiaobo
-/wiki/Peter_Diamond
-/wiki/Dale_T._Mortensen
-/wiki/Christopher_A._Pissarides
-/wiki/Saul_Perlmutter
-/wiki/Adam_Riess
-/wiki/Brian_Schmidt
-/wiki/Dan_Shechtman
-/wiki/Bruce_Beutler
-/wiki/Jules_A._Hoffmann
-/wiki/Ralph_M._Steinman
-/wiki/Tomas_Transtr%C3%B6mer
-/wiki/Ellen_Johnson_Sirleaf
-/wiki/Leymah_Gbowee
-/wiki/Tawakel_Karman
-/wiki/Thomas_J._Sargent
-/wiki/Christopher_A._Sims
-/wiki/Serge_Haroche
-/wiki/David_J._Wineland
-/wiki/Brian_Kobilka
-/wiki/Robert_Lefkowitz
-/wiki/John_Gurdon
-/wiki/Shinya_Yamanaka
-/wiki/Mo_Yan
-/wiki/European_Union
-/wiki/Alvin_E._Roth
-/wiki/Lloyd_Shapley
-/wiki/Fran%C3%A7ois_Englert
-/wiki/Peter_Higgs
-/wiki/Martin_Karplus
-/wiki/Michael_Levitt
-/wiki/Arieh_Warshel
-/wiki/James_Rothman
-/wiki/Randy_W._Schekman
-/wiki/Thomas_C._S%C3%BCdhof
-/wiki/Alice_Munro
-/wiki/Organisation_for_the_Prohibition_of_Chemical_Weapons
-/wiki/Eugene_Fama
-/wiki/Lars_Peter_Hansen
-/wiki/Robert_Shiller
-/wiki/Isamu_Akasaki
-/wiki/Hiroshi_Amano
-/wiki/Shuji_Nakamura
-/wiki/Eric_Betzig
-/wiki/Stefan_Hell
-/wiki/William_Moerner
-/wiki/John_O%27Keefe_(neuroscientist)
-/wiki/May-Britt_Moser
-/wiki/Edvard_Moser
-/wiki/Patrick_Modiano
-/wiki/Kailash_Satyarthi
-/wiki/Malala_Yousafzai
-/wiki/Jean_Tirole
-/wiki/Takaaki_Kajita
-/wiki/Arthur_B._McDonald
-/wiki/Tomas_Lindahl
-/wiki/Paul_Modrich
-/wiki/Aziz_Sancar
-/wiki/William_C._Campbell_(scientist)
-/wiki/Satoshi_%C5%8Cmura
-/wiki/Tu_Youyou
-/wiki/Svetlana_Alexievich
-/wiki/Tunisian_National_Dialogue_Quartet
-/wiki/Angus_Deaton
-/wiki/David_J._Thouless
-/wiki/Duncan_Haldane
-/wiki/John_M._Kosterlitz
-/wiki/Jean-Pierre_Sauvage
-/wiki/Fraser_Stoddart
-/wiki/Ben_Feringa
-/wiki/Yoshinori_Ohsumi
-/wiki/Bob_Dylan
-/wiki/Juan_Manuel_Santos
-/wiki/Oliver_Hart_(economist)
-/wiki/Bengt_R._Holmstr%C3%B6m
-/wiki/Rainer_Weiss
-/wiki/Barry_Barish
-/wiki/Kip_Thorne
-/wiki/Jacques_Dubochet
-/wiki/Joachim_Frank
-/wiki/Richard_Henderson_(biologist)
-/wiki/Jeffrey_C._Hall
-/wiki/Michael_Rosbash
-/wiki/Michael_W._Young
-/wiki/Kazuo_Ishiguro
-/wiki/International_Campaign_to_Abolish_Nuclear_Weapons
-/wiki/Richard_Thaler
-/wiki/Arthur_Ashkin
-/wiki/G%C3%A9rard_Mourou
-/wiki/Donna_Strickland
-/wiki/Frances_H._Arnold
-/wiki/George_Smith_(chemist)
-/wiki/Greg_Winter
-/wiki/James_P._Allison
-/wiki/Tasuku_Honjo
-/wiki/Olga_Tokarczuk
-/wiki/Denis_Mukwege
-/wiki/Nadia_Murad
-/wiki/William_Nordhaus
-/wiki/Paul_Romer
-/wiki/Jim_Peebles
-/wiki/Michel_Mayor
-/wiki/Didier_Queloz
-/wiki/John_B._Goodenough
-/wiki/M._Stanley_Whittingham
-/wiki/Akira_Yoshino
-/wiki/William_Kaelin_Jr.
-/wiki/Peter_J._Ratcliffe
-/wiki/Gregg_L._Semenza
-/wiki/Peter_Handke
-/wiki/Abiy_Ahmed
-/wiki/Abhijit_Banerjee
-/wiki/Esther_Duflo
-/wiki/Michael_Kremer
-/wiki/Roger_Penrose
-/wiki/Reinhard_Genzel
-/wiki/Andrea_M._Ghez
-/wiki/Emmanuelle_Charpentier
-/wiki/Jennifer_Doudna
-/wiki/Harvey_J._Alter
-/wiki/Michael_Houghton_(virologist)
-/wiki/Charles_M._Rice
-/wiki/Louise_Gl%C3%BCck
-/wiki/World_Food_Programme
-/wiki/Paul_Milgrom
-/wiki/Robert_B._Wilson
-/wiki/Giorgio_Parisi
-/wiki/Klaus_Hasselmann
-/wiki/Syukuro_Manabe
-/wiki/Benjamin_List
-/wiki/David_MacMillan
-/wiki/David_Julius
-/wiki/Ardem_Patapoutian
-/wiki/Abdulrazak_Gurnah
-/wiki/Maria_Ressa
-/wiki/Dmitry_Muratov
-/wiki/David_Card
-/wiki/Joshua_Angrist
-/wiki/Guido_Imbens
-/wiki/Alain_Aspect
-/wiki/John_Clauser
-/wiki/Anton_Zeilinger
-/wiki/Carolyn_Bertozzi
-/wiki/Morten_P._Meldal
-/wiki/Svante_P%C3%A4%C3%A4bo
-/wiki/Annie_Ernaux
-/wiki/Ales_Bialiatski
-/wiki/Memorial_(society)
-/wiki/Center_for_Civil_Liberties_(human_rights_organization)
-/wiki/Ben_Bernanke
-/wiki/Douglas_Diamond
-/wiki/Philip_H._Dybvig
-/wiki/Pierre_Agostini
-/wiki/Ferenc_Krausz
-/wiki/Anne_L%27Huillier
-/wiki/Moungi_Bawendi
-/wiki/Louis_E._Brus
-/wiki/Alexey_Ekimov
-/wiki/Katalin_Karik%C3%B3
-/wiki/Drew_Weissman
-/wiki/Jon_Fosse
+/wiki/Wilhelm_R%C3%B6ntgen (Chemistry 1901)
+/wiki/Jacobus_Henricus_van_%27t_Hoff (Medicine 1901)
+/wiki/Emil_von_Behring (Literature 1901)
+/wiki/Sully_Prudhomme (Peace 1901)
+/wiki/Henry_Dunant (Economics 1901)
+/wiki/Fr%C3%A9d%C3%A9ric_Passy (Economics 1901)
+/wiki/Hendrik_Lorentz (Chemistry 1902)
+/wiki/Pieter_Zeeman (Chemistry 1902)
+/wiki/Emil_Fischer (Medicine 1902)
+/wiki/Ronald_Ross (Literature 1902)
+/wiki/Theodor_Mommsen (Peace 1902)
+/wiki/%C3%89lie_Ducommun (Economics 1902)
+/wiki/Charles_Albert_Gobat (Economics 1902)
+/wiki/Henri_Becquerel (Chemistry 1903)
+/wiki/Pierre_Curie (Chemistry 1903)
+/wiki/Marie_Curie (Chemistry 1903)
+/wiki/Svante_Arrhenius (Medicine 1903)
+/wiki/Niels_Ryberg_Finsen (Literature 1903)
+/wiki/Bj%C3%B8rnstjerne_Bj%C3%B8rnson (Peace 1903)
+/wiki/Randal_Cremer (Economics 1903)
+/wiki/John_Strutt,_3rd_Baron_Rayleigh (Chemistry 1904)
+/wiki/William_Ramsay (Medicine 1904)
+/wiki/Ivan_Pavlov (Literature 1904)
+/wiki/Fr%C3%A9d%C3%A9ric_Mistral (Peace 1904)
+/wiki/Jos%C3%A9_Echegaray (Peace 1904)
+/wiki/Institut_de_Droit_International (Economics 1904)
+/wiki/Philipp_Lenard (Chemistry 1905)
+/wiki/Adolf_von_Baeyer (Medicine 1905)
+/wiki/Robert_Koch (Literature 1905)
+/wiki/Henryk_Sienkiewicz (Peace 1905)
+/wiki/Bertha_von_Suttner (Economics 1905)
+/wiki/J._J._Thomson (Chemistry 1906)
+/wiki/Henri_Moissan (Medicine 1906)
+/wiki/Camillo_Golgi (Literature 1906)
+/wiki/Santiago_Ram%C3%B3n_y_Cajal (Literature 1906)
+/wiki/Giosu%C3%A8_Carducci (Peace 1906)
+/wiki/Theodore_Roosevelt (Economics 1906)
+/wiki/Albert_A._Michelson (Chemistry 1907)
+/wiki/Eduard_Buchner (Medicine 1907)
+/wiki/Charles_Louis_Alphonse_Laveran (Literature 1907)
+/wiki/Rudyard_Kipling (Peace 1907)
+/wiki/Ernesto_Teodoro_Moneta (Economics 1907)
+/wiki/Louis_Renault_(jurist) (Economics 1907)
+/wiki/Gabriel_Lippmann (Chemistry 1908)
+/wiki/Ernest_Rutherford (Medicine 1908)
+/wiki/%C3%89lie_Metchnikoff (Literature 1908)
+/wiki/Paul_Ehrlich (Literature 1908)
+/wiki/Rudolf_Christoph_Eucken (Peace 1908)
+/wiki/Klas_Pontus_Arnoldson (Economics 1908)
+/wiki/Fredrik_Bajer (Economics 1908)
+/wiki/Karl_Ferdinand_Braun (Chemistry 1909)
+/wiki/Guglielmo_Marconi (Chemistry 1909)
+/wiki/Wilhelm_Ostwald (Medicine 1909)
+/wiki/Emil_Theodor_Kocher (Literature 1909)
+/wiki/Selma_Lagerl%C3%B6f (Peace 1909)
+/wiki/Auguste_Beernaert (Economics 1909)
+/wiki/Paul_Henri_Balluet_d%27Estournelles_de_Constant (Economics 1909)
+/wiki/Johannes_Diderik_van_der_Waals (Chemistry 1910)
+/wiki/Otto_Wallach (Medicine 1910)
+/wiki/Albrecht_Kossel (Literature 1910)
+/wiki/Paul_Heyse (Peace 1910)
+/wiki/International_Peace_Bureau (Economics 1910)
+/wiki/Wilhelm_Wien (Chemistry 1911)
+/wiki/Marie_Curie (Medicine 1911)
+/wiki/Allvar_Gullstrand (Literature 1911)
+/wiki/Maurice_Maeterlinck (Peace 1911)
+/wiki/Tobias_Asser (Economics 1911)
+/wiki/Alfred_Hermann_Fried (Economics 1911)
+/wiki/Gustaf_Dal%C3%A9n (Chemistry 1912)
+/wiki/Victor_Grignard (Medicine 1912)
+/wiki/Paul_Sabatier_(chemist) (Medicine 1912)
+/wiki/Alexis_Carrel (Literature 1912)
+/wiki/Gerhart_Hauptmann (Peace 1912)
+/wiki/Elihu_Root (Economics 1912)
+/wiki/Heike_Kamerlingh_Onnes (Chemistry 1913)
+/wiki/Alfred_Werner (Medicine 1913)
+/wiki/Charles_Richet (Literature 1913)
+/wiki/Rabindranath_Tagore (Peace 1913)
+/wiki/Henri_La_Fontaine (Economics 1913)
+/wiki/Max_von_Laue (Chemistry 1914)
+/wiki/Theodore_William_Richards (Medicine 1914)
+/wiki/Robert_B%C3%A1r%C3%A1ny (Literature 1914)
+/wiki/William_Henry_Bragg (Chemistry 1915)
+/wiki/Lawrence_Bragg (Chemistry 1915)
+/wiki/Richard_Willst%C3%A4tter (Medicine 1915)
+/wiki/Romain_Rolland (Peace 1915)
+/wiki/Verner_von_Heidenstam (Peace 1916)
+/wiki/Charles_Glover_Barkla (Chemistry 1917)
+/wiki/Karl_Adolph_Gjellerup (Peace 1917)
+/wiki/Henrik_Pontoppidan (Peace 1917)
+/wiki/International_Committee_of_the_Red_Cross (Economics 1917)
+/wiki/Max_Planck (Chemistry 1918)
+/wiki/Fritz_Haber (Medicine 1918)
+/wiki/Johannes_Stark (Chemistry 1919)
+/wiki/Jules_Bordet (Literature 1919)
+/wiki/Carl_Spitteler (Peace 1919)
+/wiki/Woodrow_Wilson (Economics 1919)
+/wiki/Charles_%C3%89douard_Guillaume (Chemistry 1920)
+/wiki/Walther_Nernst (Medicine 1920)
+/wiki/August_Krogh (Literature 1920)
+/wiki/Knut_Hamsun (Peace 1920)
+/wiki/L%C3%A9on_Bourgeois (Economics 1920)
+/wiki/Albert_Einstein (Chemistry 1921)
+/wiki/Frederick_Soddy (Medicine 1921)
+/wiki/Anatole_France (Peace 1921)
+/wiki/Hjalmar_Branting (Economics 1921)
+/wiki/Christian_Lous_Lange (Economics 1921)
+/wiki/Niels_Bohr (Chemistry 1922)
+/wiki/Francis_William_Aston (Medicine 1922)
+/wiki/Archibald_Hill (Literature 1922)
+/wiki/Otto_Fritz_Meyerhof (Literature 1922)
+/wiki/Jacinto_Benavente (Peace 1922)
+/wiki/Fridtjof_Nansen (Economics 1922)
+/wiki/Robert_Andrews_Millikan (Chemistry 1923)
+/wiki/Fritz_Pregl (Medicine 1923)
+/wiki/Frederick_Banting (Literature 1923)
+/wiki/John_Macleod_(physiologist) (Literature 1923)
+/wiki/W._B._Yeats (Peace 1923)
+/wiki/Manne_Siegbahn (Chemistry 1924)
+/wiki/Willem_Einthoven (Literature 1924)
+/wiki/W%C5%82adys%C5%82aw_Reymont (Peace 1924)
+/wiki/James_Franck (Chemistry 1925)
+/wiki/Gustav_Ludwig_Hertz (Chemistry 1925)
+/wiki/Richard_Adolf_Zsigmondy (Medicine 1925)
+/wiki/George_Bernard_Shaw (Peace 1925)
+/wiki/Austen_Chamberlain (Economics 1925)
+/wiki/Charles_G._Dawes (Economics 1925)
+/wiki/Jean_Baptiste_Perrin (Chemistry 1926)
+/wiki/Theodor_Svedberg (Medicine 1926)
+/wiki/Johannes_Fibiger (Literature 1926)
+/wiki/Grazia_Deledda (Peace 1926)
+/wiki/Aristide_Briand (Economics 1926)
+/wiki/Gustav_Stresemann (Economics 1926)
+/wiki/Arthur_Compton (Chemistry 1927)
+/wiki/Charles_Thomson_Rees_Wilson (Chemistry 1927)
+/wiki/Heinrich_Otto_Wieland (Medicine 1927)
+/wiki/Julius_Wagner-Jauregg (Literature 1927)
+/wiki/Henri_Bergson (Peace 1927)
+/wiki/Ferdinand_Buisson (Economics 1927)
+/wiki/Ludwig_Quidde (Economics 1927)
+/wiki/Owen_Willans_Richardson (Chemistry 1928)
+/wiki/Adolf_Windaus (Medicine 1928)
+/wiki/Charles_Nicolle (Literature 1928)
+/wiki/Sigrid_Undset (Peace 1928)
+/wiki/Louis_de_Broglie (Chemistry 1929)
+/wiki/Arthur_Harden (Medicine 1929)
+/wiki/Hans_von_Euler-Chelpin (Medicine 1929)
+/wiki/Christiaan_Eijkman (Literature 1929)
+/wiki/Frederick_Gowland_Hopkins (Literature 1929)
+/wiki/Thomas_Mann (Peace 1929)
+/wiki/Frank_B._Kellogg (Economics 1929)
+/wiki/C._V._Raman (Chemistry 1930)
+/wiki/Hans_Fischer (Medicine 1930)
+/wiki/Karl_Landsteiner (Literature 1930)
+/wiki/Sinclair_Lewis (Peace 1930)
+/wiki/Nathan_S%C3%B6derblom (Economics 1930)
+/wiki/Carl_Bosch (Medicine 1931)
+/wiki/Friedrich_Bergius (Medicine 1931)
+/wiki/Otto_Heinrich_Warburg (Literature 1931)
+/wiki/Erik_Axel_Karlfeldt (Peace 1931)
+/wiki/Jane_Addams (Economics 1931)
+/wiki/Nicholas_Murray_Butler (Economics 1931)
+/wiki/Werner_Heisenberg (Chemistry 1932)
+/wiki/Irving_Langmuir (Medicine 1932)
+/wiki/Charles_Scott_Sherrington (Literature 1932)
+/wiki/Edgar_Adrian (Literature 1932)
+/wiki/John_Galsworthy (Peace 1932)
+/wiki/Erwin_Schr%C3%B6dinger (Chemistry 1933)
+/wiki/Paul_Dirac (Chemistry 1933)
+/wiki/Thomas_Hunt_Morgan (Literature 1933)
+/wiki/Ivan_Bunin (Peace 1933)
+/wiki/Norman_Angell (Economics 1933)
+/wiki/Harold_Urey (Medicine 1934)
+/wiki/George_Whipple (Literature 1934)
+/wiki/George_Minot (Literature 1934)
+/wiki/William_P._Murphy (Literature 1934)
+/wiki/Luigi_Pirandello (Peace 1934)
+/wiki/Arthur_Henderson (Economics 1934)
+/wiki/James_Chadwick (Chemistry 1935)
+/wiki/Fr%C3%A9d%C3%A9ric_Joliot-Curie (Medicine 1935)
+/wiki/Ir%C3%A8ne_Joliot-Curie (Medicine 1935)
+/wiki/Hans_Spemann (Literature 1935)
+/wiki/Carl_von_Ossietzky (Economics 1935)
+/wiki/Victor_Francis_Hess (Chemistry 1936)
+/wiki/Carl_David_Anderson (Chemistry 1936)
+/wiki/Peter_Debye (Medicine 1936)
+/wiki/Henry_Hallett_Dale (Literature 1936)
+/wiki/Otto_Loewi (Literature 1936)
+/wiki/Eugene_O%27Neill (Peace 1936)
+/wiki/Carlos_Saavedra_Lamas (Economics 1936)
+/wiki/Clinton_Davisson (Chemistry 1937)
+/wiki/George_Paget_Thomson (Chemistry 1937)
+/wiki/Norman_Haworth (Medicine 1937)
+/wiki/Paul_Karrer (Medicine 1937)
+/wiki/Albert_Szent-Gy%C3%B6rgyi (Literature 1937)
+/wiki/Roger_Martin_du_Gard (Peace 1937)
+/wiki/Robert_Cecil,_1st_Viscount_Cecil_of_Chelwood (Economics 1937)
+/wiki/Enrico_Fermi (Chemistry 1938)
+/wiki/Richard_Kuhn (Medicine 1938)
+#cite_note-A-15 (Medicine 1938)
+/wiki/Corneille_Heymans (Literature 1938)
+/wiki/Pearl_S._Buck (Peace 1938)
+/wiki/Nansen_International_Office_for_Refugees (Economics 1938)
+/wiki/Ernest_Lawrence (Chemistry 1939)
+/wiki/Adolf_Butenandt (Medicine 1939)
+#cite_note-A-15 (Medicine 1939)
+/wiki/Leopold_Ru%C5%BEi%C4%8Dka (Medicine 1939)
+/wiki/Gerhard_Domagk (Literature 1939)
+#cite_note-A-15 (Literature 1939)
+/wiki/Frans_Eemil_Sillanp%C3%A4%C3%A4 (Peace 1939)
+/wiki/Otto_Stern (Chemistry 1943)
+/wiki/George_de_Hevesy (Medicine 1943)
+/wiki/Henrik_Dam (Literature 1943)
+/wiki/Edward_Adelbert_Doisy (Literature 1943)
+/wiki/Isidor_Isaac_Rabi (Chemistry 1944)
+/wiki/Otto_Hahn (Medicine 1944)
+/wiki/Joseph_Erlanger (Literature 1944)
+/wiki/Herbert_Spencer_Gasser (Literature 1944)
+/wiki/Johannes_V._Jensen (Peace 1944)
+/wiki/International_Committee_of_the_Red_Cross (Economics 1944)
+/wiki/Wolfgang_Pauli (Chemistry 1945)
+/wiki/Artturi_Ilmari_Virtanen (Medicine 1945)
+/wiki/Alexander_Fleming (Literature 1945)
+/wiki/Ernst_Chain (Literature 1945)
+/wiki/Howard_Florey (Literature 1945)
+/wiki/Gabriela_Mistral (Peace 1945)
+/wiki/Cordell_Hull (Economics 1945)
+/wiki/Percy_Williams_Bridgman (Chemistry 1946)
+/wiki/James_B._Sumner (Medicine 1946)
+/wiki/John_Howard_Northrop (Medicine 1946)
+/wiki/Wendell_Meredith_Stanley (Medicine 1946)
+/wiki/Hermann_Joseph_Muller (Literature 1946)
+/wiki/Hermann_Hesse (Peace 1946)
+/wiki/Emily_Greene_Balch (Economics 1946)
+/wiki/John_Mott (Economics 1946)
+/wiki/Edward_Victor_Appleton (Chemistry 1947)
+/wiki/Robert_Robinson_(organic_chemist) (Medicine 1947)
+/wiki/Carl_Ferdinand_Cori (Literature 1947)
+/wiki/Gerty_Cori (Literature 1947)
+/wiki/Bernardo_Houssay (Literature 1947)
+/wiki/Andr%C3%A9_Gide (Peace 1947)
+/wiki/Quaker_Peace_and_Social_Witness (Economics 1947)
+/wiki/American_Friends_Service_Committee (Economics 1947)
+/wiki/Patrick_Blackett (Chemistry 1948)
+/wiki/Arne_Tiselius (Medicine 1948)
+/wiki/Paul_Hermann_M%C3%BCller (Literature 1948)
+/wiki/T._S._Eliot (Peace 1948)
+#cite_note-B-17 (Economics 1948)
+/wiki/Hideki_Yukawa (Chemistry 1949)
+/wiki/William_Giauque (Medicine 1949)
+/wiki/Walter_Rudolf_Hess (Literature 1949)
+/wiki/Ant%C3%B3nio_Egas_Moniz (Literature 1949)
+/wiki/William_Faulkner (Peace 1949)
+/wiki/John_Boyd_Orr (Economics 1949)
+/wiki/C._F._Powell (Chemistry 1950)
+/wiki/Otto_Diels (Medicine 1950)
+/wiki/Kurt_Alder (Medicine 1950)
+/wiki/Philip_Showalter_Hench (Literature 1950)
+/wiki/Edward_Calvin_Kendall (Literature 1950)
+/wiki/Tadeus_Reichstein (Literature 1950)
+/wiki/Bertrand_Russell (Peace 1950)
+/wiki/Ralph_Bunche (Economics 1950)
+/wiki/John_Cockcroft (Chemistry 1951)
+/wiki/Ernest_Walton (Chemistry 1951)
+/wiki/Edwin_McMillan (Medicine 1951)
+/wiki/Glenn_T._Seaborg (Medicine 1951)
+/wiki/Max_Theiler (Literature 1951)
+/wiki/P%C3%A4r_Lagerkvist (Peace 1951)
+/wiki/L%C3%A9on_Jouhaux (Economics 1951)
+/wiki/Felix_Bloch (Chemistry 1952)
+/wiki/Edward_Mills_Purcell (Chemistry 1952)
+/wiki/Archer_Martin (Medicine 1952)
+/wiki/Richard_Laurence_Millington_Synge (Medicine 1952)
+/wiki/Selman_Waksman (Literature 1952)
+/wiki/Fran%C3%A7ois_Mauriac (Peace 1952)
+/wiki/Albert_Schweitzer (Economics 1952)
+/wiki/Frits_Zernike (Chemistry 1953)
+/wiki/Hermann_Staudinger (Medicine 1953)
+/wiki/Hans_Adolf_Krebs (Literature 1953)
+/wiki/Fritz_Albert_Lipmann (Literature 1953)
+/wiki/Winston_Churchill (Peace 1953)
+/wiki/George_Marshall (Economics 1953)
+/wiki/Max_Born (Chemistry 1954)
+/wiki/Walther_Bothe (Chemistry 1954)
+/wiki/Linus_Pauling (Medicine 1954)
+/wiki/John_Franklin_Enders (Literature 1954)
+/wiki/Frederick_Chapman_Robbins (Literature 1954)
+/wiki/Thomas_Huckle_Weller (Literature 1954)
+/wiki/Ernest_Hemingway (Peace 1954)
+/wiki/United_Nations_High_Commissioner_for_Refugees (Economics 1954)
+/wiki/Willis_Lamb (Chemistry 1955)
+/wiki/Polykarp_Kusch (Chemistry 1955)
+/wiki/Vincent_du_Vigneaud (Medicine 1955)
+/wiki/Hugo_Theorell (Literature 1955)
+/wiki/Halld%C3%B3r_Laxness (Peace 1955)
+/wiki/John_Bardeen (Chemistry 1956)
+/wiki/Walter_Houser_Brattain (Chemistry 1956)
+/wiki/William_Shockley (Chemistry 1956)
+/wiki/Cyril_Norman_Hinshelwood (Medicine 1956)
+/wiki/Nikolay_Semyonov (Medicine 1956)
+/wiki/Andr%C3%A9_Fr%C3%A9d%C3%A9ric_Cournand (Literature 1956)
+/wiki/Werner_Forssmann (Literature 1956)
+/wiki/Dickinson_W._Richards (Literature 1956)
+/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez (Peace 1956)
+/wiki/Yang_Chen-Ning (Chemistry 1957)
+/wiki/Tsung-Dao_Lee (Chemistry 1957)
+/wiki/Alexander_R._Todd (Medicine 1957)
+/wiki/Daniel_Bovet (Literature 1957)
+/wiki/Albert_Camus (Peace 1957)
+/wiki/Lester_B._Pearson (Economics 1957)
+/wiki/Pavel_Cherenkov (Chemistry 1958)
+/wiki/Ilya_Frank (Chemistry 1958)
+/wiki/Igor_Tamm (Chemistry 1958)
+/wiki/Frederick_Sanger (Medicine 1958)
+/wiki/George_Beadle (Literature 1958)
+/wiki/Edward_Tatum (Literature 1958)
+/wiki/Joshua_Lederberg (Literature 1958)
+/wiki/Boris_Pasternak (Peace 1958)
+#cite_note-C-18 (Peace 1958)
+/wiki/Dominique_Pire (Economics 1958)
+/wiki/Emilio_Segr%C3%A8 (Chemistry 1959)
+/wiki/Owen_Chamberlain (Chemistry 1959)
+/wiki/Jaroslav_Heyrovsk%C3%BD (Medicine 1959)
+/wiki/Arthur_Kornberg (Literature 1959)
+/wiki/Severo_Ochoa (Literature 1959)
+/wiki/Salvatore_Quasimodo (Peace 1959)
+/wiki/Philip_Noel-Baker (Economics 1959)
+/wiki/Donald_A._Glaser (Chemistry 1960)
+/wiki/Willard_Libby (Medicine 1960)
+/wiki/Macfarlane_Burnet (Literature 1960)
+/wiki/Peter_Medawar (Literature 1960)
+/wiki/Saint-John_Perse (Peace 1960)
+/wiki/Albert_Lutuli (Economics 1960)
+/wiki/Robert_Hofstadter (Chemistry 1961)
+/wiki/Rudolf_M%C3%B6ssbauer (Chemistry 1961)
+/wiki/Melvin_Calvin (Medicine 1961)
+/wiki/Georg_von_B%C3%A9k%C3%A9sy (Literature 1961)
+/wiki/Ivo_Andri%C4%87 (Peace 1961)
+/wiki/Dag_Hammarskj%C3%B6ld (Economics 1961)
+/wiki/Lev_Landau (Chemistry 1962)
+/wiki/Max_Perutz (Medicine 1962)
+/wiki/John_Kendrew (Medicine 1962)
+/wiki/Francis_Crick (Literature 1962)
+/wiki/James_Watson (Literature 1962)
+/wiki/Maurice_Wilkins (Literature 1962)
+/wiki/John_Steinbeck (Peace 1962)
+/wiki/Linus_Pauling (Economics 1962)
+/wiki/Eugene_Wigner (Chemistry 1963)
+/wiki/Maria_Goeppert_Mayer (Chemistry 1963)
+/wiki/J._Hans_D._Jensen (Chemistry 1963)
+/wiki/Karl_Ziegler (Medicine 1963)
+/wiki/Giulio_Natta (Medicine 1963)
+/wiki/John_Eccles_(neurophysiologist) (Literature 1963)
+/wiki/Alan_Hodgkin (Literature 1963)
+/wiki/Andrew_Huxley (Literature 1963)
+/wiki/Giorgos_Seferis (Peace 1963)
+/wiki/International_Committee_of_the_Red_Cross (Economics 1963)
+/wiki/International_Federation_of_Red_Cross_and_Red_Crescent_Societies (Economics 1963)
+/wiki/Charles_H._Townes (Chemistry 1964)
+/wiki/Nikolay_Basov (Chemistry 1964)
+/wiki/Alexander_Prokhorov (Chemistry 1964)
+/wiki/Dorothy_Hodgkin (Medicine 1964)
+/wiki/Konrad_Emil_Bloch (Literature 1964)
+/wiki/Feodor_Lynen (Literature 1964)
+/wiki/Jean-Paul_Sartre (Peace 1964)
+#cite_note-D-19 (Peace 1964)
+/wiki/Martin_Luther_King_Jr. (Economics 1964)
+/wiki/Shin%27ichir%C5%8D_Tomonaga (Chemistry 1965)
+/wiki/Julian_Schwinger (Chemistry 1965)
+/wiki/Richard_Feynman (Chemistry 1965)
+/wiki/Robert_Burns_Woodward (Medicine 1965)
+/wiki/Fran%C3%A7ois_Jacob (Literature 1965)
+/wiki/Andr%C3%A9_Michel_Lwoff (Literature 1965)
+/wiki/Jacques_Monod (Literature 1965)
+/wiki/Mikhail_Sholokhov (Peace 1965)
+/wiki/UNICEF (Economics 1965)
+/wiki/Alfred_Kastler (Chemistry 1966)
+/wiki/Robert_S._Mulliken (Medicine 1966)
+/wiki/Francis_Peyton_Rous (Literature 1966)
+/wiki/Charles_Brenton_Huggins (Literature 1966)
+/wiki/Shmuel_Yosef_Agnon (Peace 1966)
+/wiki/Nelly_Sachs (Peace 1966)
+/wiki/Hans_Bethe (Chemistry 1967)
+/wiki/Manfred_Eigen (Medicine 1967)
+/wiki/Ronald_George_Wreyford_Norrish (Medicine 1967)
+/wiki/George_Porter (Medicine 1967)
+/wiki/Ragnar_Granit (Literature 1967)
+/wiki/Haldan_Keffer_Hartline (Literature 1967)
+/wiki/George_Wald (Literature 1967)
+/wiki/Miguel_%C3%81ngel_Asturias (Peace 1967)
+/wiki/Luis_Walter_Alvarez (Chemistry 1968)
+/wiki/Lars_Onsager (Medicine 1968)
+/wiki/Robert_W._Holley (Literature 1968)
+/wiki/Har_Gobind_Khorana (Literature 1968)
+/wiki/Marshall_Warren_Nirenberg (Literature 1968)
+/wiki/Yasunari_Kawabata (Peace 1968)
+/wiki/Ren%C3%A9_Cassin (Economics 1968)
+/wiki/Murray_Gell-Mann (Chemistry 1969)
+/wiki/Derek_Barton (Medicine 1969)
+/wiki/Odd_Hassel (Medicine 1969)
+/wiki/Max_Delbr%C3%BCck (Literature 1969)
+/wiki/Alfred_Hershey (Literature 1969)
+/wiki/Salvador_Luria (Literature 1969)
+/wiki/Samuel_Beckett (Peace 1969)
+/wiki/International_Labour_Organization (Economics 1969)
+/wiki/Hannes_Alfv%C3%A9n (Chemistry 1970)
+/wiki/Louis_N%C3%A9el (Chemistry 1970)
+/wiki/Luis_Federico_Leloir (Medicine 1970)
+/wiki/Julius_Axelrod (Literature 1970)
+/wiki/Ulf_von_Euler (Literature 1970)
+/wiki/Bernard_Katz (Literature 1970)
+/wiki/Aleksandr_Solzhenitsyn (Peace 1970)
+/wiki/Norman_Borlaug (Economics 1970)
+/wiki/Dennis_Gabor (Chemistry 1971)
+/wiki/Gerhard_Herzberg (Medicine 1971)
+/wiki/Earl_Wilbur_Sutherland_Jr. (Literature 1971)
+/wiki/Pablo_Neruda (Peace 1971)
+/wiki/Willy_Brandt (Economics 1971)
+/wiki/John_Bardeen (Chemistry 1972)
+/wiki/Leon_Cooper (Chemistry 1972)
+/wiki/John_Robert_Schrieffer (Chemistry 1972)
+/wiki/Christian_B._Anfinsen (Medicine 1972)
+/wiki/Stanford_Moore (Medicine 1972)
+/wiki/William_Howard_Stein (Medicine 1972)
+/wiki/Gerald_Edelman (Literature 1972)
+/wiki/Rodney_Robert_Porter (Literature 1972)
+/wiki/Heinrich_B%C3%B6ll (Peace 1972)
+/wiki/Leo_Esaki (Chemistry 1973)
+/wiki/Ivar_Giaever (Chemistry 1973)
+/wiki/Brian_Josephson (Chemistry 1973)
+/wiki/Ernst_Otto_Fischer (Medicine 1973)
+/wiki/Geoffrey_Wilkinson (Medicine 1973)
+/wiki/Karl_von_Frisch (Literature 1973)
+/wiki/Konrad_Lorenz (Literature 1973)
+/wiki/Nikolaas_Tinbergen (Literature 1973)
+/wiki/Patrick_White (Peace 1973)
+/wiki/Henry_Kissinger (Economics 1973)
+/wiki/L%C3%AA_%C4%90%E1%BB%A9c_Th%E1%BB%8D (Economics 1973)
+#cite_note-E-20 (Economics 1973)
+/wiki/Martin_Ryle (Chemistry 1974)
+/wiki/Antony_Hewish (Chemistry 1974)
+/wiki/Paul_Flory (Medicine 1974)
+/wiki/Albert_Claude (Literature 1974)
+/wiki/Christian_de_Duve (Literature 1974)
+/wiki/George_Emil_Palade (Literature 1974)
+/wiki/Eyvind_Johnson (Peace 1974)
+/wiki/Harry_Martinson (Peace 1974)
+/wiki/Se%C3%A1n_MacBride (Economics 1974)
+/wiki/Eisaku_Sat%C5%8D (Economics 1974)
+/wiki/Aage_Bohr (Chemistry 1975)
+/wiki/Ben_Roy_Mottelson (Chemistry 1975)
+/wiki/James_Rainwater (Chemistry 1975)
+/wiki/John_Cornforth (Medicine 1975)
+/wiki/Vladimir_Prelog (Medicine 1975)
+/wiki/David_Baltimore (Literature 1975)
+/wiki/Renato_Dulbecco (Literature 1975)
+/wiki/Howard_Martin_Temin (Literature 1975)
+/wiki/Eugenio_Montale (Peace 1975)
+/wiki/Andrei_Sakharov (Economics 1975)
+/wiki/Burton_Richter (Chemistry 1976)
+/wiki/Samuel_C._C._Ting (Chemistry 1976)
+/wiki/William_Lipscomb (Medicine 1976)
+/wiki/Baruch_Samuel_Blumberg (Literature 1976)
+/wiki/Daniel_Carleton_Gajdusek (Literature 1976)
+/wiki/Saul_Bellow (Peace 1976)
+/wiki/Betty_Williams_(peace_activist) (Economics 1976)
+/wiki/Mairead_Maguire (Economics 1976)
+/wiki/Philip_W._Anderson (Chemistry 1977)
+/wiki/Nevill_Francis_Mott (Chemistry 1977)
+/wiki/John_Hasbrouck_Van_Vleck (Chemistry 1977)
+/wiki/Ilya_Prigogine (Medicine 1977)
+/wiki/Roger_Guillemin (Literature 1977)
+/wiki/Andrew_Schally (Literature 1977)
+/wiki/Rosalyn_Sussman_Yalow (Literature 1977)
+/wiki/Vicente_Aleixandre (Peace 1977)
+/wiki/Amnesty_International (Economics 1977)
+/wiki/Pyotr_Kapitsa (Chemistry 1978)
+/wiki/Arno_Allan_Penzias (Chemistry 1978)
+/wiki/Robert_Woodrow_Wilson (Chemistry 1978)
+/wiki/Peter_D._Mitchell (Medicine 1978)
+/wiki/Werner_Arber (Literature 1978)
+/wiki/Daniel_Nathans (Literature 1978)
+/wiki/Hamilton_O._Smith (Literature 1978)
+/wiki/Isaac_Bashevis_Singer (Peace 1978)
+/wiki/Anwar_Sadat (Economics 1978)
+/wiki/Menachem_Begin (Economics 1978)
+/wiki/Sheldon_Glashow (Chemistry 1979)
+/wiki/Abdus_Salam (Chemistry 1979)
+/wiki/Steven_Weinberg (Chemistry 1979)
+/wiki/Herbert_C._Brown (Medicine 1979)
+/wiki/Georg_Wittig (Medicine 1979)
+/wiki/Allan_McLeod_Cormack (Literature 1979)
+/wiki/Godfrey_Hounsfield (Literature 1979)
+/wiki/Odysseas_Elytis (Peace 1979)
+/wiki/Mother_Teresa (Economics 1979)
+/wiki/James_Cronin (Chemistry 1980)
+/wiki/Val_Logsdon_Fitch (Chemistry 1980)
+/wiki/Paul_Berg (Medicine 1980)
+/wiki/Walter_Gilbert (Medicine 1980)
+/wiki/Frederick_Sanger (Medicine 1980)
+/wiki/Baruj_Benacerraf (Literature 1980)
+/wiki/Jean_Dausset (Literature 1980)
+/wiki/George_Davis_Snell (Literature 1980)
+/wiki/Czes%C5%82aw_Mi%C5%82osz (Peace 1980)
+/wiki/Adolfo_P%C3%A9rez_Esquivel (Economics 1980)
+/wiki/Nicolaas_Bloembergen (Chemistry 1981)
+/wiki/Arthur_Leonard_Schawlow (Chemistry 1981)
+/wiki/Kai_Siegbahn (Chemistry 1981)
+/wiki/Kenichi_Fukui (Medicine 1981)
+/wiki/Roald_Hoffmann (Medicine 1981)
+/wiki/Roger_Wolcott_Sperry (Literature 1981)
+/wiki/David_H._Hubel (Literature 1981)
+/wiki/Torsten_Wiesel (Literature 1981)
+/wiki/Elias_Canetti (Peace 1981)
+/wiki/United_Nations_High_Commissioner_for_Refugees (Economics 1981)
+/wiki/Kenneth_G._Wilson (Chemistry 1982)
+/wiki/Aaron_Klug (Medicine 1982)
+/wiki/Sune_Bergstr%C3%B6m (Literature 1982)
+/wiki/Bengt_I._Samuelsson (Literature 1982)
+/wiki/John_Vane (Literature 1982)
+/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez (Peace 1982)
+/wiki/Alva_Myrdal (Economics 1982)
+/wiki/Alfonso_Garc%C3%ADa_Robles (Economics 1982)
+/wiki/Subrahmanyan_Chandrasekhar (Chemistry 1983)
+/wiki/William_Alfred_Fowler (Chemistry 1983)
+/wiki/Henry_Taube (Medicine 1983)
+/wiki/Barbara_McClintock (Literature 1983)
+/wiki/William_Golding (Peace 1983)
+/wiki/Lech_Wa%C5%82%C4%99sa (Economics 1983)
+/wiki/Carlo_Rubbia (Chemistry 1984)
+/wiki/Simon_van_der_Meer (Chemistry 1984)
+/wiki/Robert_Bruce_Merrifield (Medicine 1984)
+/wiki/Niels_Kaj_Jerne (Literature 1984)
+/wiki/Georges_J._F._K%C3%B6hler (Literature 1984)
+/wiki/C%C3%A9sar_Milstein (Literature 1984)
+/wiki/Jaroslav_Seifert (Peace 1984)
+/wiki/Desmond_Tutu (Economics 1984)
+/wiki/Klaus_von_Klitzing (Chemistry 1985)
+/wiki/Herbert_A._Hauptman (Medicine 1985)
+/wiki/Jerome_Karle (Medicine 1985)
+/wiki/Michael_Stuart_Brown (Literature 1985)
+/wiki/Joseph_L._Goldstein (Literature 1985)
+/wiki/Claude_Simon (Peace 1985)
+/wiki/International_Physicians_for_the_Prevention_of_Nuclear_War (Economics 1985)
+/wiki/Ernst_Ruska (Chemistry 1986)
+/wiki/Gerd_Binnig (Chemistry 1986)
+/wiki/Heinrich_Rohrer (Chemistry 1986)
+/wiki/Dudley_R._Herschbach (Medicine 1986)
+/wiki/Yuan_T._Lee (Medicine 1986)
+/wiki/John_Polanyi (Medicine 1986)
+/wiki/Stanley_Cohen_(biochemist) (Literature 1986)
+/wiki/Rita_Levi-Montalcini (Literature 1986)
+/wiki/Wole_Soyinka (Peace 1986)
+/wiki/Elie_Wiesel (Economics 1986)
+/wiki/Georg_Bednorz (Chemistry 1987)
+/wiki/K._Alex_M%C3%BCller (Chemistry 1987)
+/wiki/Donald_J._Cram (Medicine 1987)
+/wiki/Jean-Marie_Lehn (Medicine 1987)
+/wiki/Charles_J._Pedersen (Medicine 1987)
+/wiki/Susumu_Tonegawa (Literature 1987)
+/wiki/Joseph_Brodsky (Peace 1987)
+/wiki/%C3%93scar_Arias (Economics 1987)
+/wiki/Leon_M._Lederman (Chemistry 1988)
+/wiki/Melvin_Schwartz (Chemistry 1988)
+/wiki/Jack_Steinberger (Chemistry 1988)
+/wiki/Johann_Deisenhofer (Medicine 1988)
+/wiki/Robert_Huber (Medicine 1988)
+/wiki/Hartmut_Michel (Medicine 1988)
+/wiki/James_W._Black (Literature 1988)
+/wiki/Gertrude_B._Elion (Literature 1988)
+/wiki/George_H._Hitchings (Literature 1988)
+/wiki/Naguib_Mahfouz (Peace 1988)
+/wiki/United_Nations_peacekeeping (Economics 1988)
+/wiki/Norman_Ramsey_Jr. (Chemistry 1989)
+/wiki/Hans_Georg_Dehmelt (Chemistry 1989)
+/wiki/Wolfgang_Paul (Chemistry 1989)
+/wiki/Sidney_Altman (Medicine 1989)
+/wiki/Thomas_Cech (Medicine 1989)
+/wiki/J._Michael_Bishop (Literature 1989)
+/wiki/Harold_E._Varmus (Literature 1989)
+/wiki/Camilo_Jos%C3%A9_Cela (Peace 1989)
+/wiki/14th_Dalai_Lama (Economics 1989)
+/wiki/Jerome_Isaac_Friedman (Chemistry 1990)
+/wiki/Henry_Way_Kendall (Chemistry 1990)
+/wiki/Richard_E._Taylor (Chemistry 1990)
+/wiki/Elias_James_Corey (Medicine 1990)
+/wiki/Joseph_Murray (Literature 1990)
+/wiki/E._Donnall_Thomas (Literature 1990)
+/wiki/Octavio_Paz (Peace 1990)
+/wiki/Mikhail_Gorbachev (Economics 1990)
+/wiki/Pierre-Gilles_de_Gennes (Chemistry 1991)
+/wiki/Richard_R._Ernst (Medicine 1991)
+/wiki/Erwin_Neher (Literature 1991)
+/wiki/Bert_Sakmann (Literature 1991)
+/wiki/Nadine_Gordimer (Peace 1991)
+/wiki/Aung_San_Suu_Kyi (Economics 1991)
+/wiki/Georges_Charpak (Chemistry 1992)
+/wiki/Rudolph_A._Marcus (Medicine 1992)
+/wiki/Edmond_H._Fischer (Literature 1992)
+/wiki/Edwin_G._Krebs (Literature 1992)
+/wiki/Derek_Walcott (Peace 1992)
+/wiki/Rigoberta_Mench%C3%BA (Economics 1992)
+/wiki/Russell_Alan_Hulse (Chemistry 1993)
+/wiki/Joseph_Hooton_Taylor_Jr. (Chemistry 1993)
+/wiki/Kary_Mullis (Medicine 1993)
+/wiki/Michael_Smith_(chemist) (Medicine 1993)
+/wiki/Richard_J._Roberts (Literature 1993)
+/wiki/Phillip_Allen_Sharp (Literature 1993)
+/wiki/Toni_Morrison (Peace 1993)
+/wiki/Nelson_Mandela (Economics 1993)
+/wiki/F._W._de_Klerk (Economics 1993)
+/wiki/Bertram_Brockhouse (Chemistry 1994)
+/wiki/Clifford_Shull (Chemistry 1994)
+/wiki/George_Andrew_Olah (Medicine 1994)
+/wiki/Alfred_G._Gilman (Literature 1994)
+/wiki/Martin_Rodbell (Literature 1994)
+/wiki/Kenzabur%C5%8D_%C5%8Ce (Peace 1994)
+/wiki/Yasser_Arafat (Economics 1994)
+/wiki/Shimon_Peres (Economics 1994)
+/wiki/Yitzhak_Rabin (Economics 1994)
+/wiki/Martin_Lewis_Perl (Chemistry 1995)
+/wiki/Frederick_Reines (Chemistry 1995)
+/wiki/Paul_J._Crutzen (Medicine 1995)
+/wiki/Mario_J._Molina (Medicine 1995)
+/wiki/F._Sherwood_Rowland (Medicine 1995)
+/wiki/Edward_B._Lewis (Literature 1995)
+/wiki/Christiane_N%C3%BCsslein-Volhard (Literature 1995)
+/wiki/Eric_F._Wieschaus (Literature 1995)
+/wiki/Seamus_Heaney (Peace 1995)
+/wiki/Joseph_Rotblat (Economics 1995)
+/wiki/Pugwash_Conferences_on_Science_and_World_Affairs (Economics 1995)
+/wiki/David_Lee_(physicist) (Chemistry 1996)
+/wiki/Douglas_Osheroff (Chemistry 1996)
+/wiki/Robert_Coleman_Richardson (Chemistry 1996)
+/wiki/Robert_Curl (Medicine 1996)
+/wiki/Harry_Kroto (Medicine 1996)
+/wiki/Richard_Smalley (Medicine 1996)
+/wiki/Peter_C._Doherty (Literature 1996)
+/wiki/Rolf_M._Zinkernagel (Literature 1996)
+/wiki/Wis%C5%82awa_Szymborska (Peace 1996)
+/wiki/Carlos_Filipe_Ximenes_Belo (Economics 1996)
+/wiki/Jos%C3%A9_Ramos-Horta (Economics 1996)
+/wiki/Steven_Chu (Chemistry 1997)
+/wiki/Claude_Cohen-Tannoudji (Chemistry 1997)
+/wiki/William_Daniel_Phillips (Chemistry 1997)
+/wiki/Paul_D._Boyer (Medicine 1997)
+/wiki/John_E._Walker (Medicine 1997)
+/wiki/Jens_Christian_Skou (Medicine 1997)
+/wiki/Stanley_B._Prusiner (Literature 1997)
+/wiki/Dario_Fo (Peace 1997)
+/wiki/International_Campaign_to_Ban_Landmines (Economics 1997)
+/wiki/Jody_Williams (Economics 1997)
+/wiki/Robert_B._Laughlin (Chemistry 1998)
+/wiki/Horst_Ludwig_St%C3%B6rmer (Chemistry 1998)
+/wiki/Daniel_C._Tsui (Chemistry 1998)
+/wiki/Walter_Kohn (Medicine 1998)
+/wiki/John_Pople (Medicine 1998)
+/wiki/Robert_F._Furchgott (Literature 1998)
+/wiki/Louis_Ignarro (Literature 1998)
+/wiki/Ferid_Murad (Literature 1998)
+/wiki/Jos%C3%A9_Saramago (Peace 1998)
+/wiki/John_Hume (Economics 1998)
+/wiki/David_Trimble (Economics 1998)
+/wiki/Gerard_%27t_Hooft (Chemistry 1999)
+/wiki/Martinus_J._G._Veltman (Chemistry 1999)
+/wiki/Ahmed_Zewail (Medicine 1999)
+/wiki/G%C3%BCnter_Blobel (Literature 1999)
+/wiki/G%C3%BCnter_Grass (Peace 1999)
+/wiki/M%C3%A9decins_Sans_Fronti%C3%A8res (Economics 1999)
+/wiki/Jack_Kilby (Chemistry 2000)
+/wiki/Zhores_Alferov (Chemistry 2000)
+/wiki/Herbert_Kroemer (Chemistry 2000)
+/wiki/Alan_J._Heeger (Medicine 2000)
+/wiki/Alan_MacDiarmid (Medicine 2000)
+/wiki/Hideki_Shirakawa (Medicine 2000)
+/wiki/Arvid_Carlsson (Literature 2000)
+/wiki/Paul_Greengard (Literature 2000)
+/wiki/Eric_Kandel (Literature 2000)
+/wiki/Gao_Xingjian (Peace 2000)
+/wiki/Kim_Dae-jung (Economics 2000)
+/wiki/Eric_Allin_Cornell (Chemistry 2001)
+/wiki/Wolfgang_Ketterle (Chemistry 2001)
+/wiki/Carl_Wieman (Chemistry 2001)
+/wiki/William_Standish_Knowles (Medicine 2001)
+/wiki/Ry%C5%8Dji_Noyori (Medicine 2001)
+/wiki/Karl_Barry_Sharpless (Medicine 2001)
+/wiki/Leland_H._Hartwell (Literature 2001)
+/wiki/Tim_Hunt (Literature 2001)
+/wiki/Paul_Nurse (Literature 2001)
+/wiki/V._S._Naipaul (Peace 2001)
+/wiki/United_Nations (Economics 2001)
+/wiki/Kofi_Annan (Economics 2001)
+/wiki/Riccardo_Giacconi (Chemistry 2002)
+/wiki/Raymond_Davis_Jr. (Chemistry 2002)
+/wiki/Masatoshi_Koshiba (Chemistry 2002)
+/wiki/John_B._Fenn (Medicine 2002)
+/wiki/Koichi_Tanaka (Medicine 2002)
+/wiki/Kurt_W%C3%BCthrich (Medicine 2002)
+/wiki/Sydney_Brenner (Literature 2002)
+/wiki/H._Robert_Horvitz (Literature 2002)
+/wiki/John_Sulston (Literature 2002)
+/wiki/Imre_Kert%C3%A9sz (Peace 2002)
+/wiki/Jimmy_Carter (Economics 2002)
+/wiki/Alexei_Abrikosov_(physicist) (Chemistry 2003)
+/wiki/Vitaly_Ginzburg (Chemistry 2003)
+/wiki/Anthony_James_Leggett (Chemistry 2003)
+/wiki/Peter_Agre (Medicine 2003)
+/wiki/Roderick_MacKinnon (Medicine 2003)
+/wiki/Paul_Lauterbur (Literature 2003)
+/wiki/Peter_Mansfield (Literature 2003)
+/wiki/J._M._Coetzee (Peace 2003)
+/wiki/Shirin_Ebadi (Economics 2003)
+/wiki/David_Gross (Chemistry 2004)
+/wiki/Hugh_David_Politzer (Chemistry 2004)
+/wiki/Frank_Wilczek (Chemistry 2004)
+/wiki/Aaron_Ciechanover (Medicine 2004)
+/wiki/Avram_Hershko (Medicine 2004)
+/wiki/Irwin_Rose (Medicine 2004)
+/wiki/Richard_Axel (Literature 2004)
+/wiki/Linda_B._Buck (Literature 2004)
+/wiki/Elfriede_Jelinek (Peace 2004)
+/wiki/Wangari_Maathai (Economics 2004)
+/wiki/Roy_J._Glauber (Chemistry 2005)
+/wiki/John_L._Hall (Chemistry 2005)
+/wiki/Theodor_W._H%C3%A4nsch (Chemistry 2005)
+/wiki/Yves_Chauvin (Medicine 2005)
+/wiki/Robert_H._Grubbs (Medicine 2005)
+/wiki/Richard_R._Schrock (Medicine 2005)
+/wiki/Barry_Marshall (Literature 2005)
+/wiki/Robin_Warren (Literature 2005)
+/wiki/Harold_Pinter (Peace 2005)
+/wiki/International_Atomic_Energy_Agency (Economics 2005)
+/wiki/Mohamed_ElBaradei (Economics 2005)
+/wiki/John_C._Mather (Chemistry 2006)
+/wiki/George_Smoot (Chemistry 2006)
+/wiki/Roger_D._Kornberg (Medicine 2006)
+/wiki/Andrew_Fire (Literature 2006)
+/wiki/Craig_Mello (Literature 2006)
+/wiki/Orhan_Pamuk (Peace 2006)
+/wiki/Muhammad_Yunus (Economics 2006)
+/wiki/Grameen_Bank (Economics 2006)
+/wiki/Albert_Fert (Chemistry 2007)
+/wiki/Peter_Gr%C3%BCnberg (Chemistry 2007)
+/wiki/Gerhard_Ertl (Medicine 2007)
+/wiki/Mario_Capecchi (Literature 2007)
+/wiki/Martin_Evans (Literature 2007)
+/wiki/Oliver_Smithies (Literature 2007)
+/wiki/Doris_Lessing (Peace 2007)
+/wiki/Intergovernmental_Panel_on_Climate_Change (Economics 2007)
+/wiki/Al_Gore (Economics 2007)
+/wiki/Yoichiro_Nambu (Chemistry 2008)
+/wiki/Makoto_Kobayashi_(physicist) (Chemistry 2008)
+/wiki/Toshihide_Maskawa (Chemistry 2008)
+/wiki/Osamu_Shimomura (Medicine 2008)
+/wiki/Martin_Chalfie (Medicine 2008)
+/wiki/Roger_Y._Tsien (Medicine 2008)
+/wiki/Harald_zur_Hausen (Literature 2008)
+/wiki/Fran%C3%A7oise_Barr%C3%A9-Sinoussi (Literature 2008)
+/wiki/Luc_Montagnier (Literature 2008)
+/wiki/J._M._G._Le_Cl%C3%A9zio (Peace 2008)
+/wiki/Martti_Ahtisaari (Economics 2008)
+/wiki/Charles_K._Kao (Chemistry 2009)
+/wiki/Willard_Boyle (Chemistry 2009)
+/wiki/George_E._Smith (Chemistry 2009)
+/wiki/Venkatraman_Ramakrishnan (Medicine 2009)
+/wiki/Thomas_A._Steitz (Medicine 2009)
+/wiki/Ada_Yonath (Medicine 2009)
+/wiki/Elizabeth_Blackburn (Literature 2009)
+/wiki/Carol_W._Greider (Literature 2009)
+/wiki/Jack_W._Szostak (Literature 2009)
+/wiki/Herta_M%C3%BCller (Peace 2009)
+/wiki/Barack_Obama (Economics 2009)
+/wiki/Andre_Geim (Chemistry 2010)
+/wiki/Konstantin_Novoselov (Chemistry 2010)
+/wiki/Richard_F._Heck (Medicine 2010)
+/wiki/Ei-ichi_Negishi (Medicine 2010)
+/wiki/Akira_Suzuki_(chemist) (Medicine 2010)
+/wiki/Robert_Edwards_(physiologist) (Literature 2010)
+/wiki/Mario_Vargas_Llosa (Peace 2010)
+/wiki/Liu_Xiaobo (Economics 2010)
+#cite_note-F-22 (Economics 2010)
+/wiki/Saul_Perlmutter (Chemistry 2011)
+/wiki/Adam_Riess (Chemistry 2011)
+/wiki/Brian_Schmidt (Chemistry 2011)
+/wiki/Dan_Shechtman (Medicine 2011)
+/wiki/Bruce_Beutler (Literature 2011)
+/wiki/Jules_A._Hoffmann (Literature 2011)
+/wiki/Ralph_M._Steinman (Literature 2011)
+/wiki/Tomas_Transtr%C3%B6mer (Peace 2011)
+/wiki/Ellen_Johnson_Sirleaf (Economics 2011)
+/wiki/Leymah_Gbowee (Economics 2011)
+/wiki/Tawakel_Karman (Economics 2011)
+/wiki/Serge_Haroche (Chemistry 2012)
+/wiki/David_J._Wineland (Chemistry 2012)
+/wiki/Brian_Kobilka (Medicine 2012)
+/wiki/Robert_Lefkowitz (Medicine 2012)
+/wiki/John_Gurdon (Literature 2012)
+/wiki/Shinya_Yamanaka (Literature 2012)
+/wiki/Mo_Yan (Peace 2012)
+/wiki/European_Union (Economics 2012)
+/wiki/Fran%C3%A7ois_Englert (Chemistry 2013)
+/wiki/Peter_Higgs (Chemistry 2013)
+/wiki/Martin_Karplus (Medicine 2013)
+/wiki/Michael_Levitt (Medicine 2013)
+/wiki/Arieh_Warshel (Medicine 2013)
+/wiki/James_Rothman (Literature 2013)
+/wiki/Randy_W._Schekman (Literature 2013)
+/wiki/Thomas_C._S%C3%BCdhof (Literature 2013)
+/wiki/Alice_Munro (Peace 2013)
+/wiki/Organisation_for_the_Prohibition_of_Chemical_Weapons (Economics 2013)
+/wiki/Isamu_Akasaki (Chemistry 2014)
+/wiki/Hiroshi_Amano (Chemistry 2014)
+/wiki/Shuji_Nakamura (Chemistry 2014)
+/wiki/Eric_Betzig (Medicine 2014)
+/wiki/Stefan_Hell (Medicine 2014)
+/wiki/William_Moerner (Medicine 2014)
+/wiki/John_O%27Keefe_(neuroscientist) (Literature 2014)
+/wiki/May-Britt_Moser (Literature 2014)
+/wiki/Edvard_Moser (Literature 2014)
+/wiki/Patrick_Modiano (Peace 2014)
+/wiki/Kailash_Satyarthi (Economics 2014)
+/wiki/Malala_Yousafzai (Economics 2014)
+/wiki/Takaaki_Kajita (Chemistry 2015)
+/wiki/Arthur_B._McDonald (Chemistry 2015)
+/wiki/Tomas_Lindahl (Medicine 2015)
+/wiki/Paul_Modrich (Medicine 2015)
+/wiki/Aziz_Sancar (Medicine 2015)
+/wiki/William_C._Campbell_(scientist) (Literature 2015)
+/wiki/Satoshi_%C5%8Cmura (Literature 2015)
+/wiki/Tu_Youyou (Literature 2015)
+/wiki/Svetlana_Alexievich (Peace 2015)
+/wiki/Tunisian_National_Dialogue_Quartet (Economics 2015)
+/wiki/David_J._Thouless (Chemistry 2016)
+/wiki/Duncan_Haldane (Chemistry 2016)
+/wiki/John_M._Kosterlitz (Chemistry 2016)
+/wiki/Jean-Pierre_Sauvage (Medicine 2016)
+/wiki/Fraser_Stoddart (Medicine 2016)
+/wiki/Ben_Feringa (Medicine 2016)
+/wiki/Yoshinori_Ohsumi (Literature 2016)
+/wiki/Bob_Dylan (Peace 2016)
+/wiki/Juan_Manuel_Santos (Economics 2016)
+/wiki/Rainer_Weiss (Chemistry 2017)
+/wiki/Barry_Barish (Chemistry 2017)
+/wiki/Kip_Thorne (Chemistry 2017)
+/wiki/Jacques_Dubochet (Medicine 2017)
+/wiki/Joachim_Frank (Medicine 2017)
+/wiki/Richard_Henderson_(biologist) (Medicine 2017)
+/wiki/Jeffrey_C._Hall (Literature 2017)
+/wiki/Michael_Rosbash (Literature 2017)
+/wiki/Michael_W._Young (Literature 2017)
+/wiki/Kazuo_Ishiguro (Peace 2017)
+/wiki/International_Campaign_to_Abolish_Nuclear_Weapons (Economics 2017)
+/wiki/Arthur_Ashkin (Chemistry 2018)
+/wiki/G%C3%A9rard_Mourou (Chemistry 2018)
+/wiki/Donna_Strickland (Chemistry 2018)
+/wiki/Frances_H._Arnold (Medicine 2018)
+/wiki/George_Smith_(chemist) (Medicine 2018)
+/wiki/Greg_Winter (Medicine 2018)
+/wiki/James_P._Allison (Literature 2018)
+/wiki/Tasuku_Honjo (Literature 2018)
+/wiki/Olga_Tokarczuk (Peace 2018)
+#cite_note-G-24 (Peace 2018)
+/wiki/Denis_Mukwege (Economics 2018)
+/wiki/Nadia_Murad (Economics 2018)
+/wiki/Jim_Peebles (Chemistry 2019)
+/wiki/Michel_Mayor (Chemistry 2019)
+/wiki/Didier_Queloz (Chemistry 2019)
+/wiki/John_B._Goodenough (Medicine 2019)
+/wiki/M._Stanley_Whittingham (Medicine 2019)
+/wiki/Akira_Yoshino (Medicine 2019)
+/wiki/William_Kaelin_Jr. (Literature 2019)
+/wiki/Peter_J._Ratcliffe (Literature 2019)
+/wiki/Gregg_L._Semenza (Literature 2019)
+/wiki/Peter_Handke (Peace 2019)
+/wiki/Abiy_Ahmed (Economics 2019)
+/wiki/Roger_Penrose (Chemistry 2020)
+/wiki/Reinhard_Genzel (Chemistry 2020)
+/wiki/Andrea_M._Ghez (Chemistry 2020)
+/wiki/Emmanuelle_Charpentier (Medicine 2020)
+/wiki/Jennifer_Doudna (Medicine 2020)
+/wiki/Harvey_J._Alter (Literature 2020)
+/wiki/Michael_Houghton_(virologist) (Literature 2020)
+/wiki/Charles_M._Rice (Literature 2020)
+/wiki/Louise_Gl%C3%BCck (Peace 2020)
+/wiki/World_Food_Programme (Economics 2020)
+/wiki/Giorgio_Parisi (Chemistry 2021)
+/wiki/Klaus_Hasselmann (Chemistry 2021)
+/wiki/Syukuro_Manabe (Chemistry 2021)
+/wiki/Benjamin_List (Medicine 2021)
+/wiki/David_MacMillan (Medicine 2021)
+/wiki/David_Julius (Literature 2021)
+/wiki/Ardem_Patapoutian (Literature 2021)
+/wiki/Abdulrazak_Gurnah (Peace 2021)
+/wiki/Maria_Ressa (Economics 2021)
+/wiki/Dmitry_Muratov (Economics 2021)
+/wiki/Alain_Aspect (Chemistry 2022)
+/wiki/John_Clauser (Chemistry 2022)
+/wiki/Anton_Zeilinger (Chemistry 2022)
+/wiki/Carolyn_Bertozzi (Medicine 2022)
+/wiki/Morten_P._Meldal (Medicine 2022)
+/wiki/Karl_Barry_Sharpless (Medicine 2022)
+/wiki/Svante_P%C3%A4%C3%A4bo (Literature 2022)
+/wiki/Annie_Ernaux (Peace 2022)
+/wiki/Ales_Bialiatski (Economics 2022)
+/wiki/Memorial_(society) (Economics 2022)
+/wiki/Center_for_Civil_Liberties_(human_rights_organization) (Economics 2022)
+/wiki/Pierre_Agostini (Chemistry 2023)
+/wiki/Ferenc_Krausz (Chemistry 2023)
+/wiki/Anne_L%27Huillier (Chemistry 2023)
+/wiki/Moungi_Bawendi (Medicine 2023)
+/wiki/Louis_E._Brus (Medicine 2023)
+/wiki/Alexey_Ekimov (Medicine 2023)
+/wiki/Katalin_Karik%C3%B3 (Literature 2023)
+/wiki/Drew_Weissman (Literature 2023)
+/wiki/Jon_Fosse (Peace 2023)
