@@ -1,18 +1,16 @@
 import requests
 import time
+import json
 
 exclude_list = [
-    "/wiki/Bachelor_of_Arts",
-    "/wiki/Bachelor_of_Science",
-    "/wiki/Master_of_Arts",
-    "/wiki/Master_of_Science",
-    "/wiki/Doctor_of_Philosophy",
-    "/wiki/Doctor_of_Medicine",
-    "/wiki/Doctor_of_Laws",
-    "/wiki/Master_of_Business_Administration",
+    "/wiki/Bachelor_of_",
+    "/wiki/Master_of_",
+    "/wiki/Doctor_of_",
     "/wiki/PhD",
+    "/wiki/Habilitation"
 ]
 
+json_data = {}
 
 def scrape(url) :
     r = requests.get(url)
@@ -24,8 +22,6 @@ def find_all_links(s) :
         s=s[s.index("href=")+6:]
         link = s[:s.index('"')]
         s=s[s.index('"'):]
-        if ("/wiki/" in link) :
-            link = "https://en.wikipedia.org" + link
         if link not in links and "#" not in link :
             links.append(link)
     return links
@@ -43,6 +39,13 @@ def scrape_laureates() :
     f.write(s)
     f.close()
 
+#makes sure that none of the exclusion terms are in the link (ex. bachelor)
+def non_exclude_list(link) :
+    for exclude in exclude_list :
+        if exclude in link :
+            return False
+    return True
+
 #this method scrapes the wikipedia page of the given link and then tries to scrape the listings under Education and Institutions.  It's definitely not perfect but through my testing, it seems basically flawless.  Should work well enough so that the list is short enough so I can go through to verify manually
 def scrape_alma_matters_and_institution(link) :
     alma_matters = [] #universities they attended
@@ -54,72 +57,63 @@ def scrape_alma_matters_and_institution(link) :
         while("href" in temp_source) :
             temp_source = temp_source[temp_source.index('href="')+6:]
             alma_matter = temp_source[:temp_source.index('"')]
-            if ("/wiki/" in alma_matter and alma_matter not in exclude_list) :
-                alma_matter = "https://en.wikipedia.org" + alma_matter
+            if ("/wiki/" in alma_matter and non_exclude_list(alma_matter)) :
+                alma_matter = alma_matter
                 alma_matters.append(alma_matter)
     except :
-        print("No education found for " + link + " (education)")
+        pass
     try :
         temp_source = source[source.index('Alma&#160;mater</th>'):]
         temp_source = temp_source[:temp_source.index('</tr>')]
         while("href" in temp_source) :
             temp_source = temp_source[temp_source.index('href="')+6:]
             alma_matter = temp_source[:temp_source.index('"')]
-            if ("/wiki/" in alma_matter and alma_matter not in exclude_list) :
-                alma_matter = "https://en.wikipedia.org" + alma_matter
+            if ("/wiki/" in alma_matter and non_exclude_list(alma_matter)) :
+                alma_matter = alma_matter
                 alma_matters.append(alma_matter)
     except :
-        print("No education found for " + link + " (alma mater)")
+        pass
+    if (len(alma_matters) == 0) :
+        print("No alma matters found for " + link)
     try :
-        source = source[source.index('Institutions</th>'):]
-        source = source[:source.index("</tr>")]
-        while("href" in source) :
-            source = source[source.index('href="')+6:]
-            institution = source[:source.index('"')]
-            if ("/wiki/" in institution and institution not in exclude_list) :
-                institution = "https://en.wikipedia.org" + institution
+        temp_source = source[source.index('Institutions</th>'):]
+        temp_source = temp_source[:temp_source.index("</tr>")]
+        while("href" in temp_source) :
+            temp_source = temp_source[temp_source.index('href="')+6:]
+            institution = temp_source[:temp_source.index('"')]
+            if ("/wiki/" in institution and non_exclude_list(institution)) :
+                institution = institution
                 institutions.append(institution)
     except :
+        pass
+    try :
+        temp_source = source[source.index('Institution</th>'):]
+        temp_source = temp_source[:temp_source.index("</tr>")]
+        while("href" in temp_source) :
+            temp_source = temp_source[temp_source.index('href="')+6:]
+            institution = temp_source[:temp_source.index('"')]
+            if ("/wiki/" in institution and non_exclude_list(institution)) :
+                institution = institution
+                institutions.append(institution)
+    except :
+        pass
+    if (len(institutions) == 0) :
         print("No institutions found for " + link)
     return alma_matters, institutions
 
+#generates data.json file, with a json of all the scraped data
 def main() :
     #scrape_laureates() #retrieves all the wikipedia links of the laureates and saves them to "laureates.txt"
-    alma_matters = []
-    alma_matters_frequency = []
-    institutions = []
-    institutions_frequency = []
-
     f = open("laureates.txt", "r", encoding="utf-8")
     for link in f.readlines() :
-        link=link.strip()
+        link = "https://en.wikipedia.org" + link.strip()
         cur_alma_matters, cur_institutions = scrape_alma_matters_and_institution(link)
-        print(link + ":\n" + str(cur_institutions) + "\n" + str(cur_alma_matters) + "\n")
-        for alma_matter in cur_alma_matters :
-            if alma_matter not in alma_matters :
-                alma_matters.append(alma_matter)
-                alma_matters_frequency.append(1)
-            else :
-                alma_matters_frequency[alma_matters.index(alma_matter)] += 1
-        for institution in cur_institutions :
-            if institution not in institutions :
-                institutions.append(institution)
-                institutions_frequency.append(1)
-            else :
-                institutions_frequency[institutions.index(institution)] += 1
+        json_data[link] = {}
+        json_data[link]["alma_matters"] = cur_alma_matters
+        json_data[link]["institutions"] = cur_institutions
     f.close()
-    s=""
-    for i in range(len(alma_matters)) :
-        s+=(alma_matters[i] + ": " + str(alma_matters_frequency[i])+"\n")
-    f = open("alma_matters.txt", "w", encoding="utf-8")
-    f.write(s)
-    f.close()
-
-    s=""
-    for i in range(len(institutions)) :
-        s+=(institutions[i] + ": " + str(institutions_frequency[i])+"\n")
-    f = open("institutions.txt", "w", encoding="utf-8")
-    f.write(s)
+    f = open("data.json", "w", encoding="utf-8")
+    f.write(json.dumps(json_data))
     f.close()
 
 main()
