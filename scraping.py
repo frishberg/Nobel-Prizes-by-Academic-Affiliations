@@ -122,4 +122,3 @@ def main() :
     f.close()
 
 main()
-#print(scrape_alma_matters_and_institution("https://en.wikipedia.org/wiki/Philip_Noel-Baker"))
