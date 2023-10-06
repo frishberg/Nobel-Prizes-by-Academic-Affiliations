@@ -46,11 +46,16 @@ def non_exclude_list(link) :
             return False
     return True
 
+#there are some small things that cause issues, like if the Alma matter header is a link instead of p.  This method fixes those issues
+def special_exceptions(source) :
+    source = source.replace('<a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a>', 'Alma&#160;mater</th>')
+    return source
+
 #this method scrapes the wikipedia page of the given link and then tries to scrape the listings under Education and Institutions.  It's definitely not perfect but through my testing, it seems basically flawless.  Should work well enough so that the list is short enough so I can go through to verify manually
 def scrape_alma_matters_and_institution(link) :
     alma_matters = [] #universities they attended
     institutions = [] #universities they worked at
-    source = scrape(link)
+    source = special_exceptions(scrape(link))
     try :
         temp_source = source[source.index('Education</th>'):]
         temp_source = temp_source[:temp_source.index('</tr>')]
@@ -117,3 +122,4 @@ def main() :
     f.close()
 
 main()
+#print(scrape_alma_matters_and_institution("https://en.wikipedia.org/wiki/Philip_Noel-Baker"))
