@@ -1,6 +1,7 @@
 import requests
-import time
 import json
+from unidecode import unidecode
+import urllib.parse
 
 exclude_list = [
     "/wiki/Bachelor_of_",
@@ -52,9 +53,12 @@ def special_exceptions(source) :
     return source
 
 #this method scrapes the wikipedia page of the given link and then tries to scrape the listings under Education and Institutions.  It's definitely not perfect but through my testing, it seems basically flawless.  Should work well enough so that the list is short enough so I can go through to verify manually
-def scrape_alma_matters_and_institution(link) :
+def scrape_wiki_data(link) :
     alma_matters = [] #universities they attended
     institutions = [] #universities they worked at
+    category = "" #physics, chemistry, etc.
+    year = "" #year they won the nobel prize
+
     source = special_exceptions(scrape(link))
     try :
         temp_source = source[source.index('Education</th>'):]
@@ -104,21 +108,63 @@ def scrape_alma_matters_and_institution(link) :
         pass
     if (len(institutions) == 0) :
         print("No institutions found for " + link)
-    return alma_matters, institutions
+    
+    #getting the category and year
+    temp_source = source[source.index('Awards'):]
+    if ("/wiki/Nobel_Prize_in_" in temp_source) : #chemistry, physics, literature, medicine
+        temp_source = temp_source[temp_source.index("/wiki/Nobel_Prize_in_")+21:]
+        print(temp_source)
+        category = temp_source[:temp_source.index('"')]
+        temp_source = temp_source[temp_source.index('(')+1:]
+        try :
+            year = int(temp_source[:temp_source.index(')')])
+        except :
+            print("No prize year found for " + link)
+    elif ("/wiki/Nobel_Memorial_Prize_in_Economic_Sciences" in temp_source) : #economics
+        category = "Economics"
+        temp_source = temp_source[temp_source.index("/wiki/Nobel_Memorial_Prize_in_Economic_Sciences")+45:]
+        temp_source = temp_source[temp_source.index('(')+1:]
+        try :
+            year = int(temp_source[:temp_source.index(')')])
+        except :
+            print("No prize year found for " + link)
+    elif ("/wiki/Nobel_Peace_Prize" in temp_source) : #peace
+        category = "Peace"
+        temp_source = temp_source[temp_source.index("/wiki/Nobel_Peace_Prize")+23:]
+        temp_source = temp_source[temp_source.index('(')+1:]
+        try :
+            year = int(temp_source[:temp_source.index(')')])
+        except :
+            print("No prize year found for " + link)
+    else :
+        raise Exception("Category not found for " + link)
+    return alma_matters, institutions, category, year
+
+#takes in a name, like Wilhelm R%C3%B6ntgen and returns Wilhelm Rontgen.  Gets rid of annoying unicode characters
+def clean_up(s) :
+    s = urllib.parse.unquote(s, encoding='utf-8')
+    s = unidecode(s)
+    return urllib.parse.quote(s, encoding='utf-8')
 
 #generates data.json file, with a json of all the scraped data
 def main() :
     #scrape_laureates() #retrieves all the wikipedia links of the laureates and saves them to "laureates.txt"
     f = open("laureates.txt", "r", encoding="utf-8")
     for link in f.readlines() :
+        print(link)
         link = "https://en.wikipedia.org" + link.strip()
-        cur_alma_matters, cur_institutions = scrape_alma_matters_and_institution(link)
-        json_data[link] = {}
-        json_data[link]["alma_matters"] = cur_alma_matters
-        json_data[link]["institutions"] = cur_institutions
+        name = clean_up(link[link.index("/wiki/")+6:]).replace("_", " ") #getting rid of stuff like H%C3%A4 and replacing _ with spaces
+        cur_alma_matters, cur_institutions, category, year = scrape_wiki_data(link)
+        json_data[name] = {}
+        json_data[name]["link"] = link
+        json_data[name]["category"] = category
+        json_data[name]["year"] = year
+        json_data[name]["alma_matters"] = cur_alma_matters
+        json_data[name]["institutions"] = cur_institutions
     f.close()
     f = open("data.json", "w", encoding="utf-8")
     f.write(json.dumps(json_data))
     f.close()
 
-main()
+#main()
+print(scrape_wiki_data("https://en.wikipedia.org/wiki/Philip_H._Dybvig"))
