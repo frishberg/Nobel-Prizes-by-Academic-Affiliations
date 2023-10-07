@@ -9,7 +9,8 @@ exclude_list = [
     "/wiki/Master_of_",
     "/wiki/Doctor_of_",
     "/wiki/PhD",
-    "/wiki/Habilitation"
+    "/wiki/Habilitation",
+    "/wiki/B._S.",
 ]
 
 json_data = {}
@@ -143,6 +144,23 @@ def clean_up(s) :
     s = unidecode(s)
     return urllib.parse.quote(s, encoding='utf-8')
 
+def generate_list_of_universities() :
+    f = open("data.json", "r", encoding="utf-8")
+    data = json.loads(f.read())
+    f.close()
+    universities = []
+    for name in data :
+        for alma_matter in data[name]["alma_matters"] :
+            if alma_matter not in universities :
+                universities.append(alma_matter)
+        for institution in data[name]["institutions"] :
+            if institution not in universities :
+                universities.append(institution)
+    f = open("universities.txt", "w", encoding="utf-8")
+    for university in universities :
+        f.write('"' + university + '",\n')
+    f.close()
+
 #generates data.json file, with a json of all the scraped data
 def main() :
     #scrape_laureates() #retrieves all the wikipedia links of the laureates and saves them to "laureates.txt"
@@ -164,5 +182,8 @@ def main() :
     f.write(json.dumps(json_data))
     f.close()
 
-main()
+
+
+#main()
 #scrape_laureates()
+generate_list_of_universities()
