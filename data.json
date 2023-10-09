@@ -11,12 +11,12 @@
             "/wiki/University_of_Strasbourg",
             "/wiki/University_of_Hohenheim",
             "/wiki/University_of_Giessen",
-            "/wiki/University_of_W%C3%BCrzburg",
+            "/wiki/University_of_Wurzburg",
             "/wiki/University_of_Munich"
         ]
     },
-    "Jacobus Henricus van %27t Hoff": {
-        "link": "https://en.wikipedia.org/wiki/Jacobus_Henricus_van_%27t_Hoff",
+    "Jacobus Henricus van 't Hoff": {
+        "link": "https://en.wikipedia.org/wiki/Jacobus_Henricus_van_'t_Hoff",
         "category": "Chemistry",
         "year": 1901,
         "alma_matters": [
@@ -90,7 +90,7 @@
         "institutions": [
             "/wiki/University_of_Munich",
             "/wiki/University_of_Erlangen",
-            "/wiki/University_of_W%C3%BCrzburg",
+            "/wiki/University_of_Wurzburg",
             "/wiki/University_of_Berlin"
         ]
     },
@@ -99,14 +99,14 @@
         "category": "Medicine",
         "year": 1902,
         "alma_matters": [
-            "/wiki/St_Bartholomew%27s_Hospital_Medical_College",
+            "/wiki/St_Bartholomew's_Hospital_Medical_College",
             "/wiki/Worshipful_Society_of_Apothecaries"
         ],
         "institutions": [
             "/wiki/Presidency_General_Hospital",
             "/wiki/Calcutta",
             "/wiki/Liverpool_School_of_Tropical_Medicine",
-            "/wiki/King%27s_College_Hospital",
+            "/wiki/King's_College_Hospital",
             "/wiki/British_War_Office",
             "/wiki/Ministry_of_Pensions_and_National_Insurance"
         ]
@@ -145,12 +145,12 @@
         "category": "Physics",
         "year": 1903,
         "alma_matters": [
-            "/wiki/%C3%89cole_Polytechnique",
-            "/wiki/%C3%89cole_des_Ponts_et_Chauss%C3%A9es"
+            "/wiki/Ecole_Polytechnique",
+            "/wiki/Ecole_des_Ponts_et_Chaussees"
         ],
         "institutions": [
             "/wiki/Conservatoire_des_Arts_et_Metiers",
-            "/wiki/Mus%C3%A9um_National_d%27Histoire_Naturelle"
+            "/wiki/Museum_National_d'Histoire_Naturelle"
         ]
     },
     "Pierre Curie": {
@@ -173,8 +173,8 @@
         ],
         "institutions": [
             "/wiki/University_of_Paris",
-            "/wiki/Curie_Institute_(Paris)",
-            "/wiki/%C3%89cole_Normale_Sup%C3%A9rieure",
+            "/wiki/Curie_Institute_%28Paris%29",
+            "/wiki/Ecole_Normale_Superieure",
             "/wiki/French_Academy_of_Medicine",
             "/wiki/International_Committee_on_Intellectual_Cooperation"
         ]
@@ -212,7 +212,7 @@
         "alma_matters": [],
         "institutions": []
     },
-    "John Strutt%2C 3rd Baron Rayleigh": {
+    "John Strutt, 3rd Baron Rayleigh": {
         "link": "https://en.wikipedia.org/wiki/John_Strutt,_3rd_Baron_Rayleigh",
         "category": "Physics",
         "year": 1904,
@@ -229,9 +229,9 @@
         "category": "Chemistry",
         "year": 1904,
         "alma_matters": [
-            "/wiki/Anderson%27s_University",
+            "/wiki/Anderson's_University",
             "/wiki/University_of_Strathclyde",
-            "/wiki/University_of_T%C3%BCbingen"
+            "/wiki/University_of_Tubingen"
         ],
         "institutions": [
             "/wiki/University_of_Glasgow",
@@ -247,7 +247,7 @@
             "/wiki/Saint_Petersburg_State_University"
         ],
         "institutions": [
-            "/wiki/S.M._Kirov_Military_Medical_Academy#Imperial_Military_Medical_Academy"
+            "/wiki/S.M._Kirov_Military_Medical_Academy%23Imperial_Military_Medical_Academy"
         ]
     },
     "Frederic Mistral": {
@@ -281,7 +281,7 @@
             "/wiki/University_of_Heidelberg"
         ],
         "institutions": [
-            "/wiki/E%C3%B6tv%C3%B6s_Lor%C3%A1nd_University",
+            "/wiki/Eotvos_Lorand_University",
             "/wiki/University_of_Breslau",
             "/wiki/Aachen_University_of_Technology",
             "/wiki/University_of_Heidelberg",
@@ -308,7 +308,7 @@
         "category": "Medicine",
         "year": 1905,
         "alma_matters": [
-            "/wiki/University_of_G%C3%B6ttingen"
+            "/wiki/University_of_Gottingen"
         ],
         "institutions": [
             "/wiki/University_of_Berlin"
@@ -385,7 +385,7 @@
         "year": 1906,
         "alma_matters": [
             "/wiki/Harvard_University",
-            "/wiki/Columbia_Law_School"
+            "/wiki/Columbia_University"
         ],
         "institutions": []
     },
@@ -414,9 +414,9 @@
             "/wiki/Ludwig_Maximilian_University_of_Munich",
             "/wiki/University_of_Kiel",
             "/wiki/Agricultural_University_of_Berlin",
-            "/wiki/University_of_T%C3%BCbingen",
+            "/wiki/University_of_Tubingen",
             "/wiki/University_of_Breslau",
-            "/wiki/University_of_W%C3%BCrzburg"
+            "/wiki/University_of_Wurzburg"
         ]
     },
     "Charles Louis Alphonse Laveran": {
@@ -427,7 +427,7 @@
             "/wiki/University_of_Strasbourg"
         ],
         "institutions": [
-            "/wiki/Val-de-Gr%C3%A2ce",
+            "/wiki/Val-de-Grace",
             "/wiki/Pasteur_Institute"
         ]
     },
@@ -457,7 +457,7 @@
         "category": "Physics",
         "year": 1908,
         "alma_matters": [
-            "/wiki/%C3%89cole_Normale_Sup%C3%A9rieure"
+            "/wiki/Ecole_Normale_Superieure"
         ],
         "institutions": [
             "/wiki/University_of_Paris"
@@ -484,7 +484,7 @@
         "alma_matters": [
             "/wiki/National_University_of_Kharkiv",
             "/wiki/University_of_Giessen",
-            "/wiki/University_of_G%C3%B6ttingen",
+            "/wiki/University_of_Gottingen",
             "/wiki/University_of_Messina",
             "/wiki/Ludwig_Maximilian_University_of_Munich",
             "/wiki/Saint_Petersburg_State_University"
@@ -508,7 +508,7 @@
         "category": "Literature",
         "year": 1908,
         "alma_matters": [
-            "/wiki/G%C3%B6ttingen_University",
+            "/wiki/Gottingen_University",
             "/wiki/Berlin_University"
         ],
         "institutions": [
@@ -542,8 +542,8 @@
             "/wiki/University_of_Karlsruhe",
             "/wiki/University_of_Marburg",
             "/wiki/University_of_Strassburg",
-            "/wiki/University_of_T%C3%BCbingen",
-            "/wiki/University_of_W%C3%BCrzburg"
+            "/wiki/University_of_Tubingen",
+            "/wiki/University_of_Wurzburg"
         ]
     },
     "Guglielmo Marconi": {
@@ -589,13 +589,13 @@
         "category": "Peace",
         "year": 1909,
         "alma_matters": [
-            "/wiki/Catholic_University_of_Leuven_(1834%E2%80%931968)",
+            "/wiki/Catholic_University_of_Leuven_%281834-1968%29",
             "/wiki/Heidelberg_University"
         ],
         "institutions": []
     },
-    "Paul Henri Balluet d%27Estournelles de Constant": {
-        "link": "https://en.wikipedia.org/wiki/Paul_Henri_Balluet_d%27Estournelles_de_Constant",
+    "Paul Henri Balluet d'Estournelles de Constant": {
+        "link": "https://en.wikipedia.org/wiki/Paul_Henri_Balluet_d'Estournelles_de_Constant",
         "category": "Peace",
         "year": 1909,
         "alma_matters": [],
@@ -617,10 +617,10 @@
         "category": "Chemistry",
         "year": 1910,
         "alma_matters": [
-            "/wiki/University_of_G%C3%B6ttingen"
+            "/wiki/University_of_Gottingen"
         ],
         "institutions": [
-            "/wiki/University_of_G%C3%B6ttingen",
+            "/wiki/University_of_Gottingen",
             "/wiki/University_of_Bonn"
         ]
     },
@@ -653,12 +653,12 @@
         "category": "Physics",
         "year": 1911,
         "alma_matters": [
-            "/wiki/University_of_G%C3%B6ttingen",
+            "/wiki/University_of_Gottingen",
             "/wiki/University_of_Berlin"
         ],
         "institutions": [
             "/wiki/University_of_Giessen",
-            "/wiki/University_of_W%C3%BCrzburg",
+            "/wiki/University_of_Wurzburg",
             "/wiki/University_of_Munich",
             "/wiki/RWTH_Aachen"
         ]
@@ -704,7 +704,7 @@
         "year": 1912,
         "alma_matters": [
             "/wiki/Chalmers_University_of_Technology",
-            "/wiki/Z%C3%BCrich"
+            "/wiki/Zurich"
         ],
         "institutions": [
             "/wiki/AGA_AB"
@@ -726,11 +726,11 @@
         "category": "Chemistry",
         "year": 1912,
         "alma_matters": [
-            "/wiki/Coll%C3%A8ge_de_France",
-            "/wiki/%C3%89cole_Normale_Sup%C3%A9rieure"
+            "/wiki/College_de_France",
+            "/wiki/Ecole_Normale_Superieure"
         ],
         "institutions": [
-            "/wiki/Coll%C3%A8ge_de_France",
+            "/wiki/College_de_France",
             "/wiki/University_of_Bordeaux",
             "/wiki/University_of_Toulouse"
         ]
@@ -759,8 +759,8 @@
         "category": "Peace",
         "year": 1912,
         "alma_matters": [
-            "/wiki/Hamilton_College_(New_York)",
-            "/wiki/New_York_University_School_of_Law"
+            "/wiki/Hamilton_College_%28New_York%29",
+            "/wiki/New_York_University"
         ],
         "institutions": []
     },
@@ -829,12 +829,12 @@
         "year": 1914,
         "alma_matters": [
             "/wiki/University_of_Strasbourg",
-            "/wiki/University_of_G%C3%B6ttingen",
+            "/wiki/University_of_Gottingen",
             "/wiki/University_of_Munich",
             "/wiki/University_of_Berlin"
         ],
         "institutions": [
-            "/wiki/University_of_Z%C3%BCrich",
+            "/wiki/University_of_Zurich",
             "/wiki/Goethe_University_Frankfurt",
             "/wiki/University_of_Berlin",
             "/wiki/Max_Planck_Institute"
@@ -857,8 +857,7 @@
         "category": "Medicine",
         "year": 1914,
         "alma_matters": [
-            "/wiki/University_of_Vienna",
-            "/wiki/M._D."
+            "/wiki/University_of_Vienna"
         ],
         "institutions": [
             "/wiki/Uppsala_University"
@@ -883,7 +882,7 @@
         "category": "Physics",
         "year": 1915,
         "alma_matters": [
-            "/wiki/St_Peter%27s_College,_Adelaide",
+            "/wiki/St_Peter's_College,_Adelaide",
             "/wiki/University_of_Adelaide",
             "/wiki/Trinity_College,_Cambridge"
         ],
@@ -902,7 +901,7 @@
         ],
         "institutions": [
             "/wiki/University_of_Munich",
-            "/wiki/ETH_Z%C3%BCrich",
+            "/wiki/ETH_Zurich",
             "/wiki/University_of_Berlin",
             "/wiki/Kaiser_Wilhelm_Institute"
         ]
@@ -928,12 +927,12 @@
         "alma_matters": [
             "/wiki/University_College_Liverpool",
             "/wiki/Trinity_College,_Cambridge",
-            "/wiki/King%27s_College,_Cambridge"
+            "/wiki/King's_College,_Cambridge"
         ],
         "institutions": [
             "/wiki/University_of_Cambridge",
             "/wiki/University_of_Liverpool",
-            "/wiki/King%27s_College_London",
+            "/wiki/King's_College_London",
             "/wiki/University_of_Edinburgh"
         ]
     },
@@ -967,7 +966,7 @@
         ],
         "institutions": [
             "/wiki/University_of_Kiel",
-            "/wiki/University_of_G%C3%B6ttingen",
+            "/wiki/University_of_Gottingen",
             "/wiki/Kaiser_Wilhelm_Society"
         ]
     },
@@ -993,11 +992,11 @@
             "/wiki/University_of_Munich"
         ],
         "institutions": [
-            "/wiki/University_of_G%C3%B6ttingen",
+            "/wiki/University_of_Gottingen",
             "/wiki/Leibniz_University_Hannover",
             "/wiki/RWTH_Aachen",
             "/wiki/University_of_Greifswald",
-            "/wiki/University_of_W%C3%BCrzburg"
+            "/wiki/University_of_Wurzburg"
         ]
     },
     "Jules Bordet": {
@@ -1005,7 +1004,7 @@
         "category": "Medicine",
         "year": 1919,
         "alma_matters": [
-            "/wiki/Free_University_of_Brussels_(1834%E2%80%931969)"
+            "/wiki/Free_University_of_Brussels_%281834-1969%29"
         ],
         "institutions": []
     },
@@ -1038,7 +1037,7 @@
         ],
         "institutions": [
             "/wiki/Bureau_International_des_Poids_et_Mesures",
-            "/wiki/S%C3%A8vres"
+            "/wiki/Sevres"
         ]
     },
     "Walther Nernst": {
@@ -1046,13 +1045,13 @@
         "category": "Chemistry",
         "year": 1920,
         "alma_matters": [
-            "/wiki/University_of_Z%C3%BCrich",
+            "/wiki/University_of_Zurich",
             "/wiki/University_of_Berlin",
             "/wiki/University_of_Graz",
-            "/wiki/Julius_Maximilian_University_of_W%C3%BCrzburg"
+            "/wiki/Julius_Maximilian_University_of_Wurzburg"
         ],
         "institutions": [
-            "/wiki/Georg_August_University_of_G%C3%B6ttingen",
+            "/wiki/Georg_August_University_of_Gottingen",
             "/wiki/University_of_Berlin",
             "/wiki/Leipzig_University"
         ]
@@ -1078,7 +1077,7 @@
         "category": "Peace",
         "year": 1920,
         "alma_matters": [
-            "/wiki/Universit%C3%A9_de_Paris"
+            "/wiki/Universite_de_Paris"
         ],
         "institutions": []
     },
@@ -1258,7 +1257,7 @@
             "/wiki/University_of_Leipzig"
         ],
         "institutions": [
-            "/wiki/Case_Western_Reserve_University_School_of_Medicine",
+            "/wiki/Case_Western_Reserve_University",
             "/wiki/University_of_Toronto"
         ]
     },
@@ -1273,7 +1272,7 @@
             "/wiki/Theosophical_Society_Adyar",
             "/wiki/Theosophical_Society_Pasadena",
             "/wiki/United_Lodge_of_Theosophists",
-            "/wiki/Category:Theosophy"
+            "/wiki/Category%3ATheosophy"
         ]
     },
     "Manne Siegbahn": {
@@ -1315,7 +1314,7 @@
         ],
         "institutions": [
             "/wiki/Humboldt_University_of_Berlin",
-            "/wiki/University_of_G%C3%B6ttingen",
+            "/wiki/University_of_Gottingen",
             "/wiki/Johns_Hopkins_University",
             "/wiki/University_of_Chicago",
             "/wiki/Metallurgical_Laboratory"
@@ -1347,7 +1346,7 @@
             "/wiki/Technical_University_of_Vienna",
             "/wiki/University_of_Munich",
             "/wiki/Graz_University_of_Technology",
-            "/wiki/University_of_G%C3%B6ttingen"
+            "/wiki/University_of_Gottingen"
         ]
     },
     "George Bernard Shaw": {
@@ -1384,11 +1383,11 @@
         "category": "Physics",
         "year": 1926,
         "alma_matters": [
-            "/wiki/%C3%89cole_Normale_Sup%C3%A9rieure",
+            "/wiki/Ecole_Normale_Superieure",
             "/wiki/University_of_Paris"
         ],
         "institutions": [
-            "/wiki/%C3%89cole_Normale_Sup%C3%A9rieure",
+            "/wiki/Ecole_Normale_Superieure",
             "/wiki/University_of_Paris"
         ]
     },
@@ -1490,11 +1489,11 @@
         "category": "Literature",
         "year": 1927,
         "alma_matters": [
-            "/wiki/%C3%89cole_Normale_Sup%C3%A9rieure",
+            "/wiki/Ecole_Normale_Superieure",
             "/wiki/University_of_Paris"
         ],
         "institutions": [
-            "/wiki/Coll%C3%A8ge_de_France"
+            "/wiki/College_de_France"
         ]
     },
     "Ferdinand Buisson": {
@@ -1523,7 +1522,7 @@
         "institutions": [
             "/wiki/University_of_Cambridge",
             "/wiki/Princeton_University",
-            "/wiki/King%27s_College_London"
+            "/wiki/King's_College_London"
         ]
     },
     "Adolf Windaus": {
@@ -1597,8 +1596,8 @@
         "year": 1929,
         "alma_matters": [
             "/wiki/City_of_London_School",
-            "/wiki/King%27s_College_London",
-            "/wiki/Guy%27s_Hospital"
+            "/wiki/King's_College_London",
+            "/wiki/Guy's_Hospital"
         ],
         "institutions": [
             "/wiki/University_of_Cambridge"
@@ -1656,8 +1655,7 @@
         "category": "Medicine",
         "year": 1930,
         "alma_matters": [
-            "/wiki/University_of_Vienna",
-            "/wiki/M._D."
+            "/wiki/University_of_Vienna"
         ],
         "institutions": [
             "/wiki/Rockefeller_University"
@@ -1749,10 +1747,10 @@
         "year": 1932,
         "alma_matters": [
             "/wiki/University_of_Munich",
-            "/wiki/University_of_G%C3%B6ttingen"
+            "/wiki/University_of_Gottingen"
         ],
         "institutions": [
-            "/wiki/University_of_G%C3%B6ttingen",
+            "/wiki/University_of_Gottingen",
             "/wiki/University_of_Copenhagen",
             "/wiki/University_of_Leipzig",
             "/wiki/University_of_Berlin",
@@ -1766,7 +1764,7 @@
         "year": 1932,
         "alma_matters": [
             "/wiki/Columbia_University",
-            "/wiki/University_of_G%C3%B6ttingen"
+            "/wiki/University_of_Gottingen"
         ],
         "institutions": [
             "/wiki/Stevens_Institute_of_Technology",
@@ -1783,7 +1781,7 @@
             "/wiki/University_of_Cambridge"
         ],
         "institutions": [
-            "/wiki/King%27s_College,_London",
+            "/wiki/King's_College,_London",
             "/wiki/University_of_Liverpool",
             "/wiki/University_of_Oxford"
         ]
@@ -1794,7 +1792,7 @@
         "year": 1932,
         "alma_matters": [
             "/wiki/Trinity_College,_Cambridge",
-            "/wiki/St_Bartholomew%27s_Hospital_Medical_College"
+            "/wiki/St_Bartholomew's_Hospital_Medical_College"
         ],
         "institutions": [
             "/wiki/University_of_Cambridge"
@@ -1817,7 +1815,7 @@
         ],
         "institutions": [
             "/wiki/University_of_Breslau",
-            "/wiki/University_of_Z%C3%BCrich",
+            "/wiki/University_of_Zurich",
             "/wiki/University_of_Berlin",
             "/wiki/University_of_Oxford",
             "/wiki/University_of_Graz",
@@ -1891,7 +1889,7 @@
         "category": "Medicine",
         "year": 1934,
         "alma_matters": [
-            "/wiki/Johns_Hopkins_School_of_Medicine",
+            "/wiki/Johns_Hopkins_University",
             "/wiki/Yale_University"
         ],
         "institutions": [
@@ -1907,7 +1905,7 @@
             "/wiki/Harvard_University"
         ],
         "institutions": [
-            "/wiki/Johns_Hopkins_School_of_Medicine"
+            "/wiki/Johns_Hopkins_University"
         ]
     },
     "William P. Murphy": {
@@ -1944,14 +1942,14 @@
             "/wiki/Eustace_Percy,_1st_Baron_Percy_of_Newcastle",
             "/wiki/Sir_Charles_Trevelyan,_3rd_Baronet",
             "/wiki/Hastings_Lees-Smith",
-            "/wiki/Donald_Maclean_(British_politician)",
+            "/wiki/Donald_Maclean_%28British_politician%29",
             "/wiki/Edward_Wood,_1st_Earl_of_Halifax",
             "/wiki/Oliver_Stanley",
             "/wiki/James_Stanhope,_7th_Earl_Stanhope",
             "/wiki/Herbrand_Sackville,_9th_Earl_De_La_Warr",
             "/wiki/Herwald_Ramsbotham,_1st_Viscount_Soulbury",
             "/wiki/Rab_Butler",
-            "/wiki/File:Royal_Coat_of_Arms_of_the_United_Kingdom_(HM_Government)_(2022).svg"
+            "/wiki/File%3ARoyal_Coat_of_Arms_of_the_United_Kingdom_%28HM_Government%29_%282022%29.svg"
         ],
         "institutions": []
     },
@@ -1988,7 +1986,7 @@
         ],
         "institutions": [
             "/wiki/University_of_Paris",
-            "/wiki/Curie_Institute_(Paris)"
+            "/wiki/Curie_Institute_%28Paris%29"
         ]
     },
     "Hans Spemann": {
@@ -2026,7 +2024,6 @@
         "year": 1936,
         "alma_matters": [
             "/wiki/California_Institute_of_Technology",
-            "/wiki/B.S.",
             "/wiki/Ph.D"
         ],
         "institutions": [
@@ -2044,7 +2041,7 @@
         "institutions": [
             "/wiki/University_of_Zurich",
             "/wiki/University_of_Utrecht",
-            "/wiki/University_of_G%C3%B6ttingen",
+            "/wiki/University_of_Gottingen",
             "/wiki/ETH_Zurich",
             "/wiki/University_of_Leipzig",
             "/wiki/University_of_Berlin",
@@ -2059,7 +2056,7 @@
             "/wiki/Tollington_School",
             "/wiki/The_Leys_School",
             "/wiki/University_of_Cambridge",
-            "/wiki/St_Bartholomew%27s_Hospital"
+            "/wiki/St_Bartholomew's_Hospital"
         ],
         "institutions": []
     },
@@ -2075,8 +2072,8 @@
             "/wiki/University_of_Graz"
         ]
     },
-    "Eugene O%27Neill": {
-        "link": "https://en.wikipedia.org/wiki/Eugene_O%27Neill",
+    "Eugene O'Neill": {
+        "link": "https://en.wikipedia.org/wiki/Eugene_O'Neill",
         "category": "Literature",
         "year": 1936,
         "alma_matters": [],
@@ -2122,7 +2119,7 @@
         "year": 1937,
         "alma_matters": [
             "/wiki/University_of_Manchester",
-            "/wiki/University_of_G%C3%B6ttingen"
+            "/wiki/University_of_Gottingen"
         ],
         "institutions": [
             "/wiki/University_of_St._Andrews",
@@ -2135,10 +2132,10 @@
         "category": "Chemistry",
         "year": 1937,
         "alma_matters": [
-            "/wiki/Universit%C3%A4t_Z%C3%BCrich"
+            "/wiki/Universitat_Zurich"
         ],
         "institutions": [
-            "/wiki/Universit%C3%A4t_Z%C3%BCrich"
+            "/wiki/Universitat_Zurich"
         ]
     },
     "Albert Szent-Gyorgyi": {
@@ -2162,13 +2159,13 @@
         "alma_matters": [],
         "institutions": []
     },
-    "Robert Cecil%2C 1st Viscount Cecil of Chelwood": {
+    "Robert Cecil, 1st Viscount Cecil of Chelwood": {
         "link": "https://en.wikipedia.org/wiki/Robert_Cecil,_1st_Viscount_Cecil_of_Chelwood",
         "category": "Peace",
         "year": 1937,
         "alma_matters": [
             "/wiki/University_College,_Oxford",
-            "/wiki/MA_(Oxon)"
+            "/wiki/MA_%28Oxon%29"
         ],
         "institutions": []
     },
@@ -2183,7 +2180,7 @@
         "institutions": [
             "/wiki/Scuola_Normale_Superiore_di_Pisa",
             "/wiki/Pisa",
-            "/wiki/University_of_G%C3%B6ttingen",
+            "/wiki/University_of_Gottingen",
             "/wiki/Leiden_University",
             "/wiki/University_of_Florence",
             "/wiki/Sapienza_University_of_Rome",
@@ -2220,7 +2217,7 @@
         "year": 1938,
         "alma_matters": [
             "/wiki/Cornell_University",
-            "/wiki/Randolph-Macon_Woman%27s_College"
+            "/wiki/Randolph-Macon_Woman's_College"
         ],
         "institutions": []
     },
@@ -2262,7 +2259,7 @@
         "category": "Chemistry",
         "year": 1939,
         "alma_matters": [
-            "/wiki/Universit%C3%A4t_Karlsruhe_(TH)"
+            "/wiki/Universitat_Karlsruhe_%28TH%29"
         ],
         "institutions": [
             "/wiki/ETH_Zurich",
@@ -2309,9 +2306,9 @@
         ],
         "institutions": [
             "/wiki/Ghent_University",
-            "/wiki/E%C3%B6tv%C3%B6s_Lor%C3%A1nd_University",
+            "/wiki/Eotvos_Lorand_University",
             "/wiki/Niels_Bohr_Institute",
-            "/wiki/ETH_Z%C3%BCrich",
+            "/wiki/ETH_Zurich",
             "/wiki/Albert_Ludwigs_University_of_Freiburg",
             "/wiki/University_of_Manchester"
         ]
@@ -2378,11 +2375,11 @@
         "year": 1944,
         "alma_matters": [
             "/wiki/University_of_California,_Berkeley",
-            "/wiki/Johns_Hopkins_School_of_Medicine"
+            "/wiki/Johns_Hopkins_University"
         ],
         "institutions": [
             "/wiki/University_of_Wisconsin",
-            "/wiki/Washington_University_School_of_Medicine"
+            "/wiki/Washington_University_in_St._Louis"
         ]
     },
     "Herbert Spencer Gasser": {
@@ -2390,8 +2387,8 @@
         "category": "Medicine",
         "year": 1944,
         "alma_matters": [
-            "/wiki/University_of_Wisconsin%E2%80%93Madison",
-            "/wiki/Johns_Hopkins_School_of_Medicine"
+            "/wiki/University_of_Wisconsin-Madison",
+            "/wiki/Johns_Hopkins_University"
         ],
         "institutions": [
             "/wiki/Rockefeller_University",
@@ -2414,7 +2411,7 @@
             "/wiki/Ludwig-Maximilians_University"
         ],
         "institutions": [
-            "/wiki/University_of_G%C3%B6ttingen",
+            "/wiki/University_of_Gottingen",
             "/wiki/University_of_Copenhagen",
             "/wiki/University_of_Hamburg",
             "/wiki/ETH_Zurich",
@@ -2439,7 +2436,7 @@
         "year": 1945,
         "alma_matters": [
             "/wiki/University_of_Westminster",
-            "/wiki/St_Mary%27s_Hospital_Medical_School"
+            "/wiki/St_Mary's_Hospital_Medical_School"
         ],
         "institutions": []
     },
@@ -2455,7 +2452,7 @@
             "/wiki/Imperial_College_London",
             "/wiki/University_of_Cambridge",
             "/wiki/University_of_Oxford",
-            "/wiki/Istituto_Superiore_di_Sanit%C3%A0",
+            "/wiki/Istituto_Superiore_di_Sanita",
             "/wiki/University_College_Hospital"
         ]
     },
@@ -2465,7 +2462,7 @@
         "year": 1945,
         "alma_matters": [
             "/wiki/Scotch_College,_Adelaide",
-            "/wiki/St_Peter%27s_College,_Adelaide",
+            "/wiki/St_Peter's_College,_Adelaide",
             "/wiki/University_of_Adelaide",
             "/wiki/Magdalen_College,_Oxford",
             "/wiki/Gonville_and_Caius_College,_Cambridge"
@@ -2583,13 +2580,13 @@
         "category": "Physics",
         "year": 1947,
         "alma_matters": [
-            "/wiki/St_John%27s_College,_Cambridge"
+            "/wiki/St_John's_College,_Cambridge"
         ],
         "institutions": [
-            "/wiki/National_Physical_Laboratory_(United_Kingdom)",
+            "/wiki/National_Physical_Laboratory_%28United_Kingdom%29",
             "/wiki/University_of_Edinburgh",
             "/wiki/University_of_Cambridge",
-            "/wiki/King%27s_College_London"
+            "/wiki/King's_College_London"
         ]
     },
     "Robert Robinson %28organic chemist%29": {
@@ -2624,10 +2621,10 @@
         "category": "Medicine",
         "year": 1947,
         "alma_matters": [
-            "/wiki/Karl-Ferdinands-Universit%C3%A4t"
+            "/wiki/Karl-Ferdinands-Universitat"
         ],
         "institutions": [
-            "/wiki/Washington_University_School_of_Medicine"
+            "/wiki/Washington_University_in_St._Louis"
         ]
     },
     "Bernardo Houssay": {
@@ -2642,7 +2639,7 @@
         "category": "Literature",
         "year": 1947,
         "alma_matters": [
-            "/wiki/Lyc%C3%A9e_Henri-IV"
+            "/wiki/Lycee_Henri-IV"
         ],
         "institutions": []
     },
@@ -2669,7 +2666,7 @@
             "/wiki/University_of_Cambridge"
         ],
         "institutions": [
-            "/wiki/King%27s_College,_Cambridge",
+            "/wiki/King's_College,_Cambridge",
             "/wiki/Birkbeck,_University_of_London",
             "/wiki/University_of_Manchester",
             "/wiki/Imperial_College_London"
@@ -2689,7 +2686,7 @@
         "category": "Medicine",
         "year": 1948,
         "alma_matters": [
-            "/wiki/Universit%C3%A4t_Basel"
+            "/wiki/Universitat_Basel"
         ],
         "institutions": [
             "/wiki/J._R._Geigy_AG"
@@ -2743,7 +2740,7 @@
         ],
         "institutions": [
             "/wiki/University_of_Zurich",
-            "/wiki/ETH_Z%C3%BCrich"
+            "/wiki/ETH_Zurich"
         ]
     },
     "Antonio Egas Moniz": {
@@ -2838,7 +2835,7 @@
         ],
         "institutions": [
             "/wiki/Parke-Davis",
-            "/wiki/St._Luke%27s-Roosevelt_Hospital_Center",
+            "/wiki/St._Luke's-Roosevelt_Hospital_Center",
             "/wiki/Mayo_Clinic",
             "/wiki/Princeton_University"
         ]
@@ -2869,7 +2866,7 @@
         "category": "Peace",
         "year": 1950,
         "alma_matters": [
-            "/wiki/UCLA",
+            "/wiki/University_of_California,_Los_Angeles",
             "/wiki/Harvard_University",
             "/wiki/Doctorate_of_Philosophy",
             "/wiki/Northwestern_University",
@@ -2884,7 +2881,7 @@
         "alma_matters": [
             "/wiki/Victoria_University_of_Manchester",
             "/wiki/University_of_Manchester_Institute_of_Science_and_Technology",
-            "/wiki/St._John%27s_College,_Cambridge"
+            "/wiki/St._John's_College,_Cambridge"
         ],
         "institutions": [
             "/wiki/Atomic_Energy_Research_Establishment"
@@ -2960,7 +2957,7 @@
         "category": "Physics",
         "year": 1952,
         "alma_matters": [
-            "/wiki/ETH_Z%C3%BCrich",
+            "/wiki/ETH_Zurich",
             "/wiki/University_of_Leipzig"
         ],
         "institutions": [
@@ -2992,7 +2989,7 @@
         "institutions": [
             "/wiki/University_of_Sussex",
             "/wiki/University_of_Houston",
-            "/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne"
+            "/wiki/Ecole_Polytechnique_Federale_de_Lausanne"
         ]
     },
     "Richard Laurence Millington Synge": {
@@ -3021,7 +3018,7 @@
         "year": 1952,
         "alma_matters": [
             "/wiki/University_of_Bordeaux",
-            "/wiki/%C3%89cole_des_Chartes"
+            "/wiki/Ecole_des_Chartes"
         ],
         "institutions": []
     },
@@ -3050,13 +3047,13 @@
         "category": "Chemistry",
         "year": 1953,
         "alma_matters": [
-            "/wiki/Technische_Universit%C3%A4t_Darmstadt",
+            "/wiki/Technische_Universitat_Darmstadt",
             "/wiki/University_of_Halle"
         ],
         "institutions": [
             "/wiki/University_of_Strasbourg",
             "/wiki/University_of_Karlsruhe",
-            "/wiki/ETH_Z%C3%BCrich",
+            "/wiki/ETH_Zurich",
             "/wiki/University_of_Freiburg"
         ]
     },
@@ -3065,7 +3062,7 @@
         "category": "Medicine",
         "year": 1953,
         "alma_matters": [
-            "/wiki/University_of_G%C3%B6ttingen",
+            "/wiki/University_of_Gottingen",
             "/wiki/University_of_Freiburg",
             "/wiki/University_of_Berlin",
             "/wiki/University_of_Hamburg"
@@ -3083,7 +3080,7 @@
         "category": "Medicine",
         "year": 1953,
         "alma_matters": [
-            "/wiki/University_of_K%C3%B6nigsberg",
+            "/wiki/University_of_Konigsberg",
             "/wiki/University_of_Berlin",
             "/wiki/University_of_Munich",
             "/wiki/Kaiser_Wilhelm_Institute_for_Biology"
@@ -3091,7 +3088,7 @@
         "institutions": [
             "/wiki/Max_Planck_Institute_for_Medical_Research",
             "/wiki/Massachusetts_General_Hospital",
-            "/wiki/Harvard_Medical_School",
+            "/wiki/Harvard_University",
             "/wiki/The_Rockefeller_University"
         ]
     },
@@ -3119,11 +3116,11 @@
         "category": "Physics",
         "year": 1954,
         "alma_matters": [
-            "/wiki/University_of_G%C3%B6ttingen"
+            "/wiki/University_of_Gottingen"
         ],
         "institutions": [
             "/wiki/Goethe_University_Frankfurt",
-            "/wiki/University_of_G%C3%B6ttingen",
+            "/wiki/University_of_Gottingen",
             "/wiki/University_of_Edinburgh",
             "/wiki/University_of_Cambridge"
         ]
@@ -3164,7 +3161,7 @@
         "category": "Medicine",
         "year": 1954,
         "alma_matters": [
-            "/wiki/St._Paul%27s_School_(New_Hampshire)",
+            "/wiki/St._Paul's_School_%28New_Hampshire%29",
             "/wiki/Yale_University",
             "/wiki/Harvard_University"
         ],
@@ -3179,7 +3176,7 @@
             "/wiki/Harvard_University"
         ],
         "institutions": [
-            "/wiki/Case_Western_Reserve_University_School_of_Medicine"
+            "/wiki/Case_Western_Reserve_University"
         ]
     },
     "Thomas Huckle Weller": {
@@ -3188,7 +3185,7 @@
         "year": 1954,
         "alma_matters": [
             "/wiki/University_of_Michigan",
-            "/wiki/Harvard_Medical_School"
+            "/wiki/Harvard_University"
         ],
         "institutions": []
     },
@@ -3268,12 +3265,12 @@
         "category": "Physics",
         "year": 1972,
         "alma_matters": [
-            "/wiki/University_of_Wisconsin%E2%80%93Madison",
+            "/wiki/University_of_Wisconsin-Madison",
             "/wiki/Princeton_University"
         ],
         "institutions": [
             "/wiki/Bell_Telephone_Laboratories",
-            "/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign",
+            "/wiki/University_of_Illinois_at_Urbana-Champaign",
             "/wiki/University_of_Minnesota-Twin_Cities"
         ]
     },
@@ -3296,8 +3293,8 @@
         "category": "Physics",
         "year": 1956,
         "alma_matters": [
-            "/wiki/Caltech",
-            "/wiki/MIT"
+            "/wiki/California_Institute_of_Technology",
+            "/wiki/Massachusetts_Institute_of_Technology"
         ],
         "institutions": [
             "/wiki/Bell_Telephone_Laboratories",
@@ -3333,7 +3330,7 @@
             "/wiki/University_of_Paris"
         ],
         "institutions": [
-            "/wiki/Columbia_University_College_of_Physicians_and_Surgeons"
+            "/wiki/Columbia_University"
         ]
     },
     "Werner Forssmann": {
@@ -3351,7 +3348,7 @@
         "year": 1956,
         "alma_matters": [
             "/wiki/Yale_University",
-            "/wiki/Columbia_University_College_of_Physicians_and_Surgeons"
+            "/wiki/Columbia_University"
         ],
         "institutions": [
             "/wiki/Columbia_University",
@@ -3413,7 +3410,7 @@
             "/wiki/University_of_London",
             "/wiki/University_of_Manchester",
             "/wiki/University_of_Cambridge",
-            "/wiki/Christ%27s_College,_Cambridge",
+            "/wiki/Christ's_College,_Cambridge",
             "/wiki/University_of_Strathclyde",
             "/wiki/Hatfield_Polytechnic"
         ]
@@ -3440,7 +3437,7 @@
         "year": 1957,
         "alma_matters": [
             "/wiki/Victoria_University,_Toronto",
-            "/wiki/St_John%27s_College,_Oxford"
+            "/wiki/St_John's_College,_Oxford"
         ],
         "institutions": []
     },
@@ -3515,7 +3512,7 @@
         "year": 1958,
         "alma_matters": [
             "/wiki/University_of_Chicago",
-            "/wiki/University_of_Wisconsin%E2%80%93Madison"
+            "/wiki/University_of_Wisconsin-Madison"
         ],
         "institutions": [
             "/wiki/Stanford_University",
@@ -3546,8 +3543,8 @@
         "category": "Peace",
         "year": 1958,
         "alma_matters": [
-            "/wiki/Pontifical_University_of_St._Thomas_Aquinas_(Angelicum)",
-            "/wiki/Catholic_University_of_Leuven_(1834%E2%80%931968)"
+            "/wiki/Pontifical_University_of_St._Thomas_Aquinas_%28Angelicum%29",
+            "/wiki/Catholic_University_of_Leuven_%281834-1968%29"
         ],
         "institutions": []
     },
@@ -3611,8 +3608,8 @@
         "alma_matters": [],
         "institutions": [
             "/wiki/New_York_University",
-            "/wiki/New_York_University_School_of_Medicine",
-            "/wiki/Washington_University_School_of_Medicine"
+            "/wiki/New_York_University",
+            "/wiki/Washington_University_in_St._Louis"
         ]
     },
     "Salvatore Quasimodo": {
@@ -3628,7 +3625,7 @@
         "year": 1959,
         "alma_matters": [
             "/wiki/Haverford_College",
-            "/wiki/King%27s_College,_Cambridge"
+            "/wiki/King's_College,_Cambridge"
         ],
         "institutions": []
     },
@@ -3719,7 +3716,7 @@
         "category": "Physics",
         "year": 1961,
         "alma_matters": [
-            "/wiki/Technische_Universit%C3%A4t_M%C3%BCnchen"
+            "/wiki/Technische_Universitat_Munchen"
         ],
         "institutions": [
             "/wiki/Technical_University_of_Munich",
@@ -3856,12 +3853,12 @@
         "category": "Medicine",
         "year": 1962,
         "alma_matters": [
-            "/wiki/King_Edward%27s_School,_Birmingham",
+            "/wiki/King_Edward's_School,_Birmingham",
             "/wiki/University_of_Cambridge",
             "/wiki/University_of_Birmingham"
         ],
         "institutions": [
-            "/wiki/King%27s_College_London",
+            "/wiki/King's_College_London",
             "/wiki/University_of_Birmingham",
             "/wiki/University_of_California,_Berkeley",
             "/wiki/University_of_St_Andrews"
@@ -3883,8 +3880,8 @@
             "/wiki/Technical_University_of_Berlin"
         ],
         "institutions": [
-            "/wiki/University_of_G%C3%B6ttingen",
-            "/wiki/University_of_Wisconsin%E2%80%93Madison",
+            "/wiki/University_of_Gottingen",
+            "/wiki/University_of_Wisconsin-Madison",
             "/wiki/Princeton_University",
             "/wiki/Manhattan_Project",
             "/wiki/University_of_Chicago"
@@ -3895,7 +3892,7 @@
         "category": "Physics",
         "year": 1963,
         "alma_matters": [
-            "/wiki/University_of_G%C3%B6ttingen"
+            "/wiki/University_of_Gottingen"
         ],
         "institutions": [
             "/wiki/Sarah_Lawrence_College",
@@ -3926,7 +3923,7 @@
             "/wiki/Goethe_University_Frankfurt",
             "/wiki/University_of_Heidelberg",
             "/wiki/Martin_Luther_University_of_Halle-Wittenberg",
-            "/wiki/Max_Planck_Institute_f%C3%BCr_Kohlenforschung",
+            "/wiki/Max_Planck_Institute_fur_Kohlenforschung",
             "/wiki/University_of_Chicago"
         ]
     },
@@ -4037,7 +4034,6 @@
         "alma_matters": [
             "/wiki/Sir_John_Leman_High_School",
             "/wiki/Somerville_College,_Oxford",
-            "/wiki/Bachelor%27s_degree",
             "/wiki/University_of_Cambridge",
             "/wiki/Doctorate"
         ],
@@ -4069,7 +4065,7 @@
         "category": "Literature",
         "year": 1964,
         "alma_matters": [
-            "/wiki/%C3%89cole_normale_sup%C3%A9rieure"
+            "/wiki/Ecole_normale_superieure"
         ],
         "institutions": []
     },
@@ -4084,8 +4080,8 @@
         ],
         "institutions": []
     },
-    "Shin%27ichiro Tomonaga": {
-        "link": "https://en.wikipedia.org/wiki/Shin%27ichir%C5%8D_Tomonaga",
+    "Shin'ichiro Tomonaga": {
+        "link": "https://en.wikipedia.org/wiki/Shin'ichir%C5%8D_Tomonaga",
         "category": "Physics",
         "year": 1965,
         "alma_matters": [
@@ -4105,7 +4101,6 @@
         "year": 1965,
         "alma_matters": [
             "/wiki/City_College_of_New_York",
-            "/wiki/B._A.",
             "/wiki/Columbia_University"
         ],
         "institutions": [
@@ -4189,7 +4184,7 @@
         "category": "Physics",
         "year": 1966,
         "alma_matters": [
-            "/wiki/%C3%89cole_Normale_Sup%C3%A9rieure",
+            "/wiki/Ecole_Normale_Superieure",
             "/wiki/University_of_Paris"
         ],
         "institutions": []
@@ -4199,7 +4194,7 @@
         "category": "Chemistry",
         "year": 1966,
         "alma_matters": [
-            "/wiki/MIT",
+            "/wiki/Massachusetts_Institute_of_Technology",
             "/wiki/University_of_Chicago"
         ],
         "institutions": []
@@ -4249,7 +4244,7 @@
             "/wiki/University_of_Munich"
         ],
         "institutions": [
-            "/wiki/University_of_T%C3%BCbingen",
+            "/wiki/University_of_Tubingen",
             "/wiki/Cornell_University",
             "/wiki/University_of_Bristol",
             "/wiki/University_of_Manchester",
@@ -4261,7 +4256,7 @@
         "category": "Chemistry",
         "year": 1967,
         "alma_matters": [
-            "/wiki/University_of_G%C3%B6ttingen"
+            "/wiki/University_of_Gottingen"
         ],
         "institutions": [
             "/wiki/Max_Planck_Institute_for_Biophysical_Chemistry",
@@ -4310,13 +4305,13 @@
         "year": 1967,
         "alma_matters": [
             "/wiki/Lafayette_College",
-            "/wiki/Johns_Hopkins_School_of_Medicine"
+            "/wiki/Johns_Hopkins_University"
         ],
         "institutions": [
             "/wiki/University_of_Pennsylvania",
             "/wiki/Cornell_University",
             "/wiki/Rockefeller_University",
-            "/wiki/Johns_Hopkins_School_of_Medicine"
+            "/wiki/Johns_Hopkins_University"
         ]
     },
     "George Wald": {
@@ -4359,7 +4354,7 @@
             "/wiki/Norwegian_University_of_Science_and_Technology"
         ],
         "institutions": [
-            "/wiki/ETH_Z%C3%BCrich",
+            "/wiki/ETH_Zurich",
             "/wiki/Johns_Hopkins_University",
             "/wiki/Brown_University",
             "/wiki/Yale_University",
@@ -4371,7 +4366,7 @@
         "category": "Medicine",
         "year": 1968,
         "alma_matters": [
-            "/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign",
+            "/wiki/University_of_Illinois_at_Urbana-Champaign",
             "/wiki/Cornell_University"
         ],
         "institutions": [
@@ -4385,13 +4380,11 @@
         "alma_matters": [
             "/wiki/Government_College_University,_Lahore",
             "/wiki/University_of_the_Punjab",
-            "/wiki/B.S.",
-            "/wiki/M.S.",
             "/wiki/University_of_Liverpool"
         ],
         "institutions": [
-            "/wiki/MIT",
-            "/wiki/University_of_Wisconsin%E2%80%93Madison",
+            "/wiki/Massachusetts_Institute_of_Technology",
+            "/wiki/University_of_Wisconsin-Madison",
             "/wiki/University_of_British_Columbia",
             "/wiki/University_of_Cambridge",
             "/wiki/ETH_Zurich"
@@ -4475,7 +4468,7 @@
         "category": "Medicine",
         "year": 1969,
         "alma_matters": [
-            "/wiki/University_of_G%C3%B6ttingen"
+            "/wiki/University_of_Gottingen"
         ],
         "institutions": [
             "/wiki/Kaiser_Wilhelm_Society",
@@ -4491,7 +4484,7 @@
             "/wiki/Michigan_State_University"
         ],
         "institutions": [
-            "/wiki/Washington_University_School_of_Medicine"
+            "/wiki/Washington_University_in_St._Louis"
         ]
     },
     "Salvador Luria": {
@@ -4504,7 +4497,7 @@
         "institutions": [
             "/wiki/Columbia_University",
             "/wiki/Indiana_University_Bloomington",
-            "/wiki/University_of_Illinois_Urbana%E2%80%93Champaign",
+            "/wiki/University_of_Illinois_Urbana-Champaign",
             "/wiki/Massachusetts_Institute_of_Technology"
         ]
     },
@@ -4567,7 +4560,7 @@
         "category": "Physics",
         "year": 1970,
         "alma_matters": [
-            "/wiki/%C3%89cole_Normale_Sup%C3%A9rieure",
+            "/wiki/Ecole_Normale_Superieure",
             "/wiki/University_of_Paris",
             "/wiki/University_of_Strasbourg"
         ],
@@ -4679,7 +4672,7 @@
         "category": "Chemistry",
         "year": 1971,
         "alma_matters": [
-            "/wiki/Technische_Universit%C3%A4t_Darmstadt"
+            "/wiki/Technische_Universitat_Darmstadt"
         ],
         "institutions": [
             "/wiki/Carleton_University",
@@ -4699,7 +4692,7 @@
         "institutions": [
             "/wiki/Vanderbilt_University",
             "/wiki/Case_Western_Reserve_University",
-            "/wiki/Washington_University_School_of_Medicine",
+            "/wiki/Washington_University_in_St._Louis",
             "/wiki/University_of_Miami"
         ]
     },
@@ -4750,7 +4743,7 @@
         "year": 1972,
         "alma_matters": [
             "/wiki/Massachusetts_Institute_of_Technology",
-            "/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign"
+            "/wiki/University_of_Illinois_at_Urbana-Champaign"
         ],
         "institutions": [
             "/wiki/University_of_Pennsylvania",
@@ -4768,8 +4761,7 @@
         "alma_matters": [
             "/wiki/Swarthmore_College",
             "/wiki/University_of_Pennsylvania",
-            "/wiki/M._S.",
-            "/wiki/Harvard_Medical_School"
+            "/wiki/Harvard_University"
         ],
         "institutions": []
     },
@@ -4779,7 +4771,7 @@
         "year": 1972,
         "alma_matters": [
             "/wiki/Vanderbilt_University",
-            "/wiki/University_of_Wisconsin%E2%80%93Madison"
+            "/wiki/University_of_Wisconsin-Madison"
         ],
         "institutions": [
             "/wiki/Rockefeller_University"
@@ -4804,7 +4796,7 @@
         "year": 1972,
         "alma_matters": [
             "/wiki/Ursinus_College",
-            "/wiki/University_of_Pennsylvania_School_of_Medicine",
+            "/wiki/University_of_Pennsylvania",
             "/wiki/The_Rockefeller_University"
         ],
         "institutions": []
@@ -4937,8 +4929,7 @@
         "year": 1973,
         "alma_matters": [
             "/wiki/Columbia_University",
-            "/wiki/University_of_Vienna",
-            "/wiki/M._D."
+            "/wiki/University_of_Vienna"
         ],
         "institutions": [
             "/wiki/Konrad_Lorenz_Forschungsstelle",
@@ -4962,7 +4953,7 @@
         "category": "Literature",
         "year": 1973,
         "alma_matters": [
-            "/wiki/King%27s_College,_Cambridge"
+            "/wiki/King's_College,_Cambridge"
         ],
         "institutions": []
     },
@@ -5015,7 +5006,7 @@
         "category": "Physics",
         "year": 1974,
         "alma_matters": [
-            "/wiki/King%27s_College,_Taunton",
+            "/wiki/King's_College,_Taunton",
             "/wiki/University_of_Cambridge"
         ],
         "institutions": [
@@ -5028,7 +5019,7 @@
         "category": "Chemistry",
         "year": 1974,
         "alma_matters": [
-            "/wiki/Manchester_University_(Indiana)",
+            "/wiki/Manchester_University_%28Indiana%29",
             "/wiki/Ohio_State_University"
         ],
         "institutions": [
@@ -5043,13 +5034,13 @@
         "category": "Medicine",
         "year": 1974,
         "alma_matters": [
-            "/wiki/University_of_Li%C3%A8ge"
+            "/wiki/University_of_Liege"
         ],
         "institutions": [
             "/wiki/Rockefeller_University",
             "/wiki/Institut_Jules_Bordet",
-            "/wiki/Universit%C3%A9_libre_de_Bruxelles",
-            "/wiki/Universit%C3%A9_catholique_de_Louvain"
+            "/wiki/Universite_libre_de_Bruxelles",
+            "/wiki/Universite_catholique_de_Louvain"
         ]
     },
     "Christian de Duve": {
@@ -5058,12 +5049,12 @@
         "year": 1974,
         "alma_matters": [
             "/wiki/Our_Lady_College,_Antwerp",
-            "/wiki/Catholic_University_of_Leuven_(1834%E2%80%931968)"
+            "/wiki/Catholic_University_of_Leuven_%281834-1968%29"
         ],
         "institutions": [
-            "/wiki/Universit%C3%A9_catholique_de_Louvain",
+            "/wiki/Universite_catholique_de_Louvain",
             "/wiki/Rockefeller_University",
-            "/wiki/Washington_University_School_of_Medicine"
+            "/wiki/Washington_University_in_St._Louis"
         ]
     },
     "George Emil Palade": {
@@ -5099,7 +5090,7 @@
         "category": "Peace",
         "year": 1974,
         "alma_matters": [
-            "/wiki/Lyc%C3%A9e_Saint-Louis-de-Gonzague",
+            "/wiki/Lycee_Saint-Louis-de-Gonzague",
             "/wiki/Downside_School",
             "/wiki/University_College_Dublin"
         ],
@@ -5186,7 +5177,7 @@
         "year": 1975,
         "alma_matters": [
             "/wiki/University_of_Sydney",
-            "/wiki/St_Catherine%27s_College,_Oxford"
+            "/wiki/St_Catherine's_College,_Oxford"
         ],
         "institutions": [
             "/wiki/University_of_Oxford",
@@ -5204,7 +5195,7 @@
         "institutions": [
             "/wiki/Czech_Technical_University_in_Prague",
             "/wiki/University_of_Zagreb",
-            "/wiki/ETH_Z%C3%BCrich"
+            "/wiki/ETH_Zurich"
         ]
     },
     "David Baltimore": {
@@ -5244,7 +5235,7 @@
             "/wiki/California_Institute_of_Technology"
         ],
         "institutions": [
-            "/wiki/University_of_Wisconsin%E2%80%93Madison"
+            "/wiki/University_of_Wisconsin-Madison"
         ]
     },
     "Eugenio Montale": {
@@ -5339,7 +5330,6 @@
             "/wiki/Columbia_Presbyterian_Medical_Center",
             "/wiki/Fox_Chase_Cancer_Center",
             "/wiki/University_of_Pennsylvania",
-            "/wiki/NASA_Astrobiology_Institute",
             "/wiki/Library_of_Congress"
         ]
     },
@@ -5349,7 +5339,7 @@
         "year": 1976,
         "alma_matters": [
             "/wiki/University_of_Rochester",
-            "/wiki/Harvard_Medical_School"
+            "/wiki/Harvard_University"
         ],
         "institutions": []
     },
@@ -5368,7 +5358,7 @@
         "category": "Peace",
         "year": 1976,
         "alma_matters": [
-            "/wiki/St_Dominic%27s_Grammar_School_for_Girls"
+            "/wiki/St_Dominic's_Grammar_School_for_Girls"
         ],
         "institutions": []
     },
@@ -5433,12 +5423,12 @@
         "category": "Physics",
         "year": 1977,
         "alma_matters": [
-            "/wiki/University_of_Wisconsin%E2%80%93Madison",
+            "/wiki/University_of_Wisconsin-Madison",
             "/wiki/Harvard_University"
         ],
         "institutions": [
             "/wiki/University_of_Minnesota",
-            "/wiki/University_of_Wisconsin%E2%80%93Madison",
+            "/wiki/University_of_Wisconsin-Madison",
             "/wiki/Harvard_University",
             "/wiki/University_of_Oxford",
             "/wiki/Balliol_College,_Oxford"
@@ -5449,11 +5439,11 @@
         "category": "Chemistry",
         "year": 1977,
         "alma_matters": [
-            "/wiki/Free_University_of_Brussels_(1834%E2%80%931969)"
+            "/wiki/Free_University_of_Brussels_%281834-1969%29"
         ],
         "institutions": [
-            "/wiki/Free_University_of_Brussels_(1834%E2%80%931969)",
-            "/wiki/Universit%C3%A9_libre_de_Bruxelles",
+            "/wiki/Free_University_of_Brussels_%281834-1969%29",
+            "/wiki/Universite_libre_de_Bruxelles",
             "/wiki/University_of_Texas,_Austin",
             "/wiki/University_of_Chicago"
         ]
@@ -5463,11 +5453,11 @@
         "category": "Medicine",
         "year": 1977,
         "alma_matters": [
-            "/wiki/Universit%C3%A9_de_Montr%C3%A9al",
+            "/wiki/Universite_de_Montreal",
             "/wiki/University_of_Burgundy"
         ],
         "institutions": [
-            "/wiki/Baylor_College_of_Medicine",
+            "/wiki/Baylor_University",
             "/wiki/University_of_California,_San_Diego"
         ]
     },
@@ -5479,7 +5469,7 @@
             "/wiki/McGill_University"
         ],
         "institutions": [
-            "/wiki/Baylor_College_of_Medicine",
+            "/wiki/Baylor_University",
             "/wiki/Tulane_University",
             "/wiki/University_of_Miami"
         ]
@@ -5490,7 +5480,7 @@
         "year": 1977,
         "alma_matters": [
             "/wiki/Hunter_College",
-            "/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign"
+            "/wiki/University_of_Illinois_at_Urbana-Champaign"
         ],
         "institutions": [
             "/wiki/James_J._Peters_VA_Medical_Center"
@@ -5597,7 +5587,7 @@
             "/wiki/Washington_University_in_St._Louis"
         ],
         "institutions": [
-            "/wiki/Johns_Hopkins_School_of_Medicine",
+            "/wiki/Johns_Hopkins_University",
             "/wiki/Columbia_Presbyterian_Medical_Center"
         ]
     },
@@ -5607,10 +5597,10 @@
         "year": 1978,
         "alma_matters": [
             "/wiki/University_of_California,_Berkeley",
-            "/wiki/Johns_Hopkins_School_of_Medicine"
+            "/wiki/Johns_Hopkins_University"
         ],
         "institutions": [
-            "/wiki/Washington_University_School_of_Medicine"
+            "/wiki/Washington_University_in_St._Louis"
         ]
     },
     "Isaac Bashevis Singer": {
@@ -5673,10 +5663,10 @@
         "alma_matters": [
             "/wiki/Government_High_School_Pakkay_Wala",
             "/wiki/Sanatan_Dharma_College",
-            "/wiki/Government_College_University_(Lahore)",
+            "/wiki/Government_College_University_%28Lahore%29",
             "/wiki/University_of_Mumbai",
             "/wiki/University_of_the_Punjab",
-            "/wiki/St._John%27s_College,_Cambridge",
+            "/wiki/St._John's_College,_Cambridge",
             "/wiki/University_of_Cambridge"
         ],
         "institutions": [
@@ -5737,7 +5727,7 @@
             "/wiki/University_of_Marburg",
             "/wiki/TU_Braunschweig",
             "/wiki/University_of_Freiburg",
-            "/wiki/University_of_T%C3%BCbingen",
+            "/wiki/University_of_Tubingen",
             "/wiki/University_of_Heidelberg"
         ]
     },
@@ -5746,9 +5736,9 @@
         "category": "Medicine",
         "year": 1979,
         "alma_matters": [
-            "/wiki/Rondebosch_Boys%27_High_School",
+            "/wiki/Rondebosch_Boys'_High_School",
             "/wiki/University_of_Cape_Town",
-            "/wiki/St_John%27s_College,_Cambridge"
+            "/wiki/St_John's_College,_Cambridge"
         ],
         "institutions": []
     },
@@ -5864,11 +5854,11 @@
         "institutions": [
             "/wiki/Virginia_Commonwealth_University",
             "/wiki/New_York_University",
-            "/wiki/Columbia_University_College_of_Physicians_and_Surgeons",
+            "/wiki/Columbia_University",
             "/wiki/National_Institutes_of_Health",
             "/wiki/American_Academy_of_Arts_and_Sciences",
-            "/wiki/Harvard_Medical_School",
-            "/wiki/Dana%E2%80%93Farber_Cancer_Institute"
+            "/wiki/Harvard_University",
+            "/wiki/Dana-Farber_Cancer_Institute"
         ]
     },
     "Jean Dausset": {
@@ -5876,13 +5866,13 @@
         "category": "Medicine",
         "year": 1980,
         "alma_matters": [
-            "/wiki/Lyc%C3%A9e_Michelet_(Vanves)",
+            "/wiki/Lycee_Michelet_%28Vanves%29",
             "/wiki/University_of_Paris"
         ],
         "institutions": [
             "/wiki/Free_French_Forces",
-            "/wiki/Boston_Children%27s_Hospital",
-            "/wiki/H%C3%B4pital_Saint-Louis",
+            "/wiki/Boston_Children's_Hospital",
+            "/wiki/Hopital_Saint-Louis",
             "/wiki/Inserm"
         ]
     },
@@ -5897,7 +5887,7 @@
         "institutions": [
             "/wiki/Jackson_Laboratory",
             "/wiki/Brown_University",
-            "/wiki/Washington_University_School_of_Medicine"
+            "/wiki/Washington_University_in_St._Louis"
         ]
     },
     "Czeslaw Milosz": {
@@ -6016,7 +6006,7 @@
             "/wiki/McGill_University"
         ],
         "institutions": [
-            "/wiki/Johns_Hopkins_School_of_Medicine",
+            "/wiki/Johns_Hopkins_University",
             "/wiki/Harvard_University"
         ]
     },
@@ -6028,7 +6018,7 @@
             "/wiki/Karolinska_Institute"
         ],
         "institutions": [
-            "/wiki/Johns_Hopkins_School_of_Medicine",
+            "/wiki/Johns_Hopkins_University",
             "/wiki/Rockefeller_University",
             "/wiki/Harvard_University"
         ]
@@ -6146,7 +6136,6 @@
         "year": 1982,
         "alma_matters": [
             "/wiki/University_of_Washington",
-            "/wiki/Bachelor%27s_degree",
             "/wiki/Northwestern_University",
             "/wiki/University_of_Chicago"
         ],
@@ -6180,7 +6169,7 @@
         "year": 1983,
         "alma_matters": [
             "/wiki/Ohio_State_University",
-            "/wiki/Caltech"
+            "/wiki/California_Institute_of_Technology"
         ],
         "institutions": []
     },
@@ -6205,9 +6194,7 @@
         "category": "Medicine",
         "year": 1983,
         "alma_matters": [
-            "/wiki/Cornell_University",
-            "/wiki/B.S.",
-            "/wiki/M.S."
+            "/wiki/Cornell_University"
         ],
         "institutions": [
             "/wiki/University_of_Missouri",
@@ -6236,7 +6223,7 @@
         "category": "Economics",
         "year": 1983,
         "alma_matters": [
-            "/wiki/%C3%89cole_Normale_Sup%C3%A9rieure",
+            "/wiki/Ecole_Normale_Superieure",
             "/wiki/University_of_Paris"
         ],
         "institutions": [
@@ -6272,10 +6259,10 @@
         "category": "Chemistry",
         "year": 1984,
         "alma_matters": [
-            "/wiki/UCLA"
+            "/wiki/University_of_California,_Los_Angeles"
         ],
         "institutions": [
-            "/wiki/UCLA",
+            "/wiki/University_of_California,_Los_Angeles",
             "/wiki/Rockefeller_University"
         ]
     },
@@ -6320,9 +6307,9 @@
         "alma_matters": [
             "/wiki/Pretoria_Bantu_Normal_College",
             "/wiki/University_of_South_Africa",
-            "/wiki/St_Peter%27s_Theological_College",
+            "/wiki/St_Peter's_Theological_College",
             "/wiki/Licentiate_of_Theology",
-            "/wiki/King%27s_College_London"
+            "/wiki/King's_College_London"
         ],
         "institutions": []
     },
@@ -6332,7 +6319,7 @@
         "year": 1984,
         "alma_matters": [
             "/wiki/Gonville_and_Caius_College,_Cambridge",
-            "/wiki/King%27s_College,_Cambridge"
+            "/wiki/King's_College,_Cambridge"
         ],
         "institutions": [
             "/wiki/University_of_Cambridge"
@@ -6376,7 +6363,7 @@
         "year": 1985,
         "alma_matters": [
             "/wiki/University_of_Pennsylvania",
-            "/wiki/University_of_Pennsylvania_School_of_Medicine"
+            "/wiki/University_of_Pennsylvania"
         ],
         "institutions": []
     },
@@ -6386,10 +6373,10 @@
         "year": 1985,
         "alma_matters": [
             "/wiki/Washington_and_Lee_University",
-            "/wiki/University_of_Texas_Southwestern_Medical_Center"
+            "/wiki/University_of_Texas_at_Dallas"
         ],
         "institutions": [
-            "/wiki/University_of_Texas_Southwestern_Medical_Center"
+            "/wiki/University_of_Texas_at_Dallas"
         ]
     },
     "Claude Simon": {
@@ -6545,9 +6532,8 @@
         "year": 1986,
         "alma_matters": [
             "/wiki/Middle_Tennessee_State_University",
-            "/wiki/Bachelor%27s_degree",
             "/wiki/University_of_Tennessee",
-            "/wiki/Master%27s_degree",
+            "/wiki/Master's_degree",
             "/wiki/University_of_Chicago"
         ],
         "institutions": [
@@ -6568,7 +6554,7 @@
         "category": "Physics",
         "year": 1987,
         "alma_matters": [
-            "/wiki/ETH_Z%C3%BCrich"
+            "/wiki/ETH_Zurich"
         ],
         "institutions": [
             "/wiki/IBM_Research",
@@ -6586,9 +6572,9 @@
             "/wiki/Harvard_University"
         ],
         "institutions": [
-            "/wiki/UCLA",
+            "/wiki/University_of_California,_Los_Angeles",
             "/wiki/Merck_%26_Co",
-            "/wiki/MIT"
+            "/wiki/Massachusetts_Institute_of_Technology"
         ]
     },
     "Jean-Marie Lehn": {
@@ -6600,7 +6586,7 @@
         ],
         "institutions": [
             "/wiki/University_of_Strasbourg",
-            "/wiki/Coll%C3%A8ge_de_France"
+            "/wiki/College_de_France"
         ]
     },
     "Charles J. Pedersen": {
@@ -6665,7 +6651,6 @@
         "year": 1988,
         "alma_matters": [
             "/wiki/City_College_of_New_York",
-            "/wiki/Bachelor%27s_degree",
             "/wiki/Columbia_University"
         ],
         "institutions": [
@@ -6710,7 +6695,7 @@
             "/wiki/Max_Planck_Institute_for_Biochemistry"
         ],
         "institutions": [
-            "/wiki/University_of_Texas_Southwestern_Medical_Center"
+            "/wiki/University_of_Texas_at_Dallas"
         ]
     },
     "Robert Huber": {
@@ -6718,7 +6703,7 @@
         "category": "Chemistry",
         "year": 1988,
         "alma_matters": [
-            "/wiki/Technische_Universit%C3%A4t_M%C3%BCnchen"
+            "/wiki/Technische_Universitat_Munchen"
         ],
         "institutions": []
     },
@@ -6727,7 +6712,7 @@
         "category": "Chemistry",
         "year": 1988,
         "alma_matters": [
-            "/wiki/University_of_T%C3%BCbingen"
+            "/wiki/University_of_Tubingen"
         ],
         "institutions": [
             "/wiki/Max_Planck_Institute_for_Biophysics"
@@ -6747,7 +6732,7 @@
             "/wiki/University_College_London",
             "/wiki/University_of_St_Andrews",
             "/wiki/University_of_Dundee",
-            "/wiki/King%27s_College_London"
+            "/wiki/King's_College_London"
         ]
     },
     "Gertrude B. Elion": {
@@ -6795,8 +6780,8 @@
         "category": "Economics",
         "year": 1988,
         "alma_matters": [
-            "/wiki/%C3%89cole_Polytechnique",
-            "/wiki/%C3%89cole_Nationale_Sup%C3%A9rieure_des_Mines_de_Paris",
+            "/wiki/Ecole_Polytechnique",
+            "/wiki/Ecole_Nationale_Superieure_des_Mines_de_Paris",
             "/wiki/University_of_Paris"
         ],
         "institutions": []
@@ -6819,7 +6804,7 @@
         "category": "Physics",
         "year": 1989,
         "alma_matters": [
-            "/wiki/University_of_G%C3%B6ttingen"
+            "/wiki/University_of_Gottingen"
         ],
         "institutions": [
             "/wiki/University_of_Washington",
@@ -6833,7 +6818,7 @@
         "alma_matters": [
             "/wiki/Technical_University_of_Munich",
             "/wiki/Technical_University_of_Berlin",
-            "/wiki/University_of_G%C3%B6ttingen"
+            "/wiki/University_of_Gottingen"
         ],
         "institutions": [
             "/wiki/University_of_Bonn",
@@ -6899,7 +6884,7 @@
             "/wiki/National_Institutes_of_Health",
             "/wiki/Memorial_Sloan_Kettering_Cancer_Center",
             "/wiki/National_Cancer_Institute",
-            "/wiki/Weill_Cornell_Medicine",
+            "/wiki/Cornell_University",
             "/wiki/Columbia_Presbyterian_Medical_Center"
         ]
     },
@@ -6939,7 +6924,7 @@
             "/wiki/University_of_Chicago"
         ],
         "institutions": [
-            "/wiki/MIT"
+            "/wiki/Massachusetts_Institute_of_Technology"
         ]
     },
     "Henry Way Kendall": {
@@ -6948,10 +6933,10 @@
         "year": 1990,
         "alma_matters": [
             "/wiki/Amherst_College",
-            "/wiki/MIT"
+            "/wiki/Massachusetts_Institute_of_Technology"
         ],
         "institutions": [
-            "/wiki/MIT",
+            "/wiki/Massachusetts_Institute_of_Technology",
             "/wiki/Stanford_University"
         ]
     },
@@ -6966,7 +6951,7 @@
         "institutions": [
             "/wiki/Stanford_Linear_Accelerator_Center",
             "/wiki/Lawrence_Berkeley_Laboratory",
-            "/wiki/%C3%89cole_Normale_Sup%C3%A9rieure"
+            "/wiki/Ecole_Normale_Superieure"
         ]
     },
     "Elias James Corey": {
@@ -6977,7 +6962,7 @@
             "/wiki/Massachusetts_Institute_of_Technology"
         ],
         "institutions": [
-            "/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign",
+            "/wiki/University_of_Illinois_at_Urbana-Champaign",
             "/wiki/Harvard_University"
         ]
     },
@@ -6987,12 +6972,11 @@
         "year": 1990,
         "alma_matters": [
             "/wiki/College_of_the_Holy_Cross",
-            "/wiki/Harvard_Medical_School",
-            "/wiki/M._D."
+            "/wiki/Harvard_University"
         ],
         "institutions": [
-            "/wiki/Harvard_Medical_School",
-            "/wiki/Brigham_and_Women%27s_Hospital"
+            "/wiki/Harvard_University",
+            "/wiki/Brigham_and_Women's_Hospital"
         ]
     },
     "E. Donnall Thomas": {
@@ -7001,8 +6985,7 @@
         "year": 1990,
         "alma_matters": [
             "/wiki/University_of_Texas_at_Austin",
-            "/wiki/Harvard_Medical_School",
-            "/wiki/M._D."
+            "/wiki/Harvard_University"
         ],
         "institutions": [
             "/wiki/Mary_Imogene_Bassett_Hospital"
@@ -7032,7 +7015,7 @@
             "/wiki/University_of_Chicago"
         ],
         "institutions": [
-            "/wiki/Rady_School_of_Management",
+            "/wiki/University_of_California,_San_Diego",
             "/wiki/University_of_California,_San_Diego",
             "/wiki/Baruch_College",
             "/wiki/RAND_Corporation",
@@ -7073,12 +7056,12 @@
         "category": "Physics",
         "year": 1991,
         "alma_matters": [
-            "/wiki/%C3%89cole_Normale_Sup%C3%A9rieure",
+            "/wiki/Ecole_Normale_Superieure",
             "/wiki/Paris-Saclay_University"
         ],
         "institutions": [
-            "/wiki/%C3%89cole_Sup%C3%A9rieure_de_Physique_et_de_Chimie_Industrielles_de_la_Ville_de_Paris",
-            "/wiki/Coll%C3%A8ge_de_France",
+            "/wiki/Ecole_Superieure_de_Physique_et_de_Chimie_Industrielles_de_la_Ville_de_Paris",
+            "/wiki/College_de_France",
             "/wiki/University_of_Paris_XI"
         ]
     },
@@ -7100,11 +7083,11 @@
         "year": 1991,
         "alma_matters": [
             "/wiki/Technical_University_of_Munich",
-            "/wiki/University_of_Wisconsin%E2%80%93Madison"
+            "/wiki/University_of_Wisconsin-Madison"
         ],
         "institutions": [
-            "/wiki/University_of_G%C3%B6ttingen",
-            "/wiki/University_of_Wisconsin%E2%80%93Madison",
+            "/wiki/University_of_Gottingen",
+            "/wiki/University_of_Wisconsin-Madison",
             "/wiki/Yale_University",
             "/wiki/Max_Planck_Institute_for_Biophysical_Chemistry"
         ]
@@ -7132,7 +7115,7 @@
         "year": 1991,
         "alma_matters": [
             "/wiki/University_of_Delhi",
-            "/wiki/St_Hugh%27s_College,_Oxford",
+            "/wiki/St_Hugh's_College,_Oxford",
             "/wiki/SOAS_University_of_London"
         ],
         "institutions": []
@@ -7160,8 +7143,8 @@
         "category": "Physics",
         "year": 1992,
         "alma_matters": [
-            "/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Paris",
-            "/wiki/Coll%C3%A8ge_de_France"
+            "/wiki/Ecole_nationale_superieure_des_mines_de_Paris",
+            "/wiki/College_de_France"
         ],
         "institutions": []
     },
@@ -7173,7 +7156,7 @@
             "/wiki/McGill_University"
         ],
         "institutions": [
-            "/wiki/New_York_University_Tandon_School_of_Engineering",
+            "/wiki/New_York_University",
             "/wiki/University_of_Illinois_at_Urbana-Champaign",
             "/wiki/California_Institute_of_Technology"
         ]
@@ -7194,13 +7177,13 @@
         "category": "Medicine",
         "year": 1992,
         "alma_matters": [
-            "/wiki/University_of_Illinois_Urbana%E2%80%93Champaign",
+            "/wiki/University_of_Illinois_Urbana-Champaign",
             "/wiki/Washington_University_in_St._Louis"
         ],
         "institutions": [
             "/wiki/University_of_Washington,_Seattle",
             "/wiki/University_of_California,_Davis",
-            "/wiki/Washington_University_School_of_Medicine"
+            "/wiki/Washington_University_in_St._Louis"
         ]
     },
     "Derek Walcott": {
@@ -7277,7 +7260,7 @@
         ],
         "institutions": [
             "/wiki/University_of_British_Columbia",
-            "/wiki/University_of_Wisconsin%E2%80%93Madison"
+            "/wiki/University_of_Wisconsin-Madison"
         ]
     },
     "Richard J. Roberts": {
@@ -7299,11 +7282,11 @@
         "category": "Medicine",
         "year": 1993,
         "alma_matters": [
-            "/wiki/Union_College_(Kentucky)",
-            "/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign"
+            "/wiki/Union_College_%28Kentucky%29",
+            "/wiki/University_of_Illinois_at_Urbana-Champaign"
         ],
         "institutions": [
-            "/wiki/Caltech",
+            "/wiki/California_Institute_of_Technology",
             "/wiki/Cold_Spring_Harbor_Laboratory",
             "/wiki/Massachusetts_Institute_of_Technology"
         ]
@@ -7470,7 +7453,7 @@
         "year": 1994,
         "alma_matters": [
             "/wiki/University_of_Lyon",
-            "/wiki/E%C3%B6tv%C3%B6s_Lor%C3%A1nd_University",
+            "/wiki/Eotvos_Lorand_University",
             "/wiki/University_of_Sydney",
             "/wiki/Stanford_University"
         ],
@@ -7511,7 +7494,7 @@
         "category": "Physics",
         "year": 1995,
         "alma_matters": [
-            "/wiki/New_York_University_Tandon_School_of_Engineering",
+            "/wiki/New_York_University",
             "/wiki/Columbia_University"
         ],
         "institutions": [
@@ -7594,7 +7577,7 @@
         "year": 1995,
         "alma_matters": [
             "/wiki/Goethe_University_Frankfurt",
-            "/wiki/University_of_T%C3%BCbingen"
+            "/wiki/University_of_Tubingen"
         ],
         "institutions": [
             "/wiki/European_Molecular_Biology_Laboratory",
@@ -7611,7 +7594,7 @@
         ],
         "institutions": [
             "/wiki/Princeton_University",
-            "/wiki/Robert_Wood_Johnson_Medical_School"
+            "/wiki//wiki/Rutgers_University"
         ]
     },
     "Seamus Heaney": {
@@ -7619,7 +7602,7 @@
         "category": "Literature",
         "year": 1995,
         "alma_matters": [
-            "/wiki/Queen%27s_University_Belfast"
+            "/wiki/Queen's_University_Belfast"
         ],
         "institutions": []
     },
@@ -7638,7 +7621,7 @@
             "/wiki/University_of_Warsaw",
             "/wiki/University_of_Liverpool",
             "/wiki/Los_Alamos_National_Laboratory",
-            "/wiki/St_Bartholomew%27s_Hospital",
+            "/wiki/St_Bartholomew's_Hospital",
             "/wiki/University_of_London",
             "/wiki/University_of_Edinburgh"
         ]
@@ -7838,13 +7821,13 @@
         "category": "Physics",
         "year": 1997,
         "alma_matters": [
-            "/wiki/%C3%89cole_normale_sup%C3%A9rieure_(Paris)",
+            "/wiki/Ecole_normale_superieure_%28Paris%29",
             "/wiki/University_of_Paris"
         ],
         "institutions": [
             "/wiki/College_de_France",
             "/wiki/University_of_Paris",
-            "/wiki/%C3%89cole_normale_sup%C3%A9rieure_(Paris)"
+            "/wiki/Ecole_normale_superieure_%28Paris%29"
         ]
     },
     "William Daniel Phillips": {
@@ -7866,7 +7849,7 @@
         "year": 1997,
         "alma_matters": [
             "/wiki/Brigham_Young_University",
-            "/wiki/University_of_Wisconsin%E2%80%93Madison"
+            "/wiki/University_of_Wisconsin-Madison"
         ],
         "institutions": [
             "/wiki/Stanford_University",
@@ -7906,9 +7889,7 @@
         "category": "Medicine",
         "year": 1997,
         "alma_matters": [
-            "/wiki/University_of_Pennsylvania",
-            "/wiki/B._A.",
-            "/wiki/M._D."
+            "/wiki/University_of_Pennsylvania"
         ],
         "institutions": [
             "/wiki/University_of_California,_Berkeley",
@@ -7995,7 +7976,7 @@
         "year": 1998,
         "alma_matters": [
             "/wiki/University_of_Chicago",
-            "/wiki/Augustana_College_(Illinois)"
+            "/wiki/Augustana_College_%28Illinois%29"
         ],
         "institutions": [
             "/wiki/Princeton_University",
@@ -8010,12 +7991,12 @@
         "year": 1998,
         "alma_matters": [
             "/wiki/University_of_Toronto",
-            "/wiki/Harvard"
+            "/wiki/Harvard_University"
         ],
         "institutions": [
             "/wiki/Carnegie_Mellon_University",
-            "/wiki/UC_Santa_Barbara",
-            "/wiki/UC_San_Diego"
+            "/wiki/University_of_California,_Santa_Barbara",
+            "/wiki/University_of_California,_San_Diego"
         ]
     },
     "John Pople": {
@@ -8030,7 +8011,7 @@
             "/wiki/University_of_Cambridge",
             "/wiki/Carnegie_Mellon_University",
             "/wiki/Northwestern_University",
-            "/wiki/National_Physical_Laboratory_(United_Kingdom)"
+            "/wiki/National_Physical_Laboratory_%28United_Kingdom%29"
         ]
     },
     "Robert F. Furchgott": {
@@ -8057,8 +8038,8 @@
             "/wiki/University_of_Minnesota"
         ],
         "institutions": [
-            "/wiki/Tulane_University_School_of_Medicine",
-            "/wiki/UCLA_School_of_Medicine",
+            "/wiki/Tulane_University",
+            "/wiki/University_of_California,_Los_Angeles",
             "/wiki/King_Saud_University"
         ]
     },
@@ -8068,7 +8049,7 @@
         "year": 1998,
         "alma_matters": [
             "/wiki/DePauw_University",
-            "/wiki/Case_Western_Reserve_University_School_of_Medicine"
+            "/wiki/Case_Western_Reserve_University"
         ],
         "institutions": [
             "/wiki/University_of_Virginia",
@@ -8091,9 +8072,9 @@
         "category": "Peace",
         "year": 1998,
         "alma_matters": [
-            "/wiki/D%27Hondt_method",
+            "/wiki/D'Hondt_method",
             "/wiki/Ulster_Unionist_Party",
-            "/wiki/St_Patrick%27s_College,_Maynooth"
+            "/wiki/St_Patrick's_College,_Maynooth"
         ],
         "institutions": []
     },
@@ -8102,7 +8083,7 @@
         "category": "Peace",
         "year": 1998,
         "alma_matters": [
-            "/wiki/Queen%27s_University_Belfast"
+            "/wiki/Queen's_University_Belfast"
         ],
         "institutions": []
     },
@@ -8113,7 +8094,7 @@
         "alma_matters": [
             "/wiki/University_of_Calcutta",
             "/wiki/Trinity_College,_Cambridge",
-            "/wiki/MA_(Oxon)"
+            "/wiki/MA_%28Oxon%29"
         ],
         "institutions": [
             "/wiki/Harvard_University",
@@ -8128,8 +8109,8 @@
             "/wiki/University_of_California,_Berkeley"
         ]
     },
-    "Gerard %27t Hooft": {
-        "link": "https://en.wikipedia.org/wiki/Gerard_%27t_Hooft",
+    "Gerard 't Hooft": {
+        "link": "https://en.wikipedia.org/wiki/Gerard_'t_Hooft",
         "category": "Physics",
         "year": 1999,
         "alma_matters": [
@@ -8171,8 +8152,8 @@
         "year": 1999,
         "alma_matters": [
             "/wiki/University_of_Kiel",
-            "/wiki/University_of_T%C3%BCbingen",
-            "/wiki/University_of_Wisconsin%E2%80%93Madison"
+            "/wiki/University_of_Tubingen",
+            "/wiki/University_of_Wisconsin-Madison"
         ],
         "institutions": [
             "/wiki/Rockefeller_University"
@@ -8217,8 +8198,8 @@
         "category": "Physics",
         "year": 2000,
         "alma_matters": [
-            "/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign",
-            "/wiki/University_of_Wisconsin%E2%80%93Madison"
+            "/wiki/University_of_Illinois_at_Urbana-Champaign",
+            "/wiki/University_of_Wisconsin-Madison"
         ],
         "institutions": [
             "/wiki/Texas_Instruments"
@@ -8241,10 +8222,10 @@
         "year": 2000,
         "alma_matters": [
             "/wiki/University_of_Jena",
-            "/wiki/University_of_G%C3%B6ttingen"
+            "/wiki/University_of_Gottingen"
         ],
         "institutions": [
-            "https://de.wikipedia.org/wiki/Fernmeldetechnisches_Zentralamt",
+            "https%3A//de.wikipedia.org/wiki/Fernmeldetechnisches_Zentralamt",
             "/wiki/RCA_Laboratories",
             "/wiki/Varian_Associates",
             "/wiki/University_of_Colorado_at_Boulder",
@@ -8270,7 +8251,7 @@
         "year": 2000,
         "alma_matters": [
             "/wiki/Victoria_University_of_Wellington",
-            "/wiki/University_of_Wisconsin%E2%80%93Madison",
+            "/wiki/University_of_Wisconsin-Madison",
             "/wiki/University_of_Cambridge"
         ],
         "institutions": [
@@ -8320,7 +8301,7 @@
             "/wiki/New_York_University"
         ],
         "institutions": [
-            "/wiki/Columbia_University_College_of_Physicians_and_Surgeons"
+            "/wiki/Columbia_University"
         ]
     },
     "Gao Xingjian": {
@@ -8345,7 +8326,6 @@
         "year": 2000,
         "alma_matters": [
             "/wiki/Colorado_College",
-            "/wiki/B._A.",
             "/wiki/Princeton_University"
         ],
         "institutions": [
@@ -8394,7 +8374,7 @@
         ],
         "institutions": [
             "/wiki/University_of_Heidelberg",
-            "/wiki/MIT"
+            "/wiki/Massachusetts_Institute_of_Technology"
         ]
     },
     "Carl Wieman": {
@@ -8402,7 +8382,7 @@
         "category": "Physics",
         "year": 2001,
         "alma_matters": [
-            "/wiki/MIT",
+            "/wiki/Massachusetts_Institute_of_Technology",
             "/wiki/Stanford_University"
         ],
         "institutions": [
@@ -8643,11 +8623,11 @@
         "category": "Chemistry",
         "year": 2002,
         "alma_matters": [
-            "/wiki/Universit%C3%A4t_Bern",
-            "/wiki/Universit%C3%A4t_Basel"
+            "/wiki/Universitat_Bern",
+            "/wiki/Universitat_Basel"
         ],
         "institutions": [
-            "/wiki/ETH_Z%C3%BCrich",
+            "/wiki/ETH_Zurich",
             "/wiki/University_of_California,_Berkeley",
             "/wiki/The_Scripps_Research_Institute",
             "/wiki/University_of_Edinburgh",
@@ -8692,7 +8672,7 @@
         "category": "Medicine",
         "year": 2002,
         "alma_matters": [
-            "/wiki/Merchant_Taylors%27_School,_Northwood",
+            "/wiki/Merchant_Taylors'_School,_Northwood",
             "/wiki/University_of_Cambridge"
         ],
         "institutions": [
@@ -8795,7 +8775,7 @@
         "year": 2003,
         "alma_matters": [
             "/wiki/Augsburg_College",
-            "/wiki/Johns_Hopkins_School_of_Medicine",
+            "/wiki/Johns_Hopkins_University",
             "/wiki/Case_Western_Reserve_University",
             "/wiki/UNC_Health_Care"
         ],
@@ -8809,7 +8789,7 @@
         "year": 2003,
         "alma_matters": [
             "/wiki/Brandeis_University",
-            "/wiki/Tufts_University_School_of_Medicine"
+            "/wiki/Tufts_University"
         ],
         "institutions": [
             "/wiki/Cornell_University",
@@ -8840,7 +8820,7 @@
             "/wiki/Queen_Mary_University_of_London"
         ],
         "institutions": [
-            "/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign",
+            "/wiki/University_of_Illinois_at_Urbana-Champaign",
             "/wiki/University_of_Nottingham"
         ]
     },
@@ -8945,7 +8925,7 @@
             "/wiki/Hebrew_University_of_Jerusalem"
         ],
         "institutions": [
-            "/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology"
+            "/wiki/Technion_-_Israel_Institute_of_Technology"
         ]
     },
     "Irwin Rose": {
@@ -8954,7 +8934,7 @@
         "year": 2004,
         "alma_matters": [
             "/wiki/University_of_Chicago",
-            "/wiki/NYU"
+            "/wiki/New_York_University"
         ],
         "institutions": [
             "/wiki/Fox_Chase_Cancer_Center",
@@ -8970,7 +8950,7 @@
         "alma_matters": [
             "/wiki/Stuyvesant_High_School",
             "/wiki/Columbia_University",
-            "/wiki/Johns_Hopkins_School_of_Medicine"
+            "/wiki/Johns_Hopkins_University"
         ],
         "institutions": [
             "/wiki/Columbia_University"
@@ -8982,7 +8962,7 @@
         "year": 2004,
         "alma_matters": [
             "/wiki/University_of_Washington",
-            "/wiki/University_of_Texas_Southwestern_Medical_Center"
+            "/wiki/University_of_Texas_at_Dallas"
         ],
         "institutions": [
             "/wiki/Fred_Hutchinson_Cancer_Research_Center",
@@ -9069,8 +9049,7 @@
         ],
         "institutions": [
             "/wiki/University_of_Colorado_Boulder",
-            "/wiki/JILA",
-            "/wiki/NIST"
+            "/wiki/JILA"
         ]
     },
     "Theodor W. Hansch": {
@@ -9084,7 +9063,7 @@
             "/wiki/Ludwig-Maximilians_University",
             "/wiki/Max_Planck_Institute",
             "/wiki/Stanford_University",
-            "/wiki/European_Laboratory_for_Non-Linear_Spectroscopy_(LENS),_Universit%C3%A0_degli_Studi_di_Firenze"
+            "/wiki/European_Laboratory_for_Non-Linear_Spectroscopy_%28LENS%29,_Universita_degli_Studi_di_Firenze"
         ]
     },
     "Yves Chauvin": {
@@ -9092,10 +9071,10 @@
         "category": "Chemistry",
         "year": 2005,
         "alma_matters": [
-            "/wiki/%C3%89cole_sup%C3%A9rieure_de_chimie_physique_%C3%A9lectronique_de_Lyon"
+            "/wiki/Ecole_superieure_de_chimie_physique_electronique_de_Lyon"
         ],
         "institutions": [
-            "/wiki/Institut_fran%C3%A7ais_du_p%C3%A9trole"
+            "/wiki/Institut_francais_du_petrole"
         ]
     },
     "Robert H. Grubbs": {
@@ -9145,7 +9124,7 @@
         "category": "Medicine",
         "year": 2005,
         "alma_matters": [
-            "/wiki/St_Peter%27s_College,_Adelaide",
+            "/wiki/St_Peter's_College,_Adelaide",
             "/wiki/University_of_Adelaide"
         ],
         "institutions": [
@@ -9175,7 +9154,7 @@
         "alma_matters": [
             "/wiki/Cairo_University",
             "/wiki/Graduate_Institute_of_International_and_Development_Studies",
-            "/wiki/New_York_University_School_of_Law"
+            "/wiki/New_York_University"
         ],
         "institutions": []
     },
@@ -9216,7 +9195,6 @@
             "/wiki/University_of_California,_Berkeley"
         ],
         "institutions": [
-            "/wiki/NASA",
             "/wiki/University_of_Maryland",
             "/wiki/Columbia_University"
         ]
@@ -9229,7 +9207,7 @@
             "/wiki/Massachusetts_Institute_of_Technology"
         ],
         "institutions": [
-            "/wiki/UC_Berkeley",
+            "/wiki/University_of_California,_Berkeley",
             "/wiki/Lawrence_Berkeley_National_Laboratory",
             "/wiki/Paris_Diderot_University",
             "/wiki/Hong_Kong_University_of_Science_and_Technology"
@@ -9245,7 +9223,7 @@
         ],
         "institutions": [
             "/wiki/Stanford_University",
-            "/wiki/Harvard_Medical_School",
+            "/wiki/Harvard_University",
             "/wiki/Hebrew_University_of_Jerusalem",
             "/wiki/Laboratory_of_Molecular_Biology"
         ]
@@ -9273,7 +9251,7 @@
             "/wiki/Harvard_University"
         ],
         "institutions": [
-            "/wiki/University_of_Massachusetts_Medical_School"
+            "/wiki/University_of_Massachusetts"
         ]
     },
     "Orhan Pamuk": {
@@ -9311,9 +9289,8 @@
             "/wiki/Bangabandhu_Sheikh_Mujib_Medical_University",
             "/wiki/East_West_University",
             "/wiki/University_of_Asia_Pacific",
-            "/wiki/BIRDEM",
             "/wiki/Bangladesh_National_Zoo",
-            "/wiki/Template:Colleges_in_Dhaka"
+            "/wiki/Template%3AColleges_in_Dhaka"
         ],
         "institutions": []
     },
@@ -9337,11 +9314,11 @@
         "category": "Physics",
         "year": 2007,
         "alma_matters": [
-            "/wiki/%C3%89cole_normale_sup%C3%A9rieure_(Paris)",
+            "/wiki/Ecole_normale_superieure_%28Paris%29",
             "/wiki/University_of_Paris"
         ],
         "institutions": [
-            "/wiki/Universit%C3%A9_Paris-Saclay",
+            "/wiki/Universite_Paris-Saclay",
             "/wiki/Michigan_State_University"
         ]
     },
@@ -9350,11 +9327,11 @@
         "category": "Physics",
         "year": 2007,
         "alma_matters": [
-            "/wiki/Technische_Universit%C3%A4t_Darmstadt"
+            "/wiki/Technische_Universitat_Darmstadt"
         ],
         "institutions": [
             "/wiki/Carleton_University",
-            "/wiki/Forschungszentrum_J%C3%BClich",
+            "/wiki/Forschungszentrum_Julich",
             "/wiki/University_of_Cologne",
             "/wiki/Gwangju_Institute_of_Science_and_Technology",
             "/wiki/Tohoku_University",
@@ -9385,7 +9362,7 @@
             "/wiki/Harvard_University"
         ],
         "institutions": [
-            "/wiki/Harvard_School_of_Medicine",
+            "/wiki/Harvard_University",
             "/wiki/University_of_Utah"
         ]
     },
@@ -9412,7 +9389,7 @@
         ],
         "institutions": [
             "/wiki/University_of_Toronto",
-            "/wiki/University_of_Wisconsin%E2%80%93Madison",
+            "/wiki/University_of_Wisconsin-Madison",
             "/wiki/University_of_North_Carolina_at_Chapel_Hill"
         ]
     },
@@ -9532,7 +9509,7 @@
         ],
         "institutions": [
             "/wiki/Princeton_University",
-            "/wiki/Boston_University_School_of_Medicine",
+            "/wiki/Boston_University",
             "/wiki/Marine_Biological_Laboratory"
         ]
     },
@@ -9634,7 +9611,7 @@
             "/wiki/University_College_London",
             "/wiki/University_of_London",
             "/wiki/University_of_Greenwich",
-            "/wiki/Wikipedia:Citation_needed"
+            "/wiki/Wikipedia%3ACitation_needed"
         ],
         "institutions": [
             "/wiki/Chinese_University_of_Hong_Kong",
@@ -9734,13 +9711,12 @@
         "year": 2009,
         "alma_matters": [
             "/wiki/University_of_California,_Santa_Barbara",
-            "/wiki/B._A.",
-            "/wiki/University_of_G%C3%B6ttingen",
+            "/wiki/University_of_Gottingen",
             "/wiki/University_of_California,_Berkeley"
         ],
         "institutions": [
             "/wiki/Cold_Spring_Harbor_Laboratory",
-            "/wiki/Johns_Hopkins_School_of_Medicine",
+            "/wiki/Johns_Hopkins_University",
             "/wiki/University_of_California,_Santa_Cruz"
         ]
     },
@@ -9754,7 +9730,7 @@
         ],
         "institutions": [
             "/wiki/University_of_Chicago",
-            "/wiki/Harvard_Medical_School",
+            "/wiki/Harvard_University",
             "/wiki/Howard_Hughes_Medical_Institute"
         ]
     },
@@ -9763,7 +9739,7 @@
         "category": "Literature",
         "year": 2009,
         "alma_matters": [
-            "/wiki/West_University_of_Timi%C8%99oara"
+            "/wiki/West_University_of_Timisoara"
         ],
         "institutions": []
     },
@@ -9774,7 +9750,7 @@
         "alma_matters": [
             "/wiki/Occidental_College",
             "/wiki/Columbia_University",
-            "/wiki/Harvard_Law_School",
+            "/wiki/Harvard_University",
             "/wiki/Juris_Doctor"
         ],
         "institutions": []
@@ -9784,7 +9760,7 @@
         "category": "Economics",
         "year": 2009,
         "alma_matters": [
-            "/wiki/UCLA"
+            "/wiki/University_of_California,_Los_Angeles"
         ],
         "institutions": [
             "/wiki/Indiana_University",
@@ -9817,7 +9793,7 @@
         ],
         "institutions": [
             "/wiki/Moscow_Institute_of_Physics_and_Technology",
-            "/wiki/Institute_of_Solid_State_Physics_(Russia)",
+            "/wiki/Institute_of_Solid_State_Physics_%28Russia%29",
             "/wiki/Russian_Academy_of_Sciences",
             "/wiki/University_of_Manchester",
             "/wiki/Radboud_University_Nijmegen"
@@ -9872,10 +9848,10 @@
         "category": "Chemistry",
         "year": 2010,
         "alma_matters": [
-            "/wiki/Hokkaid%C5%8D_University"
+            "/wiki/Hokkaido_University"
         ],
         "institutions": [
-            "/wiki/Hokkaid%C5%8D_University",
+            "/wiki/Hokkaido_University",
             "/wiki/Purdue_University",
             "/wiki/University_of_Wales",
             "/wiki/Okayama_University_of_Science",
@@ -10006,14 +9982,14 @@
         "category": "Chemistry",
         "year": 2011,
         "alma_matters": [
-            "/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology"
+            "/wiki/Technion_-_Israel_Institute_of_Technology"
         ],
         "institutions": [
             "/wiki/Wright-Patterson_Air_Force_Base",
             "/wiki/Johns_Hopkins_University",
             "/wiki/National_Institute_of_Standards_and_Technology",
             "/wiki/Iowa_State_University",
-            "/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology",
+            "/wiki/Technion_-_Israel_Institute_of_Technology",
             "/wiki/Tohoku_University"
         ]
     },
@@ -10026,7 +10002,7 @@
             "/wiki/University_of_California,_San_Diego"
         ],
         "institutions": [
-            "/wiki/University_of_Texas_Southwestern_Medical_Center"
+            "/wiki/University_of_Texas_at_Dallas"
         ]
     },
     "Jules A. Hoffmann": {
@@ -10096,7 +10072,7 @@
         "category": "Economics",
         "year": 2011,
         "alma_matters": [
-            "/wiki/UC_Berkeley",
+            "/wiki/University_of_California,_Berkeley",
             "/wiki/Harvard_University"
         ],
         "institutions": [
@@ -10129,12 +10105,12 @@
         "category": "Physics",
         "year": 2012,
         "alma_matters": [
-            "/wiki/%C3%89cole_Normale_Sup%C3%A9rieure"
+            "/wiki/Ecole_Normale_Superieure"
         ],
         "institutions": [
             "/wiki/Pierre-and-Marie-Curie_University",
             "/wiki/Yale_University",
-            "/wiki/Coll%C3%A8ge_de_France"
+            "/wiki/College_de_France"
         ]
     },
     "David J. Wineland": {
@@ -10213,7 +10189,7 @@
         "year": 2012,
         "alma_matters": [
             "/wiki/Beijing_Normal_University",
-            "/wiki/People%27s_Liberation_Army_Arts_College"
+            "/wiki/People's_Liberation_Army_Arts_College"
         ],
         "institutions": []
     },
@@ -10256,10 +10232,10 @@
         "category": "Physics",
         "year": 2013,
         "alma_matters": [
-            "/wiki/Free_University_of_Brussels_(1834%E2%80%931969)"
+            "/wiki/Free_University_of_Brussels_%281834-1969%29"
         ],
         "institutions": [
-            "/wiki/Universit%C3%A9_libre_de_Bruxelles",
+            "/wiki/Universite_libre_de_Bruxelles",
             "/wiki/Tel_Aviv_University"
         ]
     },
@@ -10268,7 +10244,7 @@
         "category": "Physics",
         "year": 2013,
         "alma_matters": [
-            "/wiki/King%27s_College_London",
+            "/wiki/King's_College_London",
             "/wiki/University_of_London",
             "/wiki/BSc",
             "/wiki/MSc"
@@ -10277,7 +10253,7 @@
             "/wiki/University_of_Edinburgh",
             "/wiki/Imperial_College_London",
             "/wiki/University_College_London",
-            "/wiki/King%27s_College_London"
+            "/wiki/King's_College_London"
         ]
     },
     "Martin Karplus": {
@@ -10289,10 +10265,10 @@
             "/wiki/California_Institute_of_Technology"
         ],
         "institutions": [
-            "/wiki/Universit%C3%A9_de_Strasbourg",
+            "/wiki/Universite_de_Strasbourg",
             "/wiki/Harvard_University",
             "/wiki/Columbia_University",
-            "/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign"
+            "/wiki/University_of_Illinois_at_Urbana-Champaign"
         ]
     },
     "Michael Levitt": {
@@ -10301,7 +10277,7 @@
         "year": 2013,
         "alma_matters": [
             "/wiki/Pretoria_Boys_High_School",
-            "/wiki/King%27s_College_London",
+            "/wiki/King's_College_London",
             "/wiki/University_of_Cambridge"
         ],
         "institutions": [
@@ -10316,7 +10292,7 @@
         "category": "Chemistry",
         "year": 2013,
         "alma_matters": [
-            "/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology",
+            "/wiki/Technion_-_Israel_Institute_of_Technology",
             "/wiki/Weizmann_Institute_of_Science"
         ],
         "institutions": [
@@ -10364,11 +10340,11 @@
         "year": 2013,
         "alma_matters": [
             "/wiki/RWTH_Aachen_University",
-            "/wiki/University_of_G%C3%B6ttingen"
+            "/wiki/University_of_Gottingen"
         ],
         "institutions": [
             "/wiki/Stanford_University",
-            "/wiki/University_of_Texas_Southwestern_Medical_Center"
+            "/wiki/University_of_Texas_at_Dallas"
         ]
     },
     "Alice Munro": {
@@ -10495,11 +10471,11 @@
         ],
         "institutions": [
             "/wiki/Stanford_University",
-            "/wiki/UC_San_Diego"
+            "/wiki/University_of_California,_San_Diego"
         ]
     },
-    "John O%27Keefe %28neuroscientist%29": {
-        "link": "https://en.wikipedia.org/wiki/John_O%27Keefe_(neuroscientist)",
+    "John O'Keefe %28neuroscientist%29": {
+        "link": "https://en.wikipedia.org/wiki/John_O'Keefe_(neuroscientist)",
         "category": "Medicine",
         "year": 2014,
         "alma_matters": [
@@ -10566,13 +10542,13 @@
         "alma_matters": [
             "/wiki/Massachusetts_Institute_of_Technology",
             "/wiki/Paris_Dauphine_University",
-            "/wiki/%C3%89cole_nationale_des_ponts_et_chauss%C3%A9es",
-            "/wiki/%C3%89cole_Polytechnique"
+            "/wiki/Ecole_nationale_des_ponts_et_chaussees",
+            "/wiki/Ecole_Polytechnique"
         ],
         "institutions": [
             "/wiki/Toulouse_1_University_Capitole",
             "/wiki/Toulouse_School_of_Economics",
-            "/wiki/Ecole_des_hautes_%C3%A9tudes_en_sciences_sociales"
+            "/wiki/Ecole_des_hautes_etudes_en_sciences_sociales"
         ]
     },
     "Takaaki Kajita": {
@@ -10581,9 +10557,7 @@
         "year": 2015,
         "alma_matters": [
             "/wiki/Saitama_University",
-            "/wiki/B.S.",
-            "/wiki/University_of_Tokyo",
-            "/wiki/M.S."
+            "/wiki/University_of_Tokyo"
         ],
         "institutions": [
             "/wiki/Kavli_Institute_for_the_Physics_and_Mathematics_of_the_Universe",
@@ -10600,7 +10574,7 @@
         ],
         "institutions": [
             "/wiki/Princeton_University",
-            "/wiki/Queen%27s_University_at_Kingston"
+            "/wiki/Queen's_University_at_Kingston"
         ]
     },
     "Tomas Lindahl": {
@@ -10623,7 +10597,7 @@
         "category": "Chemistry",
         "year": 2015,
         "alma_matters": [
-            "/wiki/MIT",
+            "/wiki/Massachusetts_Institute_of_Technology",
             "/wiki/Stanford_University"
         ],
         "institutions": [
@@ -10641,9 +10615,9 @@
             "/wiki/University_of_Texas_at_Dallas"
         ],
         "institutions": [
-            "/wiki/UNC_School_of_Medicine",
+            "/wiki/University_of_North_Carolina_at_Chapel_Hill",
             "/wiki/UNC_Lineberger_Comprehensive_Cancer_Center",
-            "/wiki/Yale_School_of_Medicine"
+            "/wiki/Yale_University"
         ]
     },
     "William C. Campbell %28scientist%29": {
@@ -10666,7 +10640,7 @@
         "alma_matters": [
             "/wiki/University_of_Yamanashi",
             "/wiki/Tokyo_University_of_Science",
-            "/wiki/Master%27s_degree",
+            "/wiki/Master's_degree",
             "/wiki/University_of_Tokyo"
         ],
         "institutions": [
@@ -10736,7 +10710,7 @@
         "category": "Physics",
         "year": 2016,
         "alma_matters": [
-            "/wiki/St_Paul%27s_School,_London",
+            "/wiki/St_Paul's_School,_London",
             "/wiki/University_of_Cambridge"
         ],
         "institutions": [
@@ -10765,7 +10739,7 @@
         "category": "Chemistry",
         "year": 2016,
         "alma_matters": [
-            "/wiki/Ecole_europ%C3%A9enne_de_chimie,_polym%C3%A8res_et_mat%C3%A9riaux"
+            "/wiki/Ecole_europeenne_de_chimie,_polymeres_et_materiaux"
         ],
         "institutions": [
             "/wiki/University_of_Strasbourg"
@@ -10779,7 +10753,7 @@
             "/wiki/University_of_Edinburgh"
         ],
         "institutions": [
-            "/wiki/Queen%27s_University_at_Kingston",
+            "/wiki/Queen's_University_at_Kingston",
             "/wiki/University_of_Sheffield",
             "/wiki/University_of_Birmingham",
             "/wiki/University_of_California,_Los_Angeles",
@@ -10836,7 +10810,7 @@
         "category": "Economics",
         "year": 2016,
         "alma_matters": [
-            "/wiki/King%27s_College,_Cambridge",
+            "/wiki/King's_College,_Cambridge",
             "/wiki/University_of_Warwick",
             "/wiki/Princeton_University"
         ],
@@ -10859,7 +10833,7 @@
             "/wiki/Stanford_University",
             "/wiki/Northwestern_University",
             "/wiki/Yale_University",
-            "/wiki/MIT"
+            "/wiki/Massachusetts_Institute_of_Technology"
         ]
     },
     "Rainer Weiss": {
@@ -10906,7 +10880,7 @@
         "category": "Chemistry",
         "year": 2017,
         "alma_matters": [
-            "/wiki/%C3%89cole_polytechnique_f%C3%A9d%C3%A9rale_de_Lausanne",
+            "/wiki/Ecole_polytechnique_federale_de_Lausanne",
             "/wiki/University_of_Geneva",
             "/wiki/University_of_Geneva",
             "/wiki/University_of_Basel"
@@ -10929,7 +10903,7 @@
         ],
         "institutions": [
             "/wiki/University_at_Albany",
-            "/wiki/Columbia_University_College_of_Physicians_and_Surgeons"
+            "/wiki/Columbia_University"
         ]
     },
     "Richard Henderson %28biologist%29": {
@@ -10982,7 +10956,7 @@
         ],
         "institutions": [
             "/wiki/University_of_Texas_at_Austin",
-            "/wiki/Stanford_University_School_of_Medicine",
+            "/wiki/Stanford_University",
             "/wiki/Rockefeller_University"
         ]
     },
@@ -11012,9 +10986,9 @@
             "/wiki/University_of_Rochester"
         ],
         "institutions": [
-            "/wiki/Simon_Business_School",
-            "/wiki/Samuel_Curtis_Johnson_Graduate_School_of_Management",
-            "/wiki/Booth_School_of_Business"
+            "/wiki/University_of_Rochester",
+            "/wiki/Cornell_University",
+            "/wiki/University_of_Chicago"
         ]
     },
     "Arthur Ashkin": {
@@ -11035,11 +11009,11 @@
         "category": "Physics",
         "year": 2018,
         "alma_matters": [
-            "/wiki/Universit%C3%A9_Grenoble_Alpes",
+            "/wiki/Universite_Grenoble_Alpes",
             "/wiki/Pierre_and_Marie_Curie_University"
         ],
         "institutions": [
-            "/wiki/%C3%89cole_Polytechnique",
+            "/wiki/Ecole_Polytechnique",
             "/wiki/ENSTA_ParisTech",
             "/wiki/University_of_Rochester",
             "/wiki/University_of_Michigan",
@@ -11084,7 +11058,7 @@
         "institutions": [
             "/wiki/University_of_Missouri",
             "/wiki/Duke_University",
-            "/wiki/University_of_Wisconsin%E2%80%93Madison"
+            "/wiki/University_of_Wisconsin-Madison"
         ]
     },
     "Greg Winter": {
@@ -11109,8 +11083,7 @@
             "/wiki/University_of_Texas_at_Austin"
         ],
         "institutions": [
-            "/wiki/M._D._Anderson_Cancer_Center",
-            "/wiki/Weill_Cornell_Medicine",
+            "/wiki/Cornell_University",
             "/wiki/University_of_California,_Berkeley",
             "/wiki/University_of_California,_San_Francisco",
             "/wiki/University_of_Texas_at_Austin"
@@ -11141,7 +11114,7 @@
         "alma_matters": [
             "/wiki/University_of_Burundi",
             "/wiki/University_of_Angers",
-            "/wiki/Universit%C3%A9_libre_de_Bruxelles"
+            "/wiki/Universite_libre_de_Bruxelles"
         ],
         "institutions": []
     },
@@ -11172,12 +11145,12 @@
         "alma_matters": [
             "/wiki/University_of_Chicago",
             "/wiki/Massachusetts_Institute_of_Technology",
-            "/wiki/Queen%27s_University_at_Kingston"
+            "/wiki/Queen's_University_at_Kingston"
         ],
         "institutions": [
             "/wiki/New_York_University",
             "/wiki/Stanford_University",
-            "/wiki/UC_Berkeley",
+            "/wiki/University_of_California,_Berkeley",
             "/wiki/University_of_Chicago",
             "/wiki/University_of_Rochester"
         ]
@@ -11266,7 +11239,7 @@
             "/wiki/Duke_University"
         ],
         "institutions": [
-            "/wiki/Dana%E2%80%93Farber_Cancer_Institute",
+            "/wiki/Dana-Farber_Cancer_Institute",
             "/wiki/Harvard_University",
             "/wiki/Howard_Hughes_Medical_Institute"
         ]
@@ -11279,7 +11252,7 @@
             "/wiki/Lancaster_Royal_Grammar_School",
             "/wiki/Gonville_and_Caius_College,_Cambridge",
             "/wiki/University_of_Oxford",
-            "/wiki/St_Bartholomew%27s_Hospital_Medical_College"
+            "/wiki/St_Bartholomew's_Hospital_Medical_College"
         ],
         "institutions": [
             "/wiki/Francis_Crick_Institute",
@@ -11296,7 +11269,7 @@
             "/wiki/University_of_Pennsylvania"
         ],
         "institutions": [
-            "/wiki/Johns_Hopkins_School_of_Medicine"
+            "/wiki/Johns_Hopkins_University"
         ]
     },
     "Peter Handke": {
@@ -11339,7 +11312,7 @@
         "category": "Economics",
         "year": 2019,
         "alma_matters": [
-            "/wiki/%C3%89cole_normale_sup%C3%A9rieure_(Paris)",
+            "/wiki/Ecole_normale_superieure_%28Paris%29",
             "/wiki/School_for_Advanced_Studies_in_the_Social_Sciences",
             "/wiki/Massachusetts_Institute_of_Technology"
         ],
@@ -11367,7 +11340,7 @@
         "alma_matters": [
             "/wiki/University_College_London",
             "/wiki/BSc",
-            "/wiki/St_John%27s_College,_Cambridge"
+            "/wiki/St_John's_College,_Cambridge"
         ],
         "institutions": [
             "/wiki/Cornell_University",
@@ -11375,7 +11348,7 @@
             "/wiki/Princeton_University",
             "/wiki/Rice_University",
             "/wiki/Syracuse_University",
-            "/wiki/King%27s_College,_London",
+            "/wiki/King's_College,_London",
             "/wiki/Birkbeck,_University_of_London",
             "/wiki/Wadham_College,_Oxford",
             "/wiki/Polish_Academy_of_Sciences"
@@ -11390,7 +11363,7 @@
             "/wiki/University_of_Bonn"
         ],
         "institutions": [
-            "/wiki/Max-Planck-Institut_f%C3%BCr_extraterrestrische_Physik",
+            "/wiki/Max-Planck-Institut_fur_extraterrestrische_Physik",
             "/wiki/University_of_California,_Berkeley"
         ]
     },
@@ -11416,7 +11389,7 @@
         ],
         "institutions": [
             "/wiki/University_of_Berlin",
-            "/wiki/Ume%C3%A5_University",
+            "/wiki/Umea_University",
             "/wiki/Max_Planck_Society"
         ]
     },
@@ -11454,7 +11427,7 @@
         "year": 2020,
         "alma_matters": [
             "/wiki/University_of_East_Anglia",
-            "/wiki/King%27s_College_London"
+            "/wiki/King's_College_London"
         ],
         "institutions": [
             "/wiki/University_of_Alberta",
@@ -11470,7 +11443,7 @@
             "/wiki/California_Institute_of_Technology"
         ],
         "institutions": [
-            "/wiki/Washington_University_School_of_Medicine",
+            "/wiki/Washington_University_in_St._Louis",
             "/wiki/Rockefeller_University",
             "/wiki/Cornell_University"
         ]
@@ -11537,7 +11510,7 @@
             "/wiki/University_of_Hamburg",
             "/wiki/Diplom",
             "/wiki/Max_Planck_Society",
-            "/wiki/University_of_G%C3%B6ttingen"
+            "/wiki/University_of_Gottingen"
         ],
         "institutions": [
             "/wiki/University_of_Hamburg",
@@ -11652,7 +11625,7 @@
         "category": "Economics",
         "year": 2021,
         "alma_matters": [
-            "/wiki/Queen%27s_University_at_Kingston",
+            "/wiki/Queen's_University_at_Kingston",
             "/wiki/Princeton_University"
         ],
         "institutions": [
@@ -11690,13 +11663,13 @@
         "category": "Physics",
         "year": 2022,
         "alma_matters": [
-            "/wiki/%C3%89cole_Normale_Sup%C3%A9rieure_de_Cachan",
-            "/wiki/Universit%C3%A9_d%27Orsay"
+            "/wiki/Ecole_Normale_Superieure_de_Cachan",
+            "/wiki/Universite_d'Orsay"
         ],
         "institutions": [
-            "/wiki/%C3%89cole_sup%C3%A9rieure_d%27optique",
+            "/wiki/Ecole_superieure_d'optique",
             "/wiki/Paris-Saclay_University",
-            "/wiki/%C3%89cole_Polytechnique",
+            "/wiki/Ecole_Polytechnique",
             "/wiki/Polytechnic_Institute_of_Paris",
             "/wiki/Centre_national_de_la_recherche_scientifique",
             "/wiki/City_University_of_Hong_Kong"
@@ -11732,7 +11705,7 @@
             "/wiki/Technical_University_of_Munich",
             "/wiki/TU_Wien",
             "/wiki/Massachusetts_Institute_of_Technology",
-            "/wiki/Coll%C3%A8ge_de_France",
+            "/wiki/College_de_France",
             "/wiki/Merton_College,_Oxford"
         ]
     },
@@ -11834,7 +11807,7 @@
             "/wiki/Yale_University"
         ],
         "institutions": [
-            "/wiki/University_of_Chicago_Booth_School_of_Business"
+            "/wiki/University_of_Chicago"
         ]
     },
     "Philip H. Dybvig": {
@@ -11848,7 +11821,7 @@
         ],
         "institutions": [
             "/wiki/Princeton_University",
-            "/wiki/Olin_Business_School"
+            "/wiki/Washington_University_in_St._Louis"
         ]
     },
     "Pierre Agostini": {
@@ -11868,7 +11841,7 @@
         "category": "Physics",
         "year": 2023,
         "alma_matters": [
-            "/wiki/E%C3%B6tv%C3%B6s_Lor%C3%A1nd_University",
+            "/wiki/Eotvos_Lorand_University",
             "/wiki/TU_Wien"
         ],
         "institutions": [
@@ -11876,12 +11849,12 @@
             "/wiki/Ludwig_Maximilian_University_of_Munich"
         ]
     },
-    "Anne L%27Huillier": {
-        "link": "https://en.wikipedia.org/wiki/Anne_L%27Huillier",
+    "Anne L'Huillier": {
+        "link": "https://en.wikipedia.org/wiki/Anne_L'Huillier",
         "category": "Physics",
         "year": 2023,
         "alma_matters": [
-            "/wiki/%C3%89cole_normale_sup%C3%A9rieure_de_lettres_et_sciences_humaines",
+            "/wiki/Ecole_normale_superieure_de_lettres_et_sciences_humaines",
             "/wiki/Pierre_and_Marie_Curie_University"
         ],
         "institutions": [
@@ -11949,7 +11922,7 @@
             "/wiki/Boston_University"
         ],
         "institutions": [
-            "/wiki/Perelman_School_of_Medicine_at_the_University_of_Pennsylvania"
+            "/wiki/University_of_Pennsylvania"
         ]
     },
     "Jon Fosse": {

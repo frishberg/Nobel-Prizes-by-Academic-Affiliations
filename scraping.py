@@ -1,16 +1,31 @@
 import requests
 import json
 from unidecode import unidecode
+import html
 import urllib.parse
 from bs4 import BeautifulSoup
+
 
 exclude_list = [
     "/wiki/Bachelor_of_",
     "/wiki/Master_of_",
     "/wiki/Doctor_of_",
+    "/wiki/Dr._",
     "/wiki/PhD",
     "/wiki/Habilitation",
-    "/wiki/B._S.",
+    "/wiki/B.",
+    "/wiki/M._S.",
+    "/wiki/M.S.",
+    "/wiki/M._A.",
+    "/wiki/M.A.",
+    "/wiki/M._Phil.",
+    "/wiki/M.Phil.",
+    "/wiki/M._D.",
+    "/wiki/M.D.",
+    "/wiki/Bachelor%27s_degree",
+    "/wiki/NASA",
+    "/wiki/NIST",
+    "/wiki/BIRDEM",
 ]
 
 json_data = {}
@@ -93,7 +108,7 @@ def scrape_wiki_data(link) :
             alma_matter = temp_source[:temp_source.index('"')]
             if ("/wiki/" in alma_matter and non_exclude_list(alma_matter)) :
                 alma_matter = alma_matter
-                alma_matters.append(alma_matter)
+                alma_matters.append(clean_up(alma_matter))
     except :
         pass
     try :
@@ -104,7 +119,7 @@ def scrape_wiki_data(link) :
             alma_matter = temp_source[:temp_source.index('"')]
             if ("/wiki/" in alma_matter and non_exclude_list(alma_matter)) :
                 alma_matter = alma_matter
-                alma_matters.append(alma_matter)
+                alma_matters.append(clean_up(alma_matter))
     except :
         pass
     if (len(alma_matters) == 0) :
@@ -117,7 +132,7 @@ def scrape_wiki_data(link) :
             institution = temp_source[:temp_source.index('"')]
             if ("/wiki/" in institution and non_exclude_list(institution)) :
                 institution = institution
-                institutions.append(institution)
+                institutions.append(clean_up(institution))
     except :
         pass
     try :
@@ -128,7 +143,7 @@ def scrape_wiki_data(link) :
             institution = temp_source[:temp_source.index('"')]
             if ("/wiki/" in institution and non_exclude_list(institution)) :
                 institution = institution
-                institutions.append(institution)
+                institutions.append(clean_up(institution))
     except :
         pass
     if (len(institutions) == 0) :
@@ -142,6 +157,7 @@ def scrape_wiki_data(link) :
 def clean_up(s) :
     s = urllib.parse.unquote(s, encoding='utf-8')
     s = unidecode(s)
+    s = urllib.parse.quote(s, encoding='utf-8')
     return urllib.parse.quote(s, encoding='utf-8')
 
 def generate_list_of_universities() :
@@ -160,6 +176,61 @@ def generate_list_of_universities() :
     for university in universities :
         f.write('"' + university + '",\n')
     f.close()
+
+#goes through and looks for cases where schools are at the wrong link (ex. wiki/MIT & wiki/Massac... or wiki/Olin_Business_School vs wiki/Wash...)
+def fix_mistakes() :
+    #replacement section
+    f = open("data.json", "r", encoding="utf-8")
+    data = f.read()
+    f.close()
+
+    data = data.replace("/wiki/MIT", "/wiki/Massachusetts_Institute_of_Technology")
+    data = data.replace("/wiki/Caltech", "/wiki/California_Institute_of_Technology")
+    data = data.replace("/wiki/NYU", "/wiki/New_York_University")
+    data = data.replace("/wiki/Harvard", "/wiki/Harvard_University")
+    data = data.replace("/wiki/University_of_Chicago_Booth_School_of_Business", "/wiki/University_of_Chicago")
+    data = data.replace("/wiki/Booth_School_of_Business", "/wiki/University_of_Chicago")
+    data = data.replace("/wiki/Stanford_University_School_of_Medicine", "/wiki/Stanford_University")
+    data = data.replace("/wiki/Simon_Business_School", "/wiki/University_of_Rochester")
+    data = data.replace("/wiki/Samuel_Curtis_Johnson_Graduate_School_of_Management", "/wiki/Cornell_University")
+    data = data.replace("/wiki/Olin_Business_School", "/wiki/Washington_University_in_St._Louis")
+    data = data.replace("/wiki/Perelman_School_of_Medicine_at_the_University_of_Pennsylvania", "/wiki/University_of_Pennsylvania")
+    data = data.replace("/wiki/Columbia_Law_School", "/wiki/Columbia_University")
+    data = data.replace("/wiki/New_York_University_School_of_Law", "/wiki/New_York_University")
+    data = data.replace("/wiki/Case_Western_Reserve_University_School_of_Medicine", "/wiki/Case_Western_Reserve_University")
+    data = data.replace("/wiki/Johns_Hopkins_School_of_Medicine", "/wiki/Johns_Hopkins_University")
+    data = data.replace("/wiki/Washington_University_School_of_Medicine", "/wiki/Washington_University_in_St._Louis")
+    data = data.replace("/wiki/Harvard_Medical_School", "/wiki/Harvard_University")
+    data = data.replace("/wiki/New_York_University_School_of_Medicine", "/wiki/New_York_University")
+    data = data.replace("/wiki/University_of_Pennsylvania_School_of_Medicine", "/wiki/University_of_Pennsylvania")
+    data = data.replace("/wiki/Rady_School_of_Management", "/wiki/University_of_California,_San_Diego")
+    data = data.replace("/wiki/New_York_University_Tandon_School_of_Engineering", "/wiki/New_York_University")
+    data = data.replace("Robert_Wood_Johnson_Medical_School", "/wiki/Rutgers_University")
+    data = data.replace("/wiki/Tulane_University_School_of_Medicine", "/wiki/Tulane_University")
+    data = data.replace("/wiki/UCLA_School_of_Medicine", "/wiki/University_of_California,_Los_Angeles")
+    data = data.replace("/wiki/Tufts_University_School_of_Medicine", "/wiki/Tufts_University")
+    data = data.replace("/wiki/University_of_Massachusetts_Medical_School", "/wiki/University_of_Massachusetts")
+    data = data.replace("/wiki/Harvard_School_of_Medicine", "/wiki/Harvard_University")
+    data = data.replace("/wiki/Boston_University_School_of_Medicine", "/wiki/Boston_University")
+    data = data.replace("/wiki/Harvard_Law_School", "/wiki/Harvard_University")
+    data = data.replace("/wiki/UNC_School_of_Medicine", "/wiki/University_of_North_Carolina_at_Chapel_Hill")
+    data = data.replace("/wiki/Yale_School_of_Medicine", "/wiki/Yale_University")
+    data = data.replace("/wiki/Stanford_University_School_of_Medicine", "/wiki/Stanford_University")
+    data = data.replace("/wiki/Baylor_College_of_Medicine", "/wiki/Baylor_University")
+    data = data.replace("/wiki/University_of_Texas_Southwestern_Medical_Center", "/wiki/University_of_Texas_at_Dallas")
+    data = data.replace("/wiki/Weill_Cornell_Medicine", "/wiki/Cornell_University")
+    data = data.replace("/wiki/Columbia_University_College_of_Physicians_and_Surgeons", "/wiki/Columbia_University")
+    data = data.replace("/wiki/UCLA", "/wiki/University_of_California,_Los_Angeles")
+    data = data.replace("/wiki/UC_Berkeley", "/wiki/University_of_California,_Berkeley")
+    data = data.replace("/wiki/UC_San_Diego", "/wiki/University_of_California,_San_Diego")
+    data = data.replace("/wiki/UC_Santa_Barbara", "/wiki/University_of_California,_Santa_Barbara")
+    data = data.replace("%27", "'")
+    data = data.replace("%2C", ",")
+
+    f = open("data.json", "w", encoding="utf-8")
+    f.write(data)
+    f.close()
+
 
 #generates data.json file, with a json of all the scraped data
 def main() :
@@ -184,6 +255,7 @@ def main() :
 
 
 
-main()
-#scrape_laureates()
-#generate_list_of_universities()
+#scrape_laureates() #generates laureates.txt
+#main() #generates data.json using the laureates.txt file
+fix_mistakes()
+generate_list_of_universities() #generates universities.txt
