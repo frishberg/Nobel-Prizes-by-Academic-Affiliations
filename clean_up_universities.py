@@ -13,6 +13,9 @@ for line in f:
     else :
         s += line
 
+s+='"/wiki/ETH_Zurich"\n'
+s+='"/wiki/London_School_of_Economics"\n'
+
 f.close()
 f = open("universities.txt", "w")
 f.write(s)
