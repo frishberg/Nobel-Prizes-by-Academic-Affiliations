@@ -13186,9 +13186,16 @@
             var skeleton = document.getElementById("skeleton");
             var divNode = document.createElement("div");
             divNode.className = "listing";
-            var textNode = document.createElement("p");
-            textNode.innerHTML = rank + 1 + ". " + school_name + " (" + num_affiliates + ")";
-            divNode.appendChild(textNode);
+
+            // Apply margin or padding to create spacing between listings
+            divNode.style.marginBottom = "10px"; // Adjust the value as needed
+
+            // Create a <span> element for the school name
+            var schoolNameSpan = document.createElement("span");
+            schoolNameSpan.className = "school-name";
+            schoolNameSpan.textContent = rank + 1 + ". " + school_name + " (" + num_affiliates + ")";
+
+            divNode.appendChild(schoolNameSpan); // Append the school name span
 
             // Create an empty unordered list for laureates
             var laureateList = document.createElement("ul");
@@ -13201,17 +13208,17 @@
                 var link = document.createElement("a");
                 var category = laureate.category;
                 var year = laureate.year;
-                link.href = laureate.link; // Assuming each laureate object has a "link" property
-                link.target = "_blank"; // Open the link in a new tab
-                link.textContent = laureate.name + " (" + category + ", " + year + ")"; // Assuming each laureate object has a "name" property
+                link.href = laureate.link;
+                link.target = "_blank";
+                link.textContent = laureate.name + " (" + category + ", " + year + ")";
                 listItem.appendChild(link);
                 laureateList.appendChild(listItem);
             });
 
             divNode.appendChild(laureateList);
 
-            // Toggle the visibility of the laureate list when clicking on the university listing
-            divNode.addEventListener("click", function () {
+            // Toggle the visibility of the laureate list when clicking the school name
+            schoolNameSpan.addEventListener("click", function () {
                 if (laureateList.style.display === "none") {
                     laureateList.style.display = "block";
                 } else {
@@ -13221,6 +13228,9 @@
 
             skeleton.appendChild(divNode);
         }
+
+
+
 
 
 
@@ -13276,14 +13286,22 @@
             //sorting universities and university_affilliates arrays by the number of university affilliates
         }
 
-        //printing results to console
+        var prevRank = 0;
+        var prevScore = -1;
         function updateDisplay() {
             document.getElementById("skeleton").innerHTML = "";
             updateRankings();
             for (var i = 0; i < universities.length; i++) {
                 console.log(universities[i] + ": " + university_affilliates[i].length);
                 var laureates = university_affilliates[i]; // Assuming this array contains laureates
-                add_listing(i, universities[i], university_affilliates[i].length, laureates);
+                if (prevScore == university_affilliates[i].length) {
+                    add_listing(prevRank, universities[i], university_affilliates[i].length, laureates);
+                } else {
+                    add_listing(i, universities[i], university_affilliates[i].length, laureates);
+                    prevRank = i;
+                    prevScore = university_affilliates[i].length;
+                }
+
             }
         }
 
