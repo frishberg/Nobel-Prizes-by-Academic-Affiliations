@@ -13130,13 +13130,46 @@
             university_affilliates[index2] = temp
         }
 
-        function add_listing(rank, school_name, num_affilliates) {
-            school_name = school_name.substring(6).replaceAll("_", " ")
-            var skeleton = document.getElementById("skeleton")
-            var text_node = document.createElement("p")
-            text_node.innerHTML = rank + 1 + ". " + school_name + " (" + num_affilliates + ")"
-            skeleton.appendChild(text_node)
+        function add_listing(rank, school_name, num_affiliates, laureates) {
+    school_name = school_name.substring(6).replaceAll("_", " ");
+    var skeleton = document.getElementById("skeleton");
+    var divNode = document.createElement("div");
+    divNode.className = "listing";
+    var textNode = document.createElement("p");
+    textNode.innerHTML = rank + 1 + ". " + school_name + " (" + num_affiliates + ")";
+    divNode.appendChild(textNode);
+
+    // Create an empty unordered list for laureates
+    var laureateList = document.createElement("ul");
+    laureateList.className = "laureate-list";
+    laureateList.style.display = "none";
+
+    // Populate the laureate list
+    laureates.forEach(function (laureate) {
+        var listItem = document.createElement("li");
+        var link = document.createElement("a");
+        var category = laureate.category;
+        var year = laureate.year;
+        link.href = laureate.link; // Assuming each laureate object has a "link" property
+        link.target = "_blank"; // Open the link in a new tab
+        link.textContent = laureate.name + " (" + category + ", " + year + ")"; // Assuming each laureate object has a "name" property
+        listItem.appendChild(link);
+        laureateList.appendChild(listItem);
+    });
+
+    divNode.appendChild(laureateList);
+
+    // Toggle the visibility of the laureate list when clicking on the university listing
+    divNode.addEventListener("click", function () {
+        if (laureateList.style.display === "none") {
+            laureateList.style.display = "block";
+        } else {
+            laureateList.style.display = "none";
         }
+    });
+
+    skeleton.appendChild(divNode);
+}
 
 
 
@@ -13188,13 +13221,14 @@
 
         //printing results to console
         function updateDisplay() {
-            document.getElementById("skeleton").innerHTML = ""
-            updateRankings()
-            for (var i = 0; i < universities.length; i++) {
-                console.log(universities[i] + ": " + university_affilliates[i].length)
-                add_listing(i, universities[i], university_affilliates[i].length)
-            }
-        }
+    document.getElementById("skeleton").innerHTML = "";
+    updateRankings();
+    for (var i = 0; i < universities.length; i++) {
+        console.log(universities[i] + ": " + university_affilliates[i].length);
+        var laureates = university_affilliates[i]; // Assuming this array contains laureates
+        add_listing(i, universities[i], university_affilliates[i].length, laureates);
+    }
+}
 
         function updatePreferences() {
             start_year = document.getElementById("start_year").value
