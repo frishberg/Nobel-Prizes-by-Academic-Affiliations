@@ -184,6 +184,6 @@ def main() :
 
 
 
-#main()
+main()
 #scrape_laureates()
-generate_list_of_universities()
+#generate_list_of_universities()
