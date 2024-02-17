@@ -184,10 +184,11 @@ def fix_mistakes() :
     data = f.read()
     f.close()
 
+    #edits
     data = data.replace("/wiki/MIT", "/wiki/Massachusetts_Institute_of_Technology")
     data = data.replace("/wiki/Caltech", "/wiki/California_Institute_of_Technology")
     data = data.replace("/wiki/NYU", "/wiki/New_York_University")
-    data = data.replace("/wiki/Harvard", "/wiki/Harvard_University")
+    data = data.replace('"/wiki/Harvard"\n', '"/wiki/Harvard_University"\n')
     data = data.replace("/wiki/University_of_Chicago_Booth_School_of_Business", "/wiki/University_of_Chicago")
     data = data.replace("/wiki/Booth_School_of_Business", "/wiki/University_of_Chicago")
     data = data.replace("/wiki/Stanford_University_School_of_Medicine", "/wiki/Stanford_University")
@@ -213,6 +214,7 @@ def fix_mistakes() :
     data = data.replace("/wiki/Harvard_School_of_Medicine", "/wiki/Harvard_University")
     data = data.replace("/wiki/Boston_University_School_of_Medicine", "/wiki/Boston_University")
     data = data.replace("/wiki/Harvard_Law_School", "/wiki/Harvard_University")
+    data = data.replace("/wiki/Harvard_University_Law_School", "/wiki/Harvard_University")
     data = data.replace("/wiki/UNC_School_of_Medicine", "/wiki/University_of_North_Carolina_at_Chapel_Hill")
     data = data.replace("/wiki/Yale_School_of_Medicine", "/wiki/Yale_University")
     data = data.replace("/wiki/Stanford_University_School_of_Medicine", "/wiki/Stanford_University")
@@ -224,8 +226,21 @@ def fix_mistakes() :
     data = data.replace("/wiki/UC_Berkeley", "/wiki/University_of_California,_Berkeley")
     data = data.replace("/wiki/UC_San_Diego", "/wiki/University_of_California,_San_Diego")
     data = data.replace("/wiki/UC_Santa_Barbara", "/wiki/University_of_California,_Santa_Barbara")
+    data = data.replace("/wiki/Gottingen_University", "/wiki/University_of_Gottingen")
+    data = data.replace("/wiki/Georg_August_University_of_Gottingen", "/wiki/University_of_Gottingen")
+    data = data.replace("/wiki/The_Rockefeller_University", "/wiki/Rockefeller_University")
+    data = data.replace("/wiki/University_of_California_at_Berkeley", "/wiki/University_of_California,_Berkeley")
+    data = data.replace("/wiki/University_of_Illinois_at_Urbana-Champaign", "/wiki/University_of_Illinois_Urbana-Champaign")
+    data = data.replace("/wiki/University_of_Leiden", "/wiki/Leiden_University")
+    data = data.replace("/wiki/University_of_Wisconsin,_Madison", "/wiki/University_of_Wisconsin-Madison")
+    data = data.replace("/wiki/University_of_Colorado_at_Boulder", "/wiki/University_of_Colorado_Boulder")
+    data = data.replace("/wiki/King's_College,_London", "/wiki/King's_College_London")
+    #edits
+
     data = data.replace("%27", "'")
     data = data.replace("%2C", ",")
+    data = data.replace("%252C", ",")
+    data = data.replace("%2527", "'")
 
     f = open("data.json", "w", encoding="utf-8")
     f.write(data)
