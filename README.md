@@ -20,7 +20,7 @@ The dataset is available for educational, research, and informational purposes. 
 
 ## Contribution Guidelines
 
-While the dataset is provided as a finalized resource, suggestions for additions or corrections are welcome. If you have verified information that could refine or expand the dataset, please shoot me an email at [frishberg@uchicago.edu].
+While the dataset is provided as a finalized resource, suggestions for additions or corrections are welcome. If you have verified information that could refine or expand the dataset, please shoot me an email at frishberg@uchicago.edu.
 
 ## Acknowledgments
 
@@ -30,4 +30,4 @@ While the dataset is provided as a finalized resource, suggestions for additions
 
 ## Contact Information
 
-For inquiries, suggestions, or further discussion related to the dataset, feel free to send me an email at [frishberg@uchicago.edu].
+For inquiries, suggestions, or further discussion related to the dataset, feel free to send me an email at frishberg@uchicago.edu.
