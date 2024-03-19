@@ -10,11 +10,9 @@ The dataset provides a comprehensive view of the affiliations of Nobel laureates
 
 ## Data Collection
 
-In order to collect this data, I created a script that scrapes all Nobel Laureates from the Wikipedia list, and then goes to each laureate's wikipedia page to scrape both their alma matters (Bachelors, Masters, PhD) and institutions (colleges where they've worked).  This data is extracted from the "info-box" at the top right of each page, as this box includes only their significant affiliations, rather than places where they might have taught for a couple years.  Because of the extremely high accuracy of Wikipedia, this data is extremely accurate, but there are a few small errors.  One example is the University of Chicago, which officially reports to having 99 laureates, only has 95 in this data set.  One example is Barack Obama, who taught at UChicago for 13 years, however the "Presidential info-box" element does not support academic affiliations so this is not counted in the dataset.  There are small issues like this, but it's important to note that this only happens in special cases and that it only undercounts.
+In order to collect this data, I created a script that scrapes all Nobel Laureates from the Wikipedia list, and then goes to each laureate's wikipedia page to scrape both their alma matters (Bachelors, Masters, PhD) and institutions (colleges where they've worked).  This data is extracted from the "info-box" at the top right of each page, as this box includes only their significant affiliations, rather than places where they might have taught for a couple years.
 
-## Background
-
-The project began with an interest in the distribution of Nobel laureates among academic institutions globally. Without a specific focus on any single university, it broadens the perspective to include a variety of institutions, highlighting the widespread nature of academic excellence.
+Because of the extremely high accuracy of Wikipedia, this data is extremely accurate, but there are a few small errors.  One example is the University of Chicago, which officially reports to having 99 laureates, only has 95 in this data set.  One example is Barack Obama, who taught at UChicago for 13 years, however the "Presidential info-box" element does not support academic affiliations so this is not counted in the dataset.  There are small issues like this, but it's important to note that this only happens in special cases and that it only undercounts.
 
 ## Using This Dataset
 
