@@ -235,6 +235,7 @@ def fix_mistakes() :
     data = data.replace("/wiki/University_of_Wisconsin,_Madison", "/wiki/University_of_Wisconsin-Madison")
     data = data.replace("/wiki/University_of_Colorado_at_Boulder", "/wiki/University_of_Colorado_Boulder")
     data = data.replace("/wiki/King's_College,_London", "/wiki/King's_College_London")
+    data = data.replace("/wiki/Indiana_University,_Bloomington", "/wiki/Indiana_University_Bloomington")
     #edits
 
     data = data.replace("%27", "'")
