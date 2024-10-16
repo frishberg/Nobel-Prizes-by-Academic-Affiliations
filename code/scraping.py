@@ -55,7 +55,7 @@ def scrape_laureates() :
     rows = soup.find_all('tr')
     for row in rows :
         try :
-            year = str(row.find('td'))
+            year = str(row.find('th'))
             year = year[year.index('>')+1:]
             year = int(year[:year.index('<')-1])
             n = -1 #keeping track of the column number in this row so that category can be determined (ex. 0 is physics).  It also has to start at -1 because the first column is the year
@@ -71,12 +71,12 @@ def scrape_laureates() :
         except :
             pass
         
-        f = open("laureates.txt", "w", encoding="utf-8")
+        f = open("code/laureates.txt", "w", encoding="utf-8")
         f.write(s)
         f.close()
 
     
-    f = open("laureates.txt", "w", encoding="utf-8")
+    f = open("code/laureates.txt", "w", encoding="utf-8")
     f.write(s)
     f.close()
 
@@ -172,7 +172,7 @@ def generate_list_of_universities() :
         for institution in data[name]["institutions"] :
             if institution not in universities :
                 universities.append(institution)
-    f = open("universities.txt", "w", encoding="utf-8")
+    f = open("code/universities.txt", "w", encoding="utf-8")
     for university in universities :
         f.write('"' + university + '",\n')
     f.close()
@@ -251,7 +251,7 @@ def fix_mistakes() :
 #generates data.json file, with a json of all the scraped data
 def main() :
     #scrape_laureates() #retrieves all the wikipedia links of the laureates and saves them to "laureates.txt"
-    f = open("laureates.txt", "r", encoding="utf-8")
+    f = open("code/laureates.txt", "r", encoding="utf-8")
     for link in f.readlines() :
         category, year = link[link.rindex("(")+1:link.rindex(")")].split(" ")
         link = link[:link.rindex("(")].strip() #getting rid of the category and year (ex. /wiki/Wilhelm_R%C3%B6ntgen (Chemistry 1901) -> /wiki/Wilhelm_R%C3%B6ntgen)
@@ -271,7 +271,7 @@ def main() :
 
 
 
-#scrape_laureates() #generates laureates.txt
-#main() #generates data.json using the laureates.txt file
+scrape_laureates() #generates laureates.txt
+main() #generates data.json using the laureates.txt file
 fix_mistakes()
 generate_list_of_universities() #generates universities.txt
