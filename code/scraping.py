@@ -58,7 +58,7 @@ def scrape_laureates() :
             year = str(row.find('th'))
             year = year[year.index('>')+1:]
             year = int(year[:year.index('<')-1])
-            n = -1 #keeping track of the column number in this row so that category can be determined (ex. 0 is physics).  It also has to start at -1 because the first column is the year
+            n = 0 #keeping track of the column number in this row so that category can be determined (ex. 0 is physics).  It also has to start at -1 because the first column is the year
 
             for square in row.find_all('td') :
                 category = categories[n]
