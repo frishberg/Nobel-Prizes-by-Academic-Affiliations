@@ -1,32 +1,12 @@
 import requests
 import json
 from unidecode import unidecode
-import html
 import urllib.parse
 from bs4 import BeautifulSoup
 
-
-exclude_list = [
-    "/wiki/Bachelor_of_",
-    "/wiki/Master_of_",
-    "/wiki/Doctor_of_",
-    "/wiki/Dr._",
-    "/wiki/PhD",
-    "/wiki/Habilitation",
-    "/wiki/B.",
-    "/wiki/M._S.",
-    "/wiki/M.S.",
-    "/wiki/M._A.",
-    "/wiki/M.A.",
-    "/wiki/M._Phil.",
-    "/wiki/M.Phil.",
-    "/wiki/M._D.",
-    "/wiki/M.D.",
-    "/wiki/Bachelor%27s_degree",
-    "/wiki/NASA",
-    "/wiki/NIST",
-    "/wiki/BIRDEM",
-]
+f = open("code/exclude_list.txt", "r")
+exclude_list = f.read().splitlines()
+f.close()
 
 json_data = {}
 
@@ -108,7 +88,8 @@ def scrape_wiki_data(link) :
             alma_matter = temp_source[:temp_source.index('"')]
             if ("/wiki/" in alma_matter and non_exclude_list(alma_matter)) :
                 alma_matter = alma_matter
-                alma_matters.append(clean_up(alma_matter))
+                if (alma_matter not in alma_matters) :
+                    alma_matters.append(clean_up(alma_matter))
     except :
         pass
     try :
@@ -119,7 +100,8 @@ def scrape_wiki_data(link) :
             alma_matter = temp_source[:temp_source.index('"')]
             if ("/wiki/" in alma_matter and non_exclude_list(alma_matter)) :
                 alma_matter = alma_matter
-                alma_matters.append(clean_up(alma_matter))
+                if (alma_matter not in alma_matters) :
+                    alma_matters.append(clean_up(alma_matter))
     except :
         pass
     if (len(alma_matters) == 0) :
@@ -132,7 +114,8 @@ def scrape_wiki_data(link) :
             institution = temp_source[:temp_source.index('"')]
             if ("/wiki/" in institution and non_exclude_list(institution)) :
                 institution = institution
-                institutions.append(clean_up(institution))
+                if (institution not in institutions) :
+                    institutions.append(clean_up(institution))
     except :
         pass
     try :
@@ -143,7 +126,8 @@ def scrape_wiki_data(link) :
             institution = temp_source[:temp_source.index('"')]
             if ("/wiki/" in institution and non_exclude_list(institution)) :
                 institution = institution
-                institutions.append(clean_up(institution))
+                if (institution not in institutions) :
+                    institutions.append(clean_up(institution))
     except :
         pass
     if (len(institutions) == 0) :
@@ -188,7 +172,7 @@ def fix_mistakes() :
     data = data.replace("/wiki/MIT", "/wiki/Massachusetts_Institute_of_Technology")
     data = data.replace("/wiki/Caltech", "/wiki/California_Institute_of_Technology")
     data = data.replace("/wiki/NYU", "/wiki/New_York_University")
-    data = data.replace('"/wiki/Harvard"\n', '"/wiki/Harvard_University"\n')
+    data = data.replace('"/wiki/Harvard"', '"/wiki/Harvard_University"')
     data = data.replace("/wiki/University_of_Chicago_Booth_School_of_Business", "/wiki/University_of_Chicago")
     data = data.replace("/wiki/Booth_School_of_Business", "/wiki/University_of_Chicago")
     data = data.replace("/wiki/Stanford_University_School_of_Medicine", "/wiki/Stanford_University")
@@ -236,12 +220,70 @@ def fix_mistakes() :
     data = data.replace("/wiki/University_of_Colorado_at_Boulder", "/wiki/University_of_Colorado_Boulder")
     data = data.replace("/wiki/King's_College,_London", "/wiki/King's_College_London")
     data = data.replace("/wiki/Indiana_University,_Bloomington", "/wiki/Indiana_University_Bloomington")
+    data = data.replace("/wiki/Trinity_College,_Cambridge", "/wiki/University_of_Cambridge")
+    data = data.replace("/wiki/Gonville_and_Caius_College,_Cambridge", "/wiki/University_of_Cambridge")
+    data = data.replace("/wiki/King's_College,_Cambridge", "/wiki/University_of_Cambridge")
+    data = data.replace("/St_John's_College,_Cambridge", "/wiki/University_of_Cambridge")
+    data = data.replace("/wiki/Peterhouse,_Cambridge", "/wiki/University_of_Cambridge")
+    data = data.replace("/wiki/Corpus_Christi_College,_Cambridge", "/wiki/University_of_Cambridge")
+    data = data.replace("/wiki/Fitzwilliam_College,_Cambridge", "/wiki/University_of_Cambridge")
+    data = data.replace("/wiki/Churchill_College,_Cambridge", "/wiki/University_of_Cambridge")
+    data = data.replace("/wiki/Sidney_Sussex_College,_Cambridge", "/wiki/University_of_Cambridge")
+    data = data.replace("/wiki/St_John's_College,_Cambridge", "/wiki/University_of_Cambridge")
+    data = data.replace("/wiki/Emmanuel_College,_Cambridge", "/wiki/University_of_Cambridge")
+    data = data.replace("/wiki/Clare_Hall,_Cambridge", "/wiki/University_of_Cambridge")
+    data = data.replace("/wiki/Cambridge_University", "/wiki/University_of_Cambridge")
+    data = data.replace("/wiki/St._John's_College,_Cambridge", "/wiki/University_of_Cambridge")
+    data = data.replace("/wiki/All_Souls_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Balliol_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Brasenose_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Christ_Church,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Corpus_Christi_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Exeter_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Green_Templeton_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Harris_Manchester_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Hertford_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Jesus_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Keble_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Kellogg_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Lady_Margaret_Hall,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Linacre_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Lincoln_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Magdalen_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Magdalen_College_School,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Mansfield_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Merton_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/New_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Nuffield_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Oriel_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Pembroke_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/The_Queen's_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Reuben_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/St_Anne's_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/St_Antony's_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/St_Catherine's_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/St_Cross_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/St_Edmund_Hall,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/St_Hilda's_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/St_Hugh's_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/St_John's_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/St_Peter's_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Somerville_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Trinity_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/University_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Wadham_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Wolfson_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Worcester_College,_Oxford", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/Oxford_University", "/wiki/University_of_Oxford")
+    data = data.replace("/wiki/wiki/", "/wiki/")
     #edits
 
     data = data.replace("%27", "'")
     data = data.replace("%2C", ",")
     data = data.replace("%252C", ",")
     data = data.replace("%2527", "'")
+    data = data.replace("%2529", ")")
+    data = data.replace("%2528", "(")
 
     f = open("data.json", "w", encoding="utf-8")
     f.write(data)
@@ -271,7 +313,7 @@ def main() :
 
 
 
-scrape_laureates() #generates laureates.txt
-main() #generates data.json using the laureates.txt file
+#scrape_laureates() #generates laureates.txt
+#main() #generates data.json using the laureates.txt file
 fix_mistakes()
 generate_list_of_universities() #generates universities.txt
